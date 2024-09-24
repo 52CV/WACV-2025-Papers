@@ -18,7 +18,10 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 9月5日更新 3 篇，共计 3 篇。
+## 9月24日更新 2 篇，共计 5 篇。
+
+## Vision-Language
+* [@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology](https://arxiv.org/abs/2409.14215)<br>:star:[code](https://github.com/jystin/ATBench)<br>:house:[project](https://junweizheng93.github.io/publications/ATBench/ATBench.html)
 
 # Machine Learning(机器学习)
 * 对比学习
@@ -30,7 +33,8 @@
   * [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://arxiv.org/abs/2409.02720)
 
 
-
+## Othere(其它)
+* [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
 
 
 <a name="0"/>
