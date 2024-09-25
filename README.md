@@ -18,7 +18,10 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 9月24日更新 2 篇，共计 5 篇。
+## 9月25日更新 1 篇，共计 6 篇。
+
+## 虚拟头像
+* [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities](https://arxiv.org/abs/2409.16147)
 
 ## Vision-Language
 * [@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology](https://arxiv.org/abs/2409.14215)<br>:star:[code](https://github.com/jystin/ATBench)<br>:house:[project](https://junweizheng93.github.io/publications/ATBench/ATBench.html)
