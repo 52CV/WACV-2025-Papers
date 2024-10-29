@@ -18,7 +18,7 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 9月25日更新 1 篇，共计 6 篇。
+## 10月29日更新 2 篇，共计 8 篇。
 
 ## 虚拟头像
 * [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities](https://arxiv.org/abs/2409.16147)
@@ -35,6 +35,11 @@
 * 深度估计
   * [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://arxiv.org/abs/2409.02720)
 
+## Human Pose Estimation
+* 人体运动恢复
+  * [RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior](https://arxiv.org/abs/2410.20358)
+* 手势生成
+  * [Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audios](https://arxiv.org/abs/2410.20359)
 
 ## Othere(其它)
 * [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
