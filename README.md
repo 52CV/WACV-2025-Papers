@@ -18,12 +18,28 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 10月29日更新 2 篇，共计 8 篇。
+## 10月30日更新 12 篇，共计 8+12 篇。
+* [Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier](http://arxiv.org/abs/2410.22317v1)<br>:star:[code](https://github.com/wangkai930418/mc_ti)
+* [PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement](http://arxiv.org/abs/2410.22059v1)
+* [Active Event Alignment for Monocular Distance Estimation](http://arxiv.org/abs/2410.22280v1)
+* [Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets](http://arxiv.org/abs/2410.22184v1)<br>:star:[code](https://github.com/AdrianIordache/MLFD)
+* [Self-Relaxed Joint Training: Sample Selection for Severity Estimation with Ordinal Noisy Labels](http://arxiv.org/abs/2410.21885v1)<br>:star:[code](https://github.com/shumpei-takezaki/Self-Relaxed-Joint-Training)
+* [EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](http://arxiv.org/abs/2410.21743v1)<br>:star:[code](https://github.com/ZhonghuaYi/EI-Nexus_official)
+* [Active Learning for Vision-Language Models](http://arxiv.org/abs/2410.22187v1)
+* [ReMix: Training Generalized Person Re-identification on a Mixture of Data](http://arxiv.org/abs/2410.21938v1)
+* [Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images](http://arxiv.org/abs/2410.21826v1)<br>:star:[code](https://github.com/Ahn-Ssu/VCM)
+* [PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices](http://arxiv.org/abs/2410.21822v1)<br>:star:[code](https://github.com/mkang315/PK-YOLO)
+* [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
+* [CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach](http://arxiv.org/abs/2410.21932v1)<br>:star:[code](https://github.com/thanhhff/CPDM)
+
+## Dataset/Benchmark(数据集/基准)
+* [CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach](http://arxiv.org/abs/2410.21932v1)<br>:star:[code](https://github.com/thanhhff/CPDM)
 
 ## 虚拟头像
 * [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities](https://arxiv.org/abs/2409.16147)
 
 ## Vision-Language
+* [Active Learning for Vision-Language Models](http://arxiv.org/abs/2410.22187v1)
 * [@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology](https://arxiv.org/abs/2409.14215)<br>:star:[code](https://github.com/jystin/ATBench)<br>:house:[project](https://junweizheng93.github.io/publications/ATBench/ATBench.html)
 
 # Machine Learning(机器学习)
@@ -35,14 +51,30 @@
 * 深度估计
   * [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://arxiv.org/abs/2409.02720)
 
+## Person Re-id
+* [ReMix: Training Generalized Person Re-identification on a Mixture of Data](http://arxiv.org/abs/2410.21938v1)
+
 ## Human Pose Estimation
 * 人体运动恢复
   * [RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior](https://arxiv.org/abs/2410.20358)
 * 手势生成
   * [Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audios](https://arxiv.org/abs/2410.20359)
 
+## Medical Image Progress(医学影响处理)
+* [PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices](http://arxiv.org/abs/2410.21822v1)<br>:star:[code](https://github.com/mkang315/PK-YOLO)
+* [Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images](http://arxiv.org/abs/2410.21826v1)<br>:star:[code](https://github.com/Ahn-Ssu/VCM)
+
+## Video Retrieval
+* [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
+
 ## Othere(其它)
 * [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
+* [Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier](http://arxiv.org/abs/2410.22317v1)<br>:star:[code](https://github.com/wangkai930418/mc_ti)
+* [PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement](http://arxiv.org/abs/2410.22059v1)
+* [Active Event Alignment for Monocular Distance Estimation](http://arxiv.org/abs/2410.22280v1)
+* [Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets](http://arxiv.org/abs/2410.22184v1)<br>:star:[code](https://github.com/AdrianIordache/MLFD)
+* [Self-Relaxed Joint Training: Sample Selection for Severity Estimation with Ordinal Noisy Labels](http://arxiv.org/abs/2410.21885v1)<br>:star:[code](https://github.com/shumpei-takezaki/Self-Relaxed-Joint-Training)
+* [EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](http://arxiv.org/abs/2410.21743v1)<br>:star:[code](https://github.com/ZhonghuaYi/EI-Nexus_official)
 
 
 <a name="0"/>
