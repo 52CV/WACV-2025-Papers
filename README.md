@@ -18,15 +18,11 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 10月30日更新 8 篇，共计 20+8 篇。
-* [HEX: Hierarchical Emergence Exploitation in Self-Supervised Algorithms](http://arxiv.org/abs/2410.23200v1)
-* [Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation](http://arxiv.org/abs/2410.23191v1)
-* [S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving](http://arxiv.org/abs/2410.23085v1)
-* [High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer](http://arxiv.org/abs/2410.22922v1)
-* [Situational Scene Graph for Structured Human-centric Situation Understanding](http://arxiv.org/abs/2410.22829v1)
-* [PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation](http://arxiv.org/abs/2410.22623v1)
-* [Compositional Segmentation of Cardiac Images Leveraging Metadata](http://arxiv.org/abs/2410.23130v1)<br>:star:[code](https://github.com/kabbas570/CompSeg-MetaData)
-* [DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET](https://arxiv.org/abs/2410.23219)
+## 11月1日更新 4 篇，共计 28+4 篇。
+* [COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes](http://arxiv.org/abs/2410.24139v1)
+* [DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination](http://arxiv.org/abs/2410.24006v1)
+* [TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes](http://arxiv.org/abs/2410.23409v1)<br>:star:[code](https://github.com/phuselab/tppgaze)
+* [MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction](http://arxiv.org/abs/2410.23577v1)<br>:star:[code](https://github.com/Z7Gao/MSGlance)
 
 
 ## Dataset/Benchmark(数据集/基准)
@@ -75,6 +71,11 @@
 ## Video Retrieval
 * [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
 
+
+## Image Segmentation(图像分割)
+* 语义分割
+  * [COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes](http://arxiv.org/abs/2410.24139v1)
+
 ## Othere(其它)
 * [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
 * [Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier](http://arxiv.org/abs/2410.22317v1)<br>:star:[code](https://github.com/wangkai930418/mc_ti)
@@ -86,6 +87,9 @@
 * [High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer](http://arxiv.org/abs/2410.22922v1)
 * [Situational Scene Graph for Structured Human-centric Situation Understanding](http://arxiv.org/abs/2410.22829v1)
 * [Compositional Segmentation of Cardiac Images Leveraging Metadata](http://arxiv.org/abs/2410.23130v1)<br>:star:[code](https://github.com/kabbas570/CompSeg-MetaData)
+* [DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination](http://arxiv.org/abs/2410.24006v1)
+* [TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes](http://arxiv.org/abs/2410.23409v1)<br>:star:[code](https://github.com/phuselab/tppgaze)
+* [MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction](http://arxiv.org/abs/2410.23577v1)<br>:star:[code](https://github.com/Z7Gao/MSGlance)
 
 <a name="0"/>
 
