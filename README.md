@@ -18,11 +18,11 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月1日更新 4 篇，共计 28+4 篇。
-* [COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes](http://arxiv.org/abs/2410.24139v1)
-* [DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination](http://arxiv.org/abs/2410.24006v1)
-* [TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes](http://arxiv.org/abs/2410.23409v1)<br>:star:[code](https://github.com/phuselab/tppgaze)
-* [MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction](http://arxiv.org/abs/2410.23577v1)<br>:star:[code](https://github.com/Z7Gao/MSGlance)
+## 11月4日更新 4 篇，共计 32+4 篇。
+* [Debiasify: Self-Distillation for Unsupervised Bias Mitigation](http://arxiv.org/abs/2411.00711v1)
+* [TaxaBind: A Unified Embedding Space for Ecological Applications](http://arxiv.org/abs/2411.00683v1)<br>:star:[code](https://github.com/mvrl/TaxaBind)
+* [Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications](http://arxiv.org/abs/2411.00652v1)<br>:star:[code](https://hahminlew.github.io/changer)
+* [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
 
 
 ## Dataset/Benchmark(数据集/基准)
@@ -75,6 +75,8 @@
 ## Image Segmentation(图像分割)
 * 语义分割
   * [COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes](http://arxiv.org/abs/2410.24139v1)
+* VSS
+  * [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
 
 ## Othere(其它)
 * [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
@@ -90,6 +92,9 @@
 * [DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination](http://arxiv.org/abs/2410.24006v1)
 * [TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes](http://arxiv.org/abs/2410.23409v1)<br>:star:[code](https://github.com/phuselab/tppgaze)
 * [MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction](http://arxiv.org/abs/2410.23577v1)<br>:star:[code](https://github.com/Z7Gao/MSGlance)
+* [Debiasify: Self-Distillation for Unsupervised Bias Mitigation](http://arxiv.org/abs/2411.00711v1)
+* [TaxaBind: A Unified Embedding Space for Ecological Applications](http://arxiv.org/abs/2411.00683v1)<br>:star:[code](https://github.com/mvrl/TaxaBind)
+* [Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications](http://arxiv.org/abs/2411.00652v1)<br>:star:[code](https://hahminlew.github.io/changer)
 
 <a name="0"/>
 
