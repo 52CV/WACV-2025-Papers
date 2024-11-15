@@ -18,32 +18,8 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月13日更新 25 篇，共计 36+25 篇。
-* [DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID](http://arxiv.org/abs/2411.07205v1)<br>:star:[code](https://github.com/CroitoruAlin/dlcr)
-* [Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection](http://arxiv.org/abs/2411.07167v1)
-* [Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration](http://arxiv.org/abs/2411.06456v1)
-* [Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field](http://arxiv.org/abs/2411.06365v1)
-* [SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM](http://arxiv.org/abs/2411.06318v1)<br>:star:[code](https://github.com/ChrisChen1023/SEM-Net)
-* [SPACE: SPAtial-aware Consistency rEgularization for anomaly detection in Industrial applications](http://arxiv.org/abs/2411.05822v1)
-* [UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors](http://arxiv.org/abs/2411.05886v1)
-* [To Ask or Not to Ask? Detecting Absence of Information in Vision and Language Navigation](http://arxiv.org/abs/2411.05831v1)
-* [GazeSearch: Radiology Findings Search Benchmark](http://arxiv.org/abs/2411.05780v1)
-* [Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition](http://arxiv.org/abs/2411.05692v1)
-* [Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation](http://arxiv.org/abs/2411.05663v1)<br>:star:[code](https://github.com/Christina200/Online-LoRA-official.git)
-* [SynDroneVision: A Synthetic Dataset for Image-Based Drone Detection](http://arxiv.org/abs/2411.05633v1)
-* [Enhancing Visual Classification using Comparative Descriptors](http://arxiv.org/abs/2411.05357v1)
-* [Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms](http://arxiv.org/abs/2411.05223v1)<br>:star:[code](https://github.com/ratschlab/ICMSeg)
-* [ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset](http://arxiv.org/abs/2411.04865v1)
-* [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
-* [Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](http://arxiv.org/abs/2411.04714v1)
-* [HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images](http://arxiv.org/abs/2411.04332v1)
-* [PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing](http://arxiv.org/abs/2411.04249v1)<br>:star:[code](https://github.com/sidsunny/pocoloco)
-* [Exploring the Stability Gap in Continual Learning: The Role of the Classification Head](http://arxiv.org/abs/2411.04723v1)
-* [AMNCutter: Affinity-Attention-Guided Multi-View Normalized Cutter for Unsupervised Surgical Instrument Segmentation](http://arxiv.org/abs/2411.03695v1)<br>:star:[code](https://github.com/MingyuShengSMY/AMNCutter)
-* [Fine-Grained Spatial and Verbal Losses for 3D Visual Grounding](http://arxiv.org/abs/2411.03405v1)
-* [Divergent Domains, Convergent Grading: Enhancing Generalization in Diabetic Retinopathy Grading](http://arxiv.org/abs/2411.02614v1)<br>:star:[code](https://github.com/sharonchokuwa/dg-adr)
-* [HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning](http://arxiv.org/abs/2411.01408v1)<br>:star:[code](https://github.com/adasfag/HeightMapNet/)
-* [Covariance-based Space Regularization for Few-shot Class Incremental Learning](http://arxiv.org/abs/2411.01172v1)
+## 11月14日更新 1 篇，共计 61+1 篇。
+* [Retrieval Augmented Recipe Generation](http://arxiv.org/abs/2411.08715v1)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -84,11 +60,18 @@
 * 对比学习
   * [MOOSS: Mask-Enhanced Temporal Contrastive Learning for Smooth State Evolution in Visual Reinforcement Learning](https://arxiv.org/abs/2409.02714)
 
+
+## GAN/Image Synthesis(图像生成)
+* 食谱生成
+  * [Retrieval Augmented Recipe Generation](http://arxiv.org/abs/2411.08715v1)
+
 # 3D(三维重建\三维视觉)
 * [LIPIDS: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo](https://arxiv.org/abs/2409.02716)
 * 深度估计
   * [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://arxiv.org/abs/2409.02720)
   * [Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](http://arxiv.org/abs/2411.04714v1)
+
+
 
 ## Point Cloud(点云)
 * [PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing](http://arxiv.org/abs/2411.04249v1)<br>:star:[code](https://github.com/sidsunny/pocoloco)
