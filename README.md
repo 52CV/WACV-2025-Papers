@@ -18,14 +18,17 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月14日更新 1 篇，共计 61+1 篇。
-* [Retrieval Augmented Recipe Generation](http://arxiv.org/abs/2411.08715v1)
+## 11月15日更新 3 篇，共计 62+3 篇。
+* [Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination](http://arxiv.org/abs/2411.09558v1)
+* [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
+* [ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening](http://arxiv.org/abs/2411.09435v1)<br>:star:[code](https://hojunjang17.github.io/ReMP)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
 
 ## Anomaly Detection(异常检测)
 * [SPACE: SPAtial-aware Consistency rEgularization for anomaly detection in Industrial applications](http://arxiv.org/abs/2411.05822v1)
+* [Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination](http://arxiv.org/abs/2411.09558v1)
 
 ## Dataset/Benchmark(数据集/基准)
 * [CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach](http://arxiv.org/abs/2410.21932v1)<br>:star:[code](https://github.com/thanhhff/CPDM)
@@ -88,6 +91,8 @@
   * [Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition](http://arxiv.org/abs/2411.05692v1)
 
 ## Human Pose Estimation
+* 三维姿态估计
+  * [ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening](http://arxiv.org/abs/2411.09435v1)<br>:star:[code](https://hojunjang17.github.io/ReMP)
 * 人体运动恢复
   * [RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior](https://arxiv.org/abs/2410.20358)
 * 手势生成
@@ -105,6 +110,9 @@
 
 ## Autonomous Driving(自动驾驶)
 * [S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving](http://arxiv.org/abs/2410.23085v1)
+
+## Object Tracking(目标跟踪)
+* [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
 
 ## Video Retrieval
 * [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
