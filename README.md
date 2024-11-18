@@ -18,10 +18,9 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月15日更新 3 篇，共计 62+3 篇。
-* [Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination](http://arxiv.org/abs/2411.09558v1)
-* [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
-* [ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening](http://arxiv.org/abs/2411.09435v1)<br>:star:[code](https://hojunjang17.github.io/ReMP)
+## 11月18日更新 2 篇，共计 65+2 篇。
+* [STLight: a Fully Convolutional Approach for Efficient Predictive Learning by Spatio-Temporal joint Processing](http://arxiv.org/abs/2411.10198v1)
+* [Efficient Progressive Image Compression with Variance-aware Masking](http://arxiv.org/abs/2411.10185v1)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -117,6 +116,9 @@
 ## Video Retrieval
 * [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
 
+## Image/video Compression(图像/视频压缩)
+* [Efficient Progressive Image Compression with Variance-aware Masking](http://arxiv.org/abs/2411.10185v1)
+
 ## Image Classification(图像分类)
 * [Enhancing Visual Classification using Comparative Descriptors](http://arxiv.org/abs/2411.05357v1)
 
@@ -159,6 +161,7 @@
 * [HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images](http://arxiv.org/abs/2411.04332v1)
 * [Divergent Domains, Convergent Grading: Enhancing Generalization in Diabetic Retinopathy Grading](http://arxiv.org/abs/2411.02614v1)<br>:star:[code](https://github.com/sharonchokuwa/dg-adr)
 * [HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning](http://arxiv.org/abs/2411.01408v1)<br>:star:[code](https://github.com/adasfag/HeightMapNet/)
+* [STLight: a Fully Convolutional Approach for Efficient Predictive Learning by Spatio-Temporal joint Processing](http://arxiv.org/abs/2411.10198v1)
 
 <a name="0"/>
 
