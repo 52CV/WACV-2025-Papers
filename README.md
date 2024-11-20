@@ -18,9 +18,9 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月19日更新 2 篇，共计 67+2 篇。
-* [Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera](http://arxiv.org/abs/2411.10945v1)
-* [Exploiting VLM Localizability and Semantics for Open Vocabulary Action Detection](http://arxiv.org/abs/2411.10922v1)<br>:star:[code](https://github.com/Cogito2012/OpenMixer)
+## 11月20日更新 2 篇，共计 69+2 篇。
+* [Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators](http://arxiv.org/abs/2411.12002v1)
+* [DiHuR: Diffusion-Guided Generalizable Human Reconstruction](http://arxiv.org/abs/2411.11903v1)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -93,6 +93,8 @@
   * [Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition](http://arxiv.org/abs/2411.05692v1)
 
 ## Human Pose Estimation
+* 人脸重建
+  * [DiHuR: Diffusion-Guided Generalizable Human Reconstruction](http://arxiv.org/abs/2411.11903v1)
 * 三维姿态估计
   * [ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening](http://arxiv.org/abs/2411.09435v1)<br>:star:[code](https://hojunjang17.github.io/ReMP)
 * 人体运动恢复
@@ -140,6 +142,8 @@
   * [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
 
 ## Face
+* 人脸生成
+  * [Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators](http://arxiv.org/abs/2411.12002v1)
 * 人脸关键点检测
   * [Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection](http://arxiv.org/abs/2411.07167v1)
 
