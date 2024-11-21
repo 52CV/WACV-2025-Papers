@@ -18,9 +18,10 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月20日更新 2 篇，共计 69+2 篇。
-* [Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators](http://arxiv.org/abs/2411.12002v1)
-* [DiHuR: Diffusion-Guided Generalizable Human Reconstruction](http://arxiv.org/abs/2411.11903v1)
+## 11月21日更新 3 篇，共计 71+3 篇。
+* [VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation](http://arxiv.org/abs/2411.13186v1)
+* [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)
+* [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](http://arxiv.org/abs/2411.13025v1)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -65,6 +66,8 @@
 
 
 ## GAN/Image Synthesis(图像生成)
+* 图像生成
+  * [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)
 * 食谱生成
   * [Retrieval Augmented Recipe Generation](http://arxiv.org/abs/2411.08715v1)
 
@@ -108,6 +111,8 @@
 * [AMNCutter: Affinity-Attention-Guided Multi-View Normalized Cutter for Unsupervised Surgical Instrument Segmentation](http://arxiv.org/abs/2411.03695v1)<br>:star:[code](https://github.com/MingyuShengSMY/AMNCutter)
 * 医学图像分割
   * [Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms](http://arxiv.org/abs/2411.05223v1)<br>:star:[code](https://github.com/ratschlab/ICMSeg)
+* 医学放射科报告生成
+  * [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](http://arxiv.org/abs/2411.13025v1)
 * MRI
   * [Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation](http://arxiv.org/abs/2410.23191v1)
   * [DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET](https://arxiv.org/abs/2410.23219)
@@ -117,6 +122,10 @@
 
 ## Object Tracking(目标跟踪)
 * [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
+
+## Object Detection(目标检测)
+* 3D OD  
+  * [VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation](http://arxiv.org/abs/2411.13186v1)
 
 ## Video Retrieval
 * [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
