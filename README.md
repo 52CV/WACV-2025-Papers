@@ -18,10 +18,11 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月21日更新 3 篇，共计 71+3 篇。
-* [VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation](http://arxiv.org/abs/2411.13186v1)
-* [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)
-* [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](http://arxiv.org/abs/2411.13025v1)
+## 11月25日更新 3 篇，共计 74+3 篇。
+* [Design-o-meter: Towards Evaluating and Refining Graphic Designs](http://arxiv.org/abs/2411.14959v1)<br>:star:[code](https://sahilg06.github.io/Design-o-meter/)
+* [Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer](http://arxiv.org/abs/2411.14750v1)<br>:star:[code](https://github.com/Shiku-Kaito/Ordinal-Multiple-instance-Learning-for-Ulcerative-Colitis-Severity-Estimation)
+* [Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models](http://arxiv.org/abs/2411.14495v1)<br>:star:[code](https://github.com/hamidreza-dastmalchi/3DD-TTA)
+
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -81,6 +82,8 @@
 
 ## Point Cloud(点云)
 * [PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing](http://arxiv.org/abs/2411.04249v1)<br>:star:[code](https://github.com/sidsunny/pocoloco)
+* 3D 点云
+  * [Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models](http://arxiv.org/abs/2411.14495v1)<br>:star:[code](https://github.com/hamidreza-dastmalchi/3DD-TTA)
 * 点云分割
   * [ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset](http://arxiv.org/abs/2411.04865v1)
 
@@ -178,6 +181,8 @@
 * [Divergent Domains, Convergent Grading: Enhancing Generalization in Diabetic Retinopathy Grading](http://arxiv.org/abs/2411.02614v1)<br>:star:[code](https://github.com/sharonchokuwa/dg-adr)
 * [HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning](http://arxiv.org/abs/2411.01408v1)<br>:star:[code](https://github.com/adasfag/HeightMapNet/)
 * [STLight: a Fully Convolutional Approach for Efficient Predictive Learning by Spatio-Temporal joint Processing](http://arxiv.org/abs/2411.10198v1)
+* [Design-o-meter: Towards Evaluating and Refining Graphic Designs](http://arxiv.org/abs/2411.14959v1)<br>:star:[code](https://sahilg06.github.io/Design-o-meter/)
+* [Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer](http://arxiv.org/abs/2411.14750v1)<br>:star:[code](https://github.com/Shiku-Kaito/Ordinal-Multiple-instance-Learning-for-Ulcerative-Colitis-Severity-Estimation)
 
 <a name="0"/>
 
