@@ -18,11 +18,16 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月25日更新 3 篇，共计 74+3 篇。
-* [Design-o-meter: Towards Evaluating and Refining Graphic Designs](http://arxiv.org/abs/2411.14959v1)<br>:star:[code](https://sahilg06.github.io/Design-o-meter/)
-* [Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer](http://arxiv.org/abs/2411.14750v1)<br>:star:[code](https://github.com/Shiku-Kaito/Ordinal-Multiple-instance-Learning-for-Ulcerative-Colitis-Severity-Estimation)
-* [Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models](http://arxiv.org/abs/2411.14495v1)<br>:star:[code](https://github.com/hamidreza-dastmalchi/3DD-TTA)
-
+## 11月26日更新 9 篇，共计 77+9 篇。
+* [AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy](http://arxiv.org/abs/2411.16440v1)<br>:star:[code](https://github.com/dfki-av/AnonyNoise)
+* [Utilizing Uncertainty in 2D Pose Detectors for Probabilistic 3D Human Mesh Recovery](http://arxiv.org/abs/2411.16289v1)<br>:star:[code](https://github.com/twehrbein/humr)
+* [TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation](http://arxiv.org/abs/2411.16132v1)<br>:star:[code](https://github.com/huntorochi/TreeFormer/)
+* [ROADS: Robust Prompt-driven Multi-Class Anomaly Detection under Domain Shift](http://arxiv.org/abs/2411.16049v1)
+* [Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models](http://arxiv.org/abs/2411.16018v1)
+* [Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching](http://arxiv.org/abs/2411.15860v1)<br>:star:[code](https://github.com/scy639/Gen2SM)
+* [ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos](http://arxiv.org/abs/2411.15628v1)
+* [FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data](http://arxiv.org/abs/2411.16110v1)<br>:star:[code](https://github.com/HY-Vision-Lab/FUNAD)
+* [MulModSeg: Enhancing Unpaired Multi-Modal Medical Image Segmentation with Modality-Conditioned Text Embedding and Alternating Training](http://arxiv.org/abs/2411.15576v1)<br>:star:[code](https://github.com/ChengyinLee/MulModSeg_2024)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -31,6 +36,11 @@
 * [SPACE: SPAtial-aware Consistency rEgularization for anomaly detection in Industrial applications](http://arxiv.org/abs/2411.05822v1)
 * [Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination](http://arxiv.org/abs/2411.09558v1)
 * [Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera](http://arxiv.org/abs/2411.10945v1)
+* [ROADS: Robust Prompt-driven Multi-Class Anomaly Detection under Domain Shift](http://arxiv.org/abs/2411.16049v1)
+* [FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data](http://arxiv.org/abs/2411.16110v1)<br>:star:[code](https://github.com/HY-Vision-Lab/FUNAD)
+
+## Object Pose Estimation(物体姿态估计)
+* [Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching](http://arxiv.org/abs/2411.15860v1)<br>:star:[code](https://github.com/scy639/Gen2SM)
 
 ## Dataset/Benchmark(数据集/基准)
 * [CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach](http://arxiv.org/abs/2410.21932v1)<br>:star:[code](https://github.com/thanhhff/CPDM)
@@ -50,6 +60,9 @@
 ## Vision-Language
 * [Active Learning for Vision-Language Models](http://arxiv.org/abs/2410.22187v1)
 * [@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology](https://arxiv.org/abs/2409.14215)<br>:star:[code](https://github.com/jystin/ATBench)<br>:house:[project](https://junweizheng93.github.io/publications/ATBench/ATBench.html)
+* [Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models](http://arxiv.org/abs/2411.16018v1)
+* 视频语言
+  * [ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos](http://arxiv.org/abs/2411.15628v1)
 * VLN
   * [To Ask or Not to Ask? Detecting Absence of Information in Vision and Language Navigation](http://arxiv.org/abs/2411.05831v1)
 * Visual Grounding
@@ -89,6 +102,7 @@
 
 ## Person Re-id
 * [ReMix: Training Generalized Person Re-identification on a Mixture of Data](http://arxiv.org/abs/2410.21938v1)
+* [AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy](http://arxiv.org/abs/2411.16440v1)<br>:star:[code](https://github.com/dfki-av/AnonyNoise)
 * 换衣重识别
   * [DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID](http://arxiv.org/abs/2411.07205v1)<br>:star:[code](https://github.com/CroitoruAlin/dlcr)
 
@@ -101,6 +115,8 @@
 ## Human Pose Estimation
 * 人脸重建
   * [DiHuR: Diffusion-Guided Generalizable Human Reconstruction](http://arxiv.org/abs/2411.11903v1)
+* 人体网格恢复
+  * [Utilizing Uncertainty in 2D Pose Detectors for Probabilistic 3D Human Mesh Recovery](http://arxiv.org/abs/2411.16289v1)<br>:star:[code](https://github.com/twehrbein/humr)
 * 三维姿态估计
   * [ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening](http://arxiv.org/abs/2411.09435v1)<br>:star:[code](https://hojunjang17.github.io/ReMP)
 * 人体运动恢复
@@ -114,6 +130,7 @@
 * [AMNCutter: Affinity-Attention-Guided Multi-View Normalized Cutter for Unsupervised Surgical Instrument Segmentation](http://arxiv.org/abs/2411.03695v1)<br>:star:[code](https://github.com/MingyuShengSMY/AMNCutter)
 * 医学图像分割
   * [Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms](http://arxiv.org/abs/2411.05223v1)<br>:star:[code](https://github.com/ratschlab/ICMSeg)
+  * [MulModSeg: Enhancing Unpaired Multi-Modal Medical Image Segmentation with Modality-Conditioned Text Embedding and Alternating Training](http://arxiv.org/abs/2411.15576v1)<br>:star:[code](https://github.com/ChengyinLee/MulModSeg_2024)
 * 医学放射科报告生成
   * [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](http://arxiv.org/abs/2411.13025v1)
 * MRI
@@ -183,6 +200,7 @@
 * [STLight: a Fully Convolutional Approach for Efficient Predictive Learning by Spatio-Temporal joint Processing](http://arxiv.org/abs/2411.10198v1)
 * [Design-o-meter: Towards Evaluating and Refining Graphic Designs](http://arxiv.org/abs/2411.14959v1)<br>:star:[code](https://sahilg06.github.io/Design-o-meter/)
 * [Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer](http://arxiv.org/abs/2411.14750v1)<br>:star:[code](https://github.com/Shiku-Kaito/Ordinal-Multiple-instance-Learning-for-Ulcerative-Colitis-Severity-Estimation)
+* [TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation](http://arxiv.org/abs/2411.16132v1)<br>:star:[code](https://github.com/huntorochi/TreeFormer/)
 
 <a name="0"/>
 
