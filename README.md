@@ -18,16 +18,10 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月26日更新 9 篇，共计 77+9 篇。
-* [AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy](http://arxiv.org/abs/2411.16440v1)<br>:star:[code](https://github.com/dfki-av/AnonyNoise)
-* [Utilizing Uncertainty in 2D Pose Detectors for Probabilistic 3D Human Mesh Recovery](http://arxiv.org/abs/2411.16289v1)<br>:star:[code](https://github.com/twehrbein/humr)
-* [TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation](http://arxiv.org/abs/2411.16132v1)<br>:star:[code](https://github.com/huntorochi/TreeFormer/)
-* [ROADS: Robust Prompt-driven Multi-Class Anomaly Detection under Domain Shift](http://arxiv.org/abs/2411.16049v1)
-* [Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models](http://arxiv.org/abs/2411.16018v1)
-* [Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching](http://arxiv.org/abs/2411.15860v1)<br>:star:[code](https://github.com/scy639/Gen2SM)
-* [ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos](http://arxiv.org/abs/2411.15628v1)
-* [FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data](http://arxiv.org/abs/2411.16110v1)<br>:star:[code](https://github.com/HY-Vision-Lab/FUNAD)
-* [MulModSeg: Enhancing Unpaired Multi-Modal Medical Image Segmentation with Modality-Conditioned Text Embedding and Alternating Training](http://arxiv.org/abs/2411.15576v1)<br>:star:[code](https://github.com/ChengyinLee/MulModSeg_2024)
+## 11月27日更新 3 篇，共计 86+3 篇。
+* [Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation](http://arxiv.org/abs/2411.17610v1)
+* [SEMU-Net: A Segmentation-based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images](http://arxiv.org/abs/2411.16973v1)
+* [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://arxiv.org/abs/2411.17390)<br>:star:[code](https://github.com/Jingtong0527/DRI-IQA)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -163,10 +157,13 @@
   * [SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM](http://arxiv.org/abs/2411.06318v1)<br>:star:[code](https://github.com/ChrisChen1023/SEM-Net)
 * 视频增强
   * [UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors](http://arxiv.org/abs/2411.05886v1)
+* 图像质量评估
+  * [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://arxiv.org/abs/2411.17390)<br>:star:[code](https://github.com/Jingtong0527/DRI-IQA)
 
 ## Image Segmentation(图像分割)
 * 语义分割
   * [COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes](http://arxiv.org/abs/2410.24139v1)
+  * [Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation](http://arxiv.org/abs/2411.17610v1)
 * VSS
   * [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
 
@@ -185,6 +182,7 @@
 * [Self-Relaxed Joint Training: Sample Selection for Severity Estimation with Ordinal Noisy Labels](http://arxiv.org/abs/2410.21885v1)<br>:star:[code](https://github.com/shumpei-takezaki/Self-Relaxed-Joint-Training)
 * [EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](http://arxiv.org/abs/2410.21743v1)<br>:star:[code](https://github.com/ZhonghuaYi/EI-Nexus_official)
 * [High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer](http://arxiv.org/abs/2410.22922v1)
+* [SEMU-Net: A Segmentation-based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images](http://arxiv.org/abs/2411.16973v1)
 * [Situational Scene Graph for Structured Human-centric Situation Understanding](http://arxiv.org/abs/2410.22829v1)
 * [Compositional Segmentation of Cardiac Images Leveraging Metadata](http://arxiv.org/abs/2410.23130v1)<br>:star:[code](https://github.com/kabbas570/CompSeg-MetaData)
 * [DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination](http://arxiv.org/abs/2410.24006v1)
