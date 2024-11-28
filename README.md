@@ -18,10 +18,8 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月27日更新 3 篇，共计 86+3 篇。
-* [Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation](http://arxiv.org/abs/2411.17610v1)
-* [SEMU-Net: A Segmentation-based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images](http://arxiv.org/abs/2411.16973v1)
-* [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://arxiv.org/abs/2411.17390)<br>:star:[code](https://github.com/Jingtong0527/DRI-IQA)
+## 11月28日更新 1 篇，共计 89+1 篇。
+* [XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration](https://arxiv.org/abs/2411.18377)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -93,6 +91,8 @@
   * [Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models](http://arxiv.org/abs/2411.14495v1)<br>:star:[code](https://github.com/hamidreza-dastmalchi/3DD-TTA)
 * 点云分割
   * [ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset](http://arxiv.org/abs/2411.04865v1)
+* 点云配准
+  * [XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration](https://arxiv.org/abs/2411.18377)
 
 ## Person Re-id
 * [ReMix: Training Generalized Person Re-identification on a Mixture of Data](http://arxiv.org/abs/2410.21938v1)
