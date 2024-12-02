@@ -18,8 +18,12 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月28日更新 1 篇，共计 89+1 篇。
-* [XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration](https://arxiv.org/abs/2411.18377)
+## 12月2日更新 5 篇，共计 890+5 篇。
+* [MonoPP: Metric-Scaled Self-Supervised Monocular Depth Estimation by Planar-Parallax Geometry in Automotive Applications](http://arxiv.org/abs/2411.19717v1)<br>:star:[code](https://mono-pp.github.io/)
+* [Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing](http://arxiv.org/abs/2411.19652v1)<br>:star:[code](https://github.com/Mowenyii/Uniform-Attention-Maps)
+* [DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.19390v1)
+* [I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting](http://arxiv.org/abs/2411.19050v1)<br>:star:[code](https://cilabuniba.github.io/i-dream-my-painting)
+* [Improving Accuracy and Generalization for Efficient Visual Tracking](http://arxiv.org/abs/2411.18855v1)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -76,13 +80,17 @@
   * [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)
 * 食谱生成
   * [Retrieval Augmented Recipe Generation](http://arxiv.org/abs/2411.08715v1)
+* 图像编辑
+  * [Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing](http://arxiv.org/abs/2411.19652v1)<br>:star:[code](https://github.com/Mowenyii/Uniform-Attention-Maps)
+* 文本-图像
+  * [DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.19390v1)
 
 # 3D(三维重建\三维视觉)
 * [LIPIDS: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo](https://arxiv.org/abs/2409.02716)
 * 深度估计
   * [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://arxiv.org/abs/2409.02720)
   * [Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](http://arxiv.org/abs/2411.04714v1)
-
+  * [MonoPP: Metric-Scaled Self-Supervised Monocular Depth Estimation by Planar-Parallax Geometry in Automotive Applications](http://arxiv.org/abs/2411.19717v1)<br>:star:[code](https://mono-pp.github.io/)
 
 
 ## Point Cloud(点云)
@@ -136,6 +144,8 @@
 
 ## Object Tracking(目标跟踪)
 * [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
+* [Improving Accuracy and Generalization for Efficient Visual Tracking](http://arxiv.org/abs/2411.18855v1)
+
 
 ## Object Detection(目标检测)
 * 3D OD  
@@ -155,6 +165,7 @@
   * [Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration](http://arxiv.org/abs/2411.06456v1)
 * 图像修复
   * [SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM](http://arxiv.org/abs/2411.06318v1)<br>:star:[code](https://github.com/ChrisChen1023/SEM-Net)
+  * [I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting](http://arxiv.org/abs/2411.19050v1)<br>:star:[code](https://cilabuniba.github.io/i-dream-my-painting)
 * 视频增强
   * [UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors](http://arxiv.org/abs/2411.05886v1)
 * 图像质量评估
