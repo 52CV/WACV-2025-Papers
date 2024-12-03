@@ -18,12 +18,17 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月2日更新 5 篇，共计 890+5 篇。
-* [MonoPP: Metric-Scaled Self-Supervised Monocular Depth Estimation by Planar-Parallax Geometry in Automotive Applications](http://arxiv.org/abs/2411.19717v1)<br>:star:[code](https://mono-pp.github.io/)
-* [Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing](http://arxiv.org/abs/2411.19652v1)<br>:star:[code](https://github.com/Mowenyii/Uniform-Attention-Maps)
-* [DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.19390v1)
-* [I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting](http://arxiv.org/abs/2411.19050v1)<br>:star:[code](https://cilabuniba.github.io/i-dream-my-painting)
-* [Improving Accuracy and Generalization for Efficient Visual Tracking](http://arxiv.org/abs/2411.18855v1)
+## 12月3日更新 10 篇，共计 895+10 篇。
+* [Uncertainty-Aware Regularization for Image-to-Image Translation](http://arxiv.org/abs/2412.01705v1)
+* [Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation](http://arxiv.org/abs/2412.01595v1)
+* [Adaptive High-Pass Kernel Prediction for Efficient Video Deblurring](http://arxiv.org/abs/2412.01559v1)<br>:star:[code](https://github.com/jibo27/AHFNet)
+* [I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames](http://arxiv.org/abs/2412.01296v1)<br>:star:[code](https://github.com/KathPra/MP4VisualFrameDetection)
+* [Multimodal Fusion Learning with Dual Attention for Medical Imaging](http://arxiv.org/abs/2412.01248v1)<br>:star:[code](https://github.com/misti1203/DRIFA-Net)
+* [SEED4D: A Synthetic Ego--Exo Dynamic 4D Data Generator, Driving Dataset and Benchmark](http://arxiv.org/abs/2412.00730v1)<br>:star:[code](https://seed4d.github.io/)<br>:star:[code](https://github.com/continental/seed4d)
+* [LQ-Adapter: ViT-Adapter with Learnable Queries for Gallbladder Cancer Detection from Ultrasound Image](http://arxiv.org/abs/2412.00374v1)<br>:star:[code](https://github.com/ChetanMadan/LQ-Adapter)
+* [Facial Expression Recognition with Controlled Privacy Preservation and Feature Compensation](http://arxiv.org/abs/2412.00277v1)
+* [Uni-SLAM: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction](http://arxiv.org/abs/2412.00242v1)<br>:star:[code](https://shaoxiang777.github.io/project/uni-slam/)
+* [Diffusion Model Guided Sampling with Pixel-Wise Aleatoric Uncertainty Estimation](http://arxiv.org/abs/2412.00205v1)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -35,6 +40,10 @@
 * [ROADS: Robust Prompt-driven Multi-Class Anomaly Detection under Domain Shift](http://arxiv.org/abs/2411.16049v1)
 * [FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data](http://arxiv.org/abs/2411.16110v1)<br>:star:[code](https://github.com/HY-Vision-Lab/FUNAD)
 
+## Robots(机器人)
+* SLAM
+  * [Uni-SLAM: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction](http://arxiv.org/abs/2412.00242v1)<br>:star:[code](https://shaoxiang777.github.io/project/uni-slam/)
+
 ## Object Pose Estimation(物体姿态估计)
 * [Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching](http://arxiv.org/abs/2411.15860v1)<br>:star:[code](https://github.com/scy639/Gen2SM)
 
@@ -42,13 +51,9 @@
 * [CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach](http://arxiv.org/abs/2410.21932v1)<br>:star:[code](https://github.com/thanhhff/CPDM)
 * [PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation](http://arxiv.org/abs/2410.22623v1)
 * [SynDroneVision: A Synthetic Dataset for Image-Based Drone Detection](http://arxiv.org/abs/2411.05633v1)
+* [SEED4D: A Synthetic Ego--Exo Dynamic 4D Data Generator, Driving Dataset and Benchmark](http://arxiv.org/abs/2412.00730v1)<br>:star:[code](https://seed4d.github.io/)<br>:star:[code](https://github.com/continental/seed4d)
 * 基准
   * [GazeSearch: Radiology Findings Search Benchmark](http://arxiv.org/abs/2411.05780v1)
-
-## Machine learning(机器学习)
-* 持续学习
-  * [Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation](http://arxiv.org/abs/2411.05663v1)<br>:star:[code](https://github.com/Christina200/Online-LoRA-official.git)
-  * [Exploring the Stability Gap in Continual Learning: The Role of the Classification Head](http://arxiv.org/abs/2411.04723v1)
 
 ## 虚拟头像
 * [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities](https://arxiv.org/abs/2409.16147)
@@ -73,6 +78,9 @@
   * [Covariance-based Space Regularization for Few-shot Class Incremental Learning](http://arxiv.org/abs/2411.01172v1)
 * 对比学习
   * [MOOSS: Mask-Enhanced Temporal Contrastive Learning for Smooth State Evolution in Visual Reinforcement Learning](https://arxiv.org/abs/2409.02714)
+* 持续学习
+  * [Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation](http://arxiv.org/abs/2411.05663v1)<br>:star:[code](https://github.com/Christina200/Online-LoRA-official.git)
+  * [Exploring the Stability Gap in Continual Learning: The Role of the Classification Head](http://arxiv.org/abs/2411.04723v1)
 
 
 ## GAN/Image Synthesis(图像生成)
@@ -84,6 +92,8 @@
   * [Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing](http://arxiv.org/abs/2411.19652v1)<br>:star:[code](https://github.com/Mowenyii/Uniform-Attention-Maps)
 * 文本-图像
   * [DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.19390v1)
+* 图像-图像翻译
+  * [Uncertainty-Aware Regularization for Image-to-Image Translation](http://arxiv.org/abs/2412.01705v1)
 
 # 3D(三维重建\三维视觉)
 * [LIPIDS: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo](https://arxiv.org/abs/2409.02716)
@@ -130,6 +140,8 @@
 * [PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices](http://arxiv.org/abs/2410.21822v1)<br>:star:[code](https://github.com/mkang315/PK-YOLO)
 * [Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images](http://arxiv.org/abs/2410.21826v1)<br>:star:[code](https://github.com/Ahn-Ssu/VCM)
 * [AMNCutter: Affinity-Attention-Guided Multi-View Normalized Cutter for Unsupervised Surgical Instrument Segmentation](http://arxiv.org/abs/2411.03695v1)<br>:star:[code](https://github.com/MingyuShengSMY/AMNCutter)
+* [Multimodal Fusion Learning with Dual Attention for Medical Imaging](http://arxiv.org/abs/2412.01248v1)<br>:star:[code](https://github.com/misti1203/DRIFA-Net)
+* [LQ-Adapter: ViT-Adapter with Learnable Queries for Gallbladder Cancer Detection from Ultrasound Image](http://arxiv.org/abs/2412.00374v1)<br>:star:[code](https://github.com/ChetanMadan/LQ-Adapter)
 * 医学图像分割
   * [Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms](http://arxiv.org/abs/2411.05223v1)<br>:star:[code](https://github.com/ratschlab/ICMSeg)
   * [MulModSeg: Enhancing Unpaired Multi-Modal Medical Image Segmentation with Modality-Conditioned Text Embedding and Alternating Training](http://arxiv.org/abs/2411.15576v1)<br>:star:[code](https://github.com/ChengyinLee/MulModSeg_2024)
@@ -166,21 +178,26 @@
 * 图像修复
   * [SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM](http://arxiv.org/abs/2411.06318v1)<br>:star:[code](https://github.com/ChrisChen1023/SEM-Net)
   * [I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting](http://arxiv.org/abs/2411.19050v1)<br>:star:[code](https://cilabuniba.github.io/i-dream-my-painting)
-* 视频增强
-  * [UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors](http://arxiv.org/abs/2411.05886v1)
 * 图像质量评估
   * [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://arxiv.org/abs/2411.17390)<br>:star:[code](https://github.com/Jingtong0527/DRI-IQA)
+* 视频增强
+  * [UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors](http://arxiv.org/abs/2411.05886v1)
+* 视频去模糊
+  * [Adaptive High-Pass Kernel Prediction for Efficient Video Deblurring](http://arxiv.org/abs/2412.01559v1)<br>:star:[code](https://github.com/jibo27/AHFNet)
 
 ## Image Segmentation(图像分割)
 * 语义分割
   * [COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes](http://arxiv.org/abs/2410.24139v1)
   * [Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation](http://arxiv.org/abs/2411.17610v1)
+  * [Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation](http://arxiv.org/abs/2412.01595v1)
 * VSS
   * [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
 
 ## Face
 * 人脸生成
   * [Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators](http://arxiv.org/abs/2411.12002v1)
+* 人脸表情识别
+  * [Facial Expression Recognition with Controlled Privacy Preservation and Feature Compensation](http://arxiv.org/abs/2412.00277v1)
 * 人脸关键点检测
   * [Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection](http://arxiv.org/abs/2411.07167v1)
 
@@ -210,6 +227,8 @@
 * [Design-o-meter: Towards Evaluating and Refining Graphic Designs](http://arxiv.org/abs/2411.14959v1)<br>:star:[code](https://sahilg06.github.io/Design-o-meter/)
 * [Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer](http://arxiv.org/abs/2411.14750v1)<br>:star:[code](https://github.com/Shiku-Kaito/Ordinal-Multiple-instance-Learning-for-Ulcerative-Colitis-Severity-Estimation)
 * [TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation](http://arxiv.org/abs/2411.16132v1)<br>:star:[code](https://github.com/huntorochi/TreeFormer/)
+* [I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames](http://arxiv.org/abs/2412.01296v1)<br>:star:[code](https://github.com/KathPra/MP4VisualFrameDetection)
+* [Diffusion Model Guided Sampling with Pixel-Wise Aleatoric Uncertainty Estimation](http://arxiv.org/abs/2412.00205v1)
 
 <a name="0"/>
 
