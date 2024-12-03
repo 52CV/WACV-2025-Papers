@@ -18,7 +18,7 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月3日更新 10 篇，共计 895+10 篇。
+## 12月3日更新 10 篇，共计 105+10 篇。
 * [Uncertainty-Aware Regularization for Image-to-Image Translation](http://arxiv.org/abs/2412.01705v1)
 * [Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation](http://arxiv.org/abs/2412.01595v1)
 * [Adaptive High-Pass Kernel Prediction for Efficient Video Deblurring](http://arxiv.org/abs/2412.01559v1)<br>:star:[code](https://github.com/jibo27/AHFNet)
