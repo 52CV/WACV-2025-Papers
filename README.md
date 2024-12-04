@@ -18,17 +18,13 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月3日更新 10 篇，共计 105+10 篇。
-* [Uncertainty-Aware Regularization for Image-to-Image Translation](http://arxiv.org/abs/2412.01705v1)
-* [Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation](http://arxiv.org/abs/2412.01595v1)
-* [Adaptive High-Pass Kernel Prediction for Efficient Video Deblurring](http://arxiv.org/abs/2412.01559v1)<br>:star:[code](https://github.com/jibo27/AHFNet)
-* [I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames](http://arxiv.org/abs/2412.01296v1)<br>:star:[code](https://github.com/KathPra/MP4VisualFrameDetection)
-* [Multimodal Fusion Learning with Dual Attention for Medical Imaging](http://arxiv.org/abs/2412.01248v1)<br>:star:[code](https://github.com/misti1203/DRIFA-Net)
-* [SEED4D: A Synthetic Ego--Exo Dynamic 4D Data Generator, Driving Dataset and Benchmark](http://arxiv.org/abs/2412.00730v1)<br>:star:[code](https://seed4d.github.io/)<br>:star:[code](https://github.com/continental/seed4d)
-* [LQ-Adapter: ViT-Adapter with Learnable Queries for Gallbladder Cancer Detection from Ultrasound Image](http://arxiv.org/abs/2412.00374v1)<br>:star:[code](https://github.com/ChetanMadan/LQ-Adapter)
-* [Facial Expression Recognition with Controlled Privacy Preservation and Feature Compensation](http://arxiv.org/abs/2412.00277v1)
-* [Uni-SLAM: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction](http://arxiv.org/abs/2412.00242v1)<br>:star:[code](https://shaoxiang777.github.io/project/uni-slam/)
-* [Diffusion Model Guided Sampling with Pixel-Wise Aleatoric Uncertainty Estimation](http://arxiv.org/abs/2412.00205v1)
+## 12月4日更新 5 篇，共计 115+5 篇。
+* [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)<br>:star:[code](https://github.com/Pixtella/Anagram-MTL)
+* [Continual Learning of Personalized Generative Face Models with Experience Replay](http://arxiv.org/abs/2412.02627v1)<br>:star:[code](https://anniedde.github.io/personalizedcontinuallearning.github.io/)
+* [SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models](http://arxiv.org/abs/2412.02332v1)<br>:star:[code](https://github.com/SanoScience/SimuScope)
+* [Planar Gaussian Splatting](http://arxiv.org/abs/2412.01931v1)
+* [AH-OCDA: Amplitude-based Curriculum Learning and Hopfield Segmentation Model for Open Compound Domain Adaptation](http://arxiv.org/abs/2412.02280v1)
+
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -73,6 +69,10 @@
 * 自监督
   * [HEX: Hierarchical Emergence Exploitation in Self-Supervised Algorithms](http://arxiv.org/abs/2410.23200v1)
 
+## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
+* 域适应
+  * [AH-OCDA: Amplitude-based Curriculum Learning and Hopfield Segmentation Model for Open Compound Domain Adaptation](http://arxiv.org/abs/2412.02280v1)
+
 # Machine Learning(机器学习)
 * 类增量
   * [Covariance-based Space Regularization for Few-shot Class Incremental Learning](http://arxiv.org/abs/2411.01172v1)
@@ -81,7 +81,8 @@
 * 持续学习
   * [Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation](http://arxiv.org/abs/2411.05663v1)<br>:star:[code](https://github.com/Christina200/Online-LoRA-official.git)
   * [Exploring the Stability Gap in Continual Learning: The Role of the Classification Head](http://arxiv.org/abs/2411.04723v1)
-
+* 多任务学习
+  * [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)<br>:star:[code](https://github.com/Pixtella/Anagram-MTL)
 
 ## GAN/Image Synthesis(图像生成)
 * 图像生成
@@ -96,6 +97,7 @@
   * [Uncertainty-Aware Regularization for Image-to-Image Translation](http://arxiv.org/abs/2412.01705v1)
 
 # 3D(三维重建\三维视觉)
+* [Planar Gaussian Splatting](http://arxiv.org/abs/2412.01931v1)
 * [LIPIDS: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo](https://arxiv.org/abs/2409.02716)
 * 深度估计
   * [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://arxiv.org/abs/2409.02720)
@@ -125,7 +127,7 @@
   * [Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition](http://arxiv.org/abs/2411.05692v1)
 
 ## Human Pose Estimation
-* 人脸重建
+* 人体重建
   * [DiHuR: Diffusion-Guided Generalizable Human Reconstruction](http://arxiv.org/abs/2411.11903v1)
 * 人体网格恢复
   * [Utilizing Uncertainty in 2D Pose Detectors for Probabilistic 3D Human Mesh Recovery](http://arxiv.org/abs/2411.16289v1)<br>:star:[code](https://github.com/twehrbein/humr)
@@ -194,6 +196,7 @@
   * [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
 
 ## Face
+* [Continual Learning of Personalized Generative Face Models with Experience Replay](http://arxiv.org/abs/2412.02627v1)<br>:star:[code](https://anniedde.github.io/personalizedcontinuallearning.github.io/)
 * 人脸生成
   * [Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators](http://arxiv.org/abs/2411.12002v1)
 * 人脸表情识别
@@ -229,6 +232,7 @@
 * [TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation](http://arxiv.org/abs/2411.16132v1)<br>:star:[code](https://github.com/huntorochi/TreeFormer/)
 * [I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames](http://arxiv.org/abs/2412.01296v1)<br>:star:[code](https://github.com/KathPra/MP4VisualFrameDetection)
 * [Diffusion Model Guided Sampling with Pixel-Wise Aleatoric Uncertainty Estimation](http://arxiv.org/abs/2412.00205v1)
+* [SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models](http://arxiv.org/abs/2412.02332v1)<br>:star:[code](https://github.com/SanoScience/SimuScope)
 
 <a name="0"/>
 
