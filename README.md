@@ -18,13 +18,21 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月4日更新 5 篇，共计 115+5 篇。
-* [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)<br>:star:[code](https://github.com/Pixtella/Anagram-MTL)
-* [Continual Learning of Personalized Generative Face Models with Experience Replay](http://arxiv.org/abs/2412.02627v1)<br>:star:[code](https://anniedde.github.io/personalizedcontinuallearning.github.io/)
-* [SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models](http://arxiv.org/abs/2412.02332v1)<br>:star:[code](https://github.com/SanoScience/SimuScope)
-* [Planar Gaussian Splatting](http://arxiv.org/abs/2412.01931v1)
-* [AH-OCDA: Amplitude-based Curriculum Learning and Hopfield Segmentation Model for Open Compound Domain Adaptation](http://arxiv.org/abs/2412.02280v1)
+## 12月5日更新 9 篇，共计 120+9 篇。
+* [Distillation of Diffusion Features for Semantic Correspondence](http://arxiv.org/abs/2412.03512v1)<br>:star:[code](https://compvis.github.io/distilldift)
+* [Composed Image Retrieval for Training-Free Domain Conversion](http://arxiv.org/abs/2412.03297v1)<br>:star:[code](https://github.com/NikosEfth/freedom)
+* [Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization](http://arxiv.org/abs/2412.03179v1)<br>:star:[code](https://github.com/Klodivio355/MT-CP)
+* [Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification](http://arxiv.org/abs/2412.03056v1)
+* [Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis](http://arxiv.org/abs/2412.02946v1)
+* [Patchfinder: Leveraging Visual Language Models for Accurate Information Retrieval using Model Uncertainty](http://arxiv.org/abs/2412.02886v1)
+* [MAGMA: Manifold Regularization for MAEs](http://arxiv.org/abs/2412.02871v1)<br>:star:[code](https://github.com/adondera/magma)
+* [Memory-efficient Continual Learning with Neural Collapse Contrastive](http://arxiv.org/abs/2412.02865v1)
+* [Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks](http://arxiv.org/abs/2412.02795v1)
 
+
+
+## Dense Prediction(密集预测)
+* [Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization](http://arxiv.org/abs/2412.03179v1)<br>:star:[code](https://github.com/Klodivio355/MT-CP)
 
 ## Neural Radiance Fields
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
@@ -58,10 +66,12 @@
 * [Active Learning for Vision-Language Models](http://arxiv.org/abs/2410.22187v1)
 * [@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology](https://arxiv.org/abs/2409.14215)<br>:star:[code](https://github.com/jystin/ATBench)<br>:house:[project](https://junweizheng93.github.io/publications/ATBench/ATBench.html)
 * [Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models](http://arxiv.org/abs/2411.16018v1)
+* [Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis](http://arxiv.org/abs/2412.02946v1)
 * 视频语言
   * [ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos](http://arxiv.org/abs/2411.15628v1)
 * VLN
   * [To Ask or Not to Ask? Detecting Absence of Information in Vision and Language Navigation](http://arxiv.org/abs/2411.05831v1)
+  * [Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks](http://arxiv.org/abs/2412.02795v1)
 * Visual Grounding
   * [Fine-Grained Spatial and Verbal Losses for 3D Visual Grounding](http://arxiv.org/abs/2411.03405v1)
 
@@ -80,6 +90,7 @@
   * [MOOSS: Mask-Enhanced Temporal Contrastive Learning for Smooth State Evolution in Visual Reinforcement Learning](https://arxiv.org/abs/2409.02714)
 * 持续学习
   * [Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation](http://arxiv.org/abs/2411.05663v1)<br>:star:[code](https://github.com/Christina200/Online-LoRA-official.git)
+  * [Memory-efficient Continual Learning with Neural Collapse Contrastive](http://arxiv.org/abs/2412.02865v1)
   * [Exploring the Stability Gap in Continual Learning: The Role of the Classification Head](http://arxiv.org/abs/2411.04723v1)
 * 多任务学习
   * [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)<br>:star:[code](https://github.com/Pixtella/Anagram-MTL)
@@ -109,6 +120,8 @@
 * [PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing](http://arxiv.org/abs/2411.04249v1)<br>:star:[code](https://github.com/sidsunny/pocoloco)
 * 3D 点云
   * [Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models](http://arxiv.org/abs/2411.14495v1)<br>:star:[code](https://github.com/hamidreza-dastmalchi/3DD-TTA)
+* 点云分类
+  * [Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification](http://arxiv.org/abs/2412.03056v1)
 * 点云分割
   * [ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset](http://arxiv.org/abs/2411.04865v1)
 * 点云配准
@@ -165,8 +178,13 @@
 * 3D OD  
   * [VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation](http://arxiv.org/abs/2411.13186v1)
 
-## Video Retrieval
-* [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
+## Image/Video Retrieval(图像/视频检索)
+* 图像检索
+  * [Composed Image Retrieval for Training-Free Domain Conversion](http://arxiv.org/abs/2412.03297v1)<br>:star:[code](https://github.com/NikosEfth/freedom)
+* 视频检索  
+  * [ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising](http://arxiv.org/abs/2410.22233v1)
+* 信息检索
+  * [Patchfinder: Leveraging Visual Language Models for Accurate Information Retrieval using Model Uncertainty](http://arxiv.org/abs/2412.02886v1)
 
 ## Image/video Compression(图像/视频压缩)
 * [Efficient Progressive Image Compression with Variance-aware Masking](http://arxiv.org/abs/2411.10185v1)
@@ -205,6 +223,7 @@
   * [Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection](http://arxiv.org/abs/2411.07167v1)
 
 ## Othere(其它)
+* [MAGMA: Manifold Regularization for MAEs](http://arxiv.org/abs/2412.02871v1)<br>:star:[code](https://github.com/adondera/magma)
 * [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
 * [Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier](http://arxiv.org/abs/2410.22317v1)<br>:star:[code](https://github.com/wangkai930418/mc_ti)
 * [PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement](http://arxiv.org/abs/2410.22059v1)
@@ -224,6 +243,7 @@
 * [Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications](http://arxiv.org/abs/2411.00652v1)<br>:star:[code](https://hahminlew.github.io/changer)
 * [Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field](http://arxiv.org/abs/2411.06365v1)
 * [HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images](http://arxiv.org/abs/2411.04332v1)
+* [Distillation of Diffusion Features for Semantic Correspondence](http://arxiv.org/abs/2412.03512v1)<br>:star:[code](https://compvis.github.io/distilldift)
 * [Divergent Domains, Convergent Grading: Enhancing Generalization in Diabetic Retinopathy Grading](http://arxiv.org/abs/2411.02614v1)<br>:star:[code](https://github.com/sharonchokuwa/dg-adr)
 * [HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning](http://arxiv.org/abs/2411.01408v1)<br>:star:[code](https://github.com/adasfag/HeightMapNet/)
 * [STLight: a Fully Convolutional Approach for Efficient Predictive Learning by Spatio-Temporal joint Processing](http://arxiv.org/abs/2411.10198v1)
