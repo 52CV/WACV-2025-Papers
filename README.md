@@ -18,17 +18,10 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月5日更新 9 篇，共计 120+9 篇。
-* [Distillation of Diffusion Features for Semantic Correspondence](http://arxiv.org/abs/2412.03512v1)<br>:star:[code](https://compvis.github.io/distilldift)
-* [Composed Image Retrieval for Training-Free Domain Conversion](http://arxiv.org/abs/2412.03297v1)<br>:star:[code](https://github.com/NikosEfth/freedom)
-* [Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization](http://arxiv.org/abs/2412.03179v1)<br>:star:[code](https://github.com/Klodivio355/MT-CP)
-* [Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification](http://arxiv.org/abs/2412.03056v1)
-* [Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis](http://arxiv.org/abs/2412.02946v1)
-* [Patchfinder: Leveraging Visual Language Models for Accurate Information Retrieval using Model Uncertainty](http://arxiv.org/abs/2412.02886v1)
-* [MAGMA: Manifold Regularization for MAEs](http://arxiv.org/abs/2412.02871v1)<br>:star:[code](https://github.com/adondera/magma)
-* [Memory-efficient Continual Learning with Neural Collapse Contrastive](http://arxiv.org/abs/2412.02865v1)
-* [Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks](http://arxiv.org/abs/2412.02795v1)
-
+## 12月6日更新 3 篇，共计 129+3 篇。
+* [Towards Zero-shot 3D Anomaly Localization](http://arxiv.org/abs/2412.04304v1)
+* [Text Change Detection in Multilingual Documents Using Image Comparison](http://arxiv.org/abs/2412.04137v1)
+* [Multi-view Image Diffusion via Coordinate Noise and Fourier Attention](http://arxiv.org/abs/2412.03756v1)
 
 
 ## Dense Prediction(密集预测)
@@ -43,6 +36,8 @@
 * [Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera](http://arxiv.org/abs/2411.10945v1)
 * [ROADS: Robust Prompt-driven Multi-Class Anomaly Detection under Domain Shift](http://arxiv.org/abs/2411.16049v1)
 * [FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data](http://arxiv.org/abs/2411.16110v1)<br>:star:[code](https://github.com/HY-Vision-Lab/FUNAD)
+* 异常定位
+  * [Towards Zero-shot 3D Anomaly Localization](http://arxiv.org/abs/2412.04304v1)
 
 ## Robots(机器人)
 * SLAM
@@ -106,6 +101,9 @@
   * [DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.19390v1)
 * 图像-图像翻译
   * [Uncertainty-Aware Regularization for Image-to-Image Translation](http://arxiv.org/abs/2412.01705v1)
+
+## OCR
+* [Text Change Detection in Multilingual Documents Using Image Comparison](http://arxiv.org/abs/2412.04137v1)
 
 # 3D(三维重建\三维视觉)
 * [Planar Gaussian Splatting](http://arxiv.org/abs/2412.01931v1)
@@ -253,6 +251,7 @@
 * [I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames](http://arxiv.org/abs/2412.01296v1)<br>:star:[code](https://github.com/KathPra/MP4VisualFrameDetection)
 * [Diffusion Model Guided Sampling with Pixel-Wise Aleatoric Uncertainty Estimation](http://arxiv.org/abs/2412.00205v1)
 * [SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models](http://arxiv.org/abs/2412.02332v1)<br>:star:[code](https://github.com/SanoScience/SimuScope)
+* [Multi-view Image Diffusion via Coordinate Noise and Fourier Attention](http://arxiv.org/abs/2412.03756v1)
 
 <a name="0"/>
 
