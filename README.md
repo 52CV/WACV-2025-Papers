@@ -7,6 +7,10 @@
 
 ## 查看2024年综述文献点这里↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys)
 
+## 2025 年论文分类汇总戳这里
+↘️[WACV-2025-Papers](https://github.com/52CV/WACV-2025-Papers)
+↘️[CVPR-2025-Papers](https://github.com/52CV/CVPR-2025-Papers)
+
 ## 2024 年论文分类汇总戳这里
 ↘️[WACV-2024-Papers](https://github.com/52CV/WACV-2024-Papers)
 ↘️[CVPR-2024-Papers](https://github.com/52CV/CVPR-2024-Papers)
@@ -18,11 +22,19 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月6日更新 3 篇，共计 129+3 篇。
-* [Towards Zero-shot 3D Anomaly Localization](http://arxiv.org/abs/2412.04304v1)
-* [Text Change Detection in Multilingual Documents Using Image Comparison](http://arxiv.org/abs/2412.04137v1)
-* [Multi-view Image Diffusion via Coordinate Noise and Fourier Attention](http://arxiv.org/abs/2412.03756v1)
+## 12月9日更新  篇，共计 132+ 篇。
+* [Fairer Analysis and Demographically Balanced Face Generation for Fairer Face Verification](https://arxiv.org/abs/2412.03349)
+* [MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning](https://arxiv.org/abs/2408.11001)<br>:star:[code](https://github.com/haoningwu3639/MegaFusion)<br>:house:[project](https://haoningwu3639.github.io/MegaFusion/)
+* [LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones](https://arxiv.org/abs/2409.03460)
+* [EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos](http://arxiv.org/abs/2407.20592)<br>:house:[project](https://aashishrai3799.github.io/EgoSonics/)
+* [DeCLIP: Decoding CLIP representations for deepfake localization](https://arxiv.org/abs/2409.08849)<br>:star:[code](https://github.com/bit-ml/DeCLIP)
+* [LLS: Local Learning Rule for Deep Neural Networks Inspired by Neural Activity Synchronization](https://arxiv.org/abs/2405.15868)
+* [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/abs/2408.10845)<br>:house:[project](https://turingmotors.github.io/covla-ad/)
+* [Class-Conditioned Transformation for Enhanced Robust Image Classification](https://arxiv.org/abs/2303.15409)<br>:star:[code](https://github.com/tsachiblau/Class-Conditioned-Transformation-for-Enhanced-Robust-Image-Classification)
+* [SHIP: Structural Hierarchies for Instance-dependent Partial Labels]<br>本文介绍了一个模块化组件，旨在无缝集成到深度学习架构中，特别是在标签层次结构存在的情况下。SHIP增强了基于实例的部分标签学习（PLL），并在各种算法中提高了2.6%的准确率！
 
+<br>:star:[code]
+<br>:house:[project]
 
 ## Dense Prediction(密集预测)
 * [Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization](http://arxiv.org/abs/2412.03179v1)<br>:star:[code](https://github.com/Klodivio355/MT-CP)
@@ -92,7 +104,7 @@
 
 ## GAN/Image Synthesis(图像生成)
 * 图像生成
-  * [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)
+  * [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)(https://github.com/SonyResearch/RAW-Diffusion)
 * 食谱生成
   * [Retrieval Augmented Recipe Generation](http://arxiv.org/abs/2411.08715v1)
 * 图像编辑
