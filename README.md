@@ -22,7 +22,12 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月9日更新  篇，共计 132+ 篇。
+## 12月9日更新 14 篇，共计 132+14 篇。
+* [Beyond Boxes: Mask-Guided Spatio-Temporal Feature Aggregation for Video Object Detection](http://arxiv.org/abs/2412.04915v1)
+* [DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data, Flexible Views, and Transformed Domains](http://arxiv.org/abs/2412.04789v1)<br>:star:[code](https://github.com/CARG-uOttawa/DrIFT.git)
+* [Socially-Informed Reconstruction for Pedestrian Trajectory Forecasting](http://arxiv.org/abs/2412.04673v1)
+* [EgoPoints: Advancing Point Tracking for Egocentric Videos](http://arxiv.org/abs/2412.04592v1)<br>:star:[code](https://ahmaddarkhalil.github.io/EgoPoints/)
+* [ARTeFACT: Benchmarking Segmentation Models on Diverse Analogue Media Damage](http://arxiv.org/abs/2412.04580v1)<br>:star:[code](https://daniela997.github.io/ARTeFACT/)
 * [Fairer Analysis and Demographically Balanced Face Generation for Fairer Face Verification](https://arxiv.org/abs/2412.03349)
 * [MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning](https://arxiv.org/abs/2408.11001)<br>:star:[code](https://github.com/haoningwu3639/MegaFusion)<br>:house:[project](https://haoningwu3639.github.io/MegaFusion/)
 * [LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones](https://arxiv.org/abs/2409.03460)
@@ -35,6 +40,11 @@
 
 <br>:star:[code]
 <br>:house:[project]
+
+
+
+## Transformer
+* [LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones](https://arxiv.org/abs/2409.03460)
 
 ## Dense Prediction(密集预测)
 * [Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization](http://arxiv.org/abs/2412.03179v1)<br>:star:[code](https://github.com/Klodivio355/MT-CP)
@@ -51,6 +61,9 @@
 * 异常定位
   * [Towards Zero-shot 3D Anomaly Localization](http://arxiv.org/abs/2412.04304v1)
 
+## Deepfake 
+* [DeCLIP: Decoding CLIP representations for deepfake localization](https://arxiv.org/abs/2409.08849)<br>:star:[code](https://github.com/bit-ml/DeCLIP)
+
 ## Robots(机器人)
 * SLAM
   * [Uni-SLAM: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction](http://arxiv.org/abs/2412.00242v1)<br>:star:[code](https://shaoxiang777.github.io/project/uni-slam/)
@@ -63,8 +76,10 @@
 * [PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation](http://arxiv.org/abs/2410.22623v1)
 * [SynDroneVision: A Synthetic Dataset for Image-Based Drone Detection](http://arxiv.org/abs/2411.05633v1)
 * [SEED4D: A Synthetic Ego--Exo Dynamic 4D Data Generator, Driving Dataset and Benchmark](http://arxiv.org/abs/2412.00730v1)<br>:star:[code](https://seed4d.github.io/)<br>:star:[code](https://github.com/continental/seed4d)
+* [DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data, Flexible Views, and Transformed Domains](http://arxiv.org/abs/2412.04789v1)<br>:star:[code](https://github.com/CARG-uOttawa/DrIFT.git)
 * 基准
   * [GazeSearch: Radiology Findings Search Benchmark](http://arxiv.org/abs/2411.05780v1)
+  * [ARTeFACT: Benchmarking Segmentation Models on Diverse Analogue Media Damage](http://arxiv.org/abs/2412.04580v1)<br>:star:[code](https://daniela997.github.io/ARTeFACT/)
 
 ## 虚拟头像
 * [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities](https://arxiv.org/abs/2409.16147)
@@ -105,6 +120,7 @@
 ## GAN/Image Synthesis(图像生成)
 * 图像生成
   * [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)(https://github.com/SonyResearch/RAW-Diffusion)
+  * [MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning](https://arxiv.org/abs/2408.11001)<br>:star:[code](https://github.com/haoningwu3639/MegaFusion)<br>:house:[project](https://haoningwu3639.github.io/MegaFusion/)
 * 食谱生成
   * [Retrieval Augmented Recipe Generation](http://arxiv.org/abs/2411.08715v1)
 * 图像编辑
@@ -177,16 +193,22 @@
   * [DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET](https://arxiv.org/abs/2410.23219)
 
 ## Autonomous Driving(自动驾驶)
+* [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/abs/2408.10845)<br>:house:[project](https://turingmotors.github.io/covla-ad/)
 * [S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving](http://arxiv.org/abs/2410.23085v1)
+* 轨迹预测
+  * [Socially-Informed Reconstruction for Pedestrian Trajectory Forecasting](http://arxiv.org/abs/2412.04673v1)
 
 ## Object Tracking(目标跟踪)
 * [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
 * [Improving Accuracy and Generalization for Efficient Visual Tracking](http://arxiv.org/abs/2411.18855v1)
-
+* 点跟踪
+  * [EgoPoints: Advancing Point Tracking for Egocentric Videos](http://arxiv.org/abs/2412.04592v1)<br>:star:[code](https://ahmaddarkhalil.github.io/EgoPoints/)
 
 ## Object Detection(目标检测)
 * 3D OD  
   * [VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation](http://arxiv.org/abs/2411.13186v1)
+* VOD 
+  * [Beyond Boxes: Mask-Guided Spatio-Temporal Feature Aggregation for Video Object Detection](http://arxiv.org/abs/2412.04915v1)
 
 ## Image/Video Retrieval(图像/视频检索)
 * 图像检索
@@ -201,6 +223,7 @@
 
 ## Image Classification(图像分类)
 * [Enhancing Visual Classification using Comparative Descriptors](http://arxiv.org/abs/2411.05357v1)
+* [Class-Conditioned Transformation for Enhanced Robust Image Classification](https://arxiv.org/abs/2303.15409)<br>:star:[code](https://github.com/tsachiblau/Class-Conditioned-Transformation-for-Enhanced-Robust-Image-Classification)
 
 ## Image Progress(图像/视频处理)
 * 图像恢复
@@ -225,6 +248,8 @@
 
 ## Face
 * [Continual Learning of Personalized Generative Face Models with Experience Replay](http://arxiv.org/abs/2412.02627v1)<br>:star:[code](https://anniedde.github.io/personalizedcontinuallearning.github.io/)
+* 人脸验证
+  * [Fairer Analysis and Demographically Balanced Face Generation for Fairer Face Verification](https://arxiv.org/abs/2412.03349)
 * 人脸生成
   * [Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators](http://arxiv.org/abs/2411.12002v1)
 * 人脸表情识别
@@ -263,7 +288,10 @@
 * [I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames](http://arxiv.org/abs/2412.01296v1)<br>:star:[code](https://github.com/KathPra/MP4VisualFrameDetection)
 * [Diffusion Model Guided Sampling with Pixel-Wise Aleatoric Uncertainty Estimation](http://arxiv.org/abs/2412.00205v1)
 * [SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models](http://arxiv.org/abs/2412.02332v1)<br>:star:[code](https://github.com/SanoScience/SimuScope)
+* [EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos](http://arxiv.org/abs/2407.20592)<br>:house:[project](https://aashishrai3799.github.io/EgoSonics/)
 * [Multi-view Image Diffusion via Coordinate Noise and Fourier Attention](http://arxiv.org/abs/2412.03756v1)
+* [LLS: Local Learning Rule for Deep Neural Networks Inspired by Neural Activity Synchronization](https://arxiv.org/abs/2405.15868)
+* [SHIP: Structural Hierarchies for Instance-dependent Partial Labels]<br>本文介绍了一个模块化组件，旨在无缝集成到深度学习架构中，特别是在标签层次结构存在的情况下。SHIP增强了基于实例的部分标签学习（PLL），并在各种算法中提高了2.6%的准确率！
 
 <a name="0"/>
 
