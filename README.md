@@ -22,25 +22,20 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月9日更新 14 篇，共计 132+14 篇。
-* [Beyond Boxes: Mask-Guided Spatio-Temporal Feature Aggregation for Video Object Detection](http://arxiv.org/abs/2412.04915v1)
-* [DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data, Flexible Views, and Transformed Domains](http://arxiv.org/abs/2412.04789v1)<br>:star:[code](https://github.com/CARG-uOttawa/DrIFT.git)
-* [Socially-Informed Reconstruction for Pedestrian Trajectory Forecasting](http://arxiv.org/abs/2412.04673v1)
-* [EgoPoints: Advancing Point Tracking for Egocentric Videos](http://arxiv.org/abs/2412.04592v1)<br>:star:[code](https://ahmaddarkhalil.github.io/EgoPoints/)
-* [ARTeFACT: Benchmarking Segmentation Models on Diverse Analogue Media Damage](http://arxiv.org/abs/2412.04580v1)<br>:star:[code](https://daniela997.github.io/ARTeFACT/)
-* [Fairer Analysis and Demographically Balanced Face Generation for Fairer Face Verification](https://arxiv.org/abs/2412.03349)
-* [MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning](https://arxiv.org/abs/2408.11001)<br>:star:[code](https://github.com/haoningwu3639/MegaFusion)<br>:house:[project](https://haoningwu3639.github.io/MegaFusion/)
-* [LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones](https://arxiv.org/abs/2409.03460)
-* [EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos](http://arxiv.org/abs/2407.20592)<br>:house:[project](https://aashishrai3799.github.io/EgoSonics/)
-* [DeCLIP: Decoding CLIP representations for deepfake localization](https://arxiv.org/abs/2409.08849)<br>:star:[code](https://github.com/bit-ml/DeCLIP)
-* [LLS: Local Learning Rule for Deep Neural Networks Inspired by Neural Activity Synchronization](https://arxiv.org/abs/2405.15868)
-* [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/abs/2408.10845)<br>:house:[project](https://turingmotors.github.io/covla-ad/)
-* [Class-Conditioned Transformation for Enhanced Robust Image Classification](https://arxiv.org/abs/2303.15409)<br>:star:[code](https://github.com/tsachiblau/Class-Conditioned-Transformation-for-Enhanced-Robust-Image-Classification)
-* [SHIP: Structural Hierarchies for Instance-dependent Partial Labels]<br>本文介绍了一个模块化组件，旨在无缝集成到深度学习架构中，特别是在标签层次结构存在的情况下。SHIP增强了基于实例的部分标签学习（PLL），并在各种算法中提高了2.6%的准确率！
+## 12月10日更新  篇，共计 146+ 篇。
+* [Mixed Patch Infrared-Visible Modality Agnostic Object Detection](https://arxiv.org/pdf/2404.18849v2)<br>:star:[code](https://github.com/heitorrapela/MiPa)<br>:house:[project](https://heitorrapela.github.io/MiPa/)
+* [No Annotations for Object Detection in Art through Stable Diffusion](http://arxiv.org/abs/2412.06286v1)<br>:star:[code](https://github.com/patrick-john-ramos/nada)
+* [Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images](http://arxiv.org/abs/2412.05341v1)
+* [Active Learning with Context Sampling and One-vs-Rest Entropy for Semantic Segmentation](http://arxiv.org/abs/2412.06470v1)
+* [LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations](http://arxiv.org/abs/2412.06322v1)<br>:star:[code](https://github.com/Endlinc/LLaVA-SpaceSGG)
+* [HSDA: High-frequency Shuffle Data Augmentation for Bird's-Eye-View Map Segmentation](http://arxiv.org/abs/2412.06127v1)<br>:star:[code](https://github.com/Zarhult/HSDA)
+* [Swap Path Network for Robust Person Search Pre-training](http://arxiv.org/abs/2412.05433v1)<br>:star:[code](https://github.com/LLNL/spnet)
+* [Self-Supervised Learning with Probabilistic Density Labeling for Rainfall Probability Estimation](http://arxiv.org/abs/2412.05825v1)<br>:star:[code](https://github.com/joonha425/SSLPDL)
+
 
 <br>:star:[code]
 <br>:house:[project]
-
+ASDF
 
 
 ## Transformer
@@ -67,6 +62,9 @@
 ## Robots(机器人)
 * SLAM
   * [Uni-SLAM: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction](http://arxiv.org/abs/2412.00242v1)<br>:star:[code](https://shaoxiang777.github.io/project/uni-slam/)
+
+## Scene(场景)
+* [LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations](http://arxiv.org/abs/2412.06322v1)<br>:star:[code](https://github.com/Endlinc/LLaVA-SpaceSGG)
 
 ## Object Pose Estimation(物体姿态估计)
 * [Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching](http://arxiv.org/abs/2411.15860v1)<br>:star:[code](https://github.com/scy639/Gen2SM)
@@ -97,9 +95,10 @@
 * Visual Grounding
   * [Fine-Grained Spatial and Verbal Losses for 3D Visual Grounding](http://arxiv.org/abs/2411.03405v1)
 
-##
+## Semi/self-supervised learning(半/自监督)
 * 自监督
   * [HEX: Hierarchical Emergence Exploitation in Self-Supervised Algorithms](http://arxiv.org/abs/2410.23200v1)
+  * [Self-Supervised Learning with Probabilistic Density Labeling for Rainfall Probability Estimation](http://arxiv.org/abs/2412.05825v1)<br>:star:[code](https://github.com/joonha425/SSLPDL)
 
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
 * 域适应
@@ -158,6 +157,8 @@
 * [AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy](http://arxiv.org/abs/2411.16440v1)<br>:star:[code](https://github.com/dfki-av/AnonyNoise)
 * 换衣重识别
   * [DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID](http://arxiv.org/abs/2411.07205v1)<br>:star:[code](https://github.com/CroitoruAlin/dlcr)
+* 行人搜索
+  * [Swap Path Network for Robust Person Search Pre-training](http://arxiv.org/abs/2412.05433v1)<br>:star:[code](https://github.com/LLNL/spnet)
 
 ## Action Detection(动作检测)
 * 开放词汇动作检测
@@ -205,6 +206,8 @@
   * [EgoPoints: Advancing Point Tracking for Egocentric Videos](http://arxiv.org/abs/2412.04592v1)<br>:star:[code](https://ahmaddarkhalil.github.io/EgoPoints/)
 
 ## Object Detection(目标检测)
+* [Mixed Patch Infrared-Visible Modality Agnostic Object Detection](https://arxiv.org/pdf/2404.18849v2)<br>:star:[code](https://github.com/heitorrapela/MiPa)<br>:house:[project](https://heitorrapela.github.io/MiPa/)
+* [No Annotations for Object Detection in Art through Stable Diffusion](http://arxiv.org/abs/2412.06286v1)<br>:star:[code](https://github.com/patrick-john-ramos/nada)
 * 3D OD  
   * [VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation](http://arxiv.org/abs/2411.13186v1)
 * VOD 
@@ -239,10 +242,14 @@
   * [Adaptive High-Pass Kernel Prediction for Efficient Video Deblurring](http://arxiv.org/abs/2412.01559v1)<br>:star:[code](https://github.com/jibo27/AHFNet)
 
 ## Image Segmentation(图像分割)
+* [HSDA: High-frequency Shuffle Data Augmentation for Bird's-Eye-View Map Segmentation](http://arxiv.org/abs/2412.06127v1)<br>:star:[code](https://github.com/Zarhult/HSDA)
 * 语义分割
   * [COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes](http://arxiv.org/abs/2410.24139v1)
   * [Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation](http://arxiv.org/abs/2411.17610v1)
   * [Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation](http://arxiv.org/abs/2412.01595v1)
+  * [Active Learning with Context Sampling and One-vs-Rest Entropy for Semantic Segmentation](http://arxiv.org/abs/2412.06470v1)
+  * 小样本语义分割
+    * [Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images](http://arxiv.org/abs/2412.05341v1)
 * VSS
   * [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
 
