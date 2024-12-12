@@ -22,15 +22,12 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月11日更新 5 篇，共计 146+5 篇。
-* [PETALface: Parameter Efficient Transfer Learning for Low-resolution Face Recognition](https://arxiv.org/abs/2412.07771)<br>:house:[project](https://kartik-3004.github.io/PETALface/)
-* [Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds](https://arxiv.org/abs/2412.07766)
-* [Deep Joint Unrolling for Deblurring and Low-Light Image Enhancement](https://arxiv.org/abs/2412.07527)
-* [A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection](https://arxiv.org/abs/2412.07199)
-* [Retaining and Enhancing Pre-trained Knowledge in Vision-Language Models with Prompt Ensembling](https://arxiv.org/abs/2412.07077)
-
-* [WAFFLE: Multimodal Floorplan Understanding in the Wild](https://arxiv.org/abs/2412.00955)<br>:house:[project](https://tau-vailab.github.io/WAFFLE/)平面图理解
-
+## 12月12日更新 5 篇，共计 150+5 篇。
+* [SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting](http://arxiv.org/abs/2412.08536v1)
+* [Dense Depth from Event Focal Stack](http://arxiv.org/abs/2412.08120v1)
+* [Balancing Shared and Task-Specific Representations: A Hybrid Approach to Depth-Aware Video Panoptic Segmentation](http://arxiv.org/abs/2412.07966v1)<br>:house:[project](https://research.khws.io/multiformer)
+* [PGRID: Power Grid Reconstruction in Informal Developments Using High-Resolution Aerial Imagery](http://arxiv.org/abs/2412.07944v1)
+* [Pix2Poly: A Sequence Prediction Method for End-to-end Polygonal Building Footprint Extraction from Remote Sensing Imagery](http://arxiv.org/abs/2412.07899v1)<br>:star:[code](https://github.com/yeshwanth95/Pix2Poly)
 
 <br>:star:[code]
 <br>:house:[project]
@@ -205,6 +202,10 @@ ASDF
 * 虹膜检测
   * [A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection](https://arxiv.org/abs/2412.07199)
 
+## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
+* [PGRID: Power Grid Reconstruction in Informal Developments Using High-Resolution Aerial Imagery](http://arxiv.org/abs/2412.07944v1)
+* [Pix2Poly: A Sequence Prediction Method for End-to-end Polygonal Building Footprint Extraction from Remote Sensing Imagery](http://arxiv.org/abs/2412.07899v1)<br>:star:[code](https://github.com/yeshwanth95/Pix2Poly)
+
 ## Object Tracking(目标跟踪)
 * [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
 * [Improving Accuracy and Generalization for Efficient Visual Tracking](http://arxiv.org/abs/2411.18855v1)
@@ -260,6 +261,8 @@ ASDF
     * [Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images](http://arxiv.org/abs/2412.05341v1)
 * VSS
   * [Event-guided Low-light Video Semantic Segmentation](http://arxiv.org/abs/2411.00639v1)
+* VPS
+  * [Balancing Shared and Task-Specific Representations: A Hybrid Approach to Depth-Aware Video Panoptic Segmentation](http://arxiv.org/abs/2412.07966v1)<br>:house:[project](https://research.khws.io/multiformer)
 
 ## Face
 * [Continual Learning of Personalized Generative Face Models with Experience Replay](http://arxiv.org/abs/2412.02627v1)<br>:star:[code](https://anniedde.github.io/personalizedcontinuallearning.github.io/)
@@ -275,7 +278,9 @@ ASDF
   * [Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection](http://arxiv.org/abs/2411.07167v1)
 
 ## Othere(其它)
+* [Dense Depth from Event Focal Stack](http://arxiv.org/abs/2412.08120v1)
 * [MAGMA: Manifold Regularization for MAEs](http://arxiv.org/abs/2412.02871v1)<br>:star:[code](https://github.com/adondera/magma)
+* [SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting](http://arxiv.org/abs/2412.08536v1)
 * [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
 * [Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier](http://arxiv.org/abs/2410.22317v1)<br>:star:[code](https://github.com/wangkai930418/mc_ti)
 * [PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement](http://arxiv.org/abs/2410.22059v1)
