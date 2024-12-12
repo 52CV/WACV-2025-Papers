@@ -29,6 +29,8 @@
 * [A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection](https://arxiv.org/abs/2412.07199)
 * [Retaining and Enhancing Pre-trained Knowledge in Vision-Language Models with Prompt Ensembling](https://arxiv.org/abs/2412.07077)
 
+* [WAFFLE: Multimodal Floorplan Understanding in the Wild](https://arxiv.org/abs/2412.00955)<br>:house:[project](https://tau-vailab.github.io/WAFFLE/)平面图理解
+
 
 <br>:star:[code]
 <br>:house:[project]
@@ -293,6 +295,7 @@ ASDF
 * [Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications](http://arxiv.org/abs/2411.00652v1)<br>:star:[code](https://hahminlew.github.io/changer)
 * [Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field](http://arxiv.org/abs/2411.06365v1)
 * [HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images](http://arxiv.org/abs/2411.04332v1)
+* [WAFFLE: Multimodal Floorplan Understanding in the Wild](https://arxiv.org/abs/2412.00955)<br>:house:[project](https://tau-vailab.github.io/WAFFLE/)
 * [Distillation of Diffusion Features for Semantic Correspondence](http://arxiv.org/abs/2412.03512v1)<br>:star:[code](https://compvis.github.io/distilldift)
 * [Divergent Domains, Convergent Grading: Enhancing Generalization in Diabetic Retinopathy Grading](http://arxiv.org/abs/2411.02614v1)<br>:star:[code](https://github.com/sharonchokuwa/dg-adr)
 * [HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning](http://arxiv.org/abs/2411.01408v1)<br>:star:[code](https://github.com/adasfag/HeightMapNet/)
