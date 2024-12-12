@@ -22,15 +22,12 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月10日更新  篇，共计 146+ 篇。
-* [Mixed Patch Infrared-Visible Modality Agnostic Object Detection](https://arxiv.org/pdf/2404.18849v2)<br>:star:[code](https://github.com/heitorrapela/MiPa)<br>:house:[project](https://heitorrapela.github.io/MiPa/)
-* [No Annotations for Object Detection in Art through Stable Diffusion](http://arxiv.org/abs/2412.06286v1)<br>:star:[code](https://github.com/patrick-john-ramos/nada)
-* [Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images](http://arxiv.org/abs/2412.05341v1)
-* [Active Learning with Context Sampling and One-vs-Rest Entropy for Semantic Segmentation](http://arxiv.org/abs/2412.06470v1)
-* [LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations](http://arxiv.org/abs/2412.06322v1)<br>:star:[code](https://github.com/Endlinc/LLaVA-SpaceSGG)
-* [HSDA: High-frequency Shuffle Data Augmentation for Bird's-Eye-View Map Segmentation](http://arxiv.org/abs/2412.06127v1)<br>:star:[code](https://github.com/Zarhult/HSDA)
-* [Swap Path Network for Robust Person Search Pre-training](http://arxiv.org/abs/2412.05433v1)<br>:star:[code](https://github.com/LLNL/spnet)
-* [Self-Supervised Learning with Probabilistic Density Labeling for Rainfall Probability Estimation](http://arxiv.org/abs/2412.05825v1)<br>:star:[code](https://github.com/joonha425/SSLPDL)
+## 12月11日更新 5 篇，共计 146+5 篇。
+* [PETALface: Parameter Efficient Transfer Learning for Low-resolution Face Recognition](https://arxiv.org/abs/2412.07771)<br>:house:[project](https://kartik-3004.github.io/PETALface/)
+* [Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds](https://arxiv.org/abs/2412.07766)
+* [Deep Joint Unrolling for Deblurring and Low-Light Image Enhancement](https://arxiv.org/abs/2412.07527)
+* [A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection](https://arxiv.org/abs/2412.07199)
+* [Retaining and Enhancing Pre-trained Knowledge in Vision-Language Models with Prompt Ensembling](https://arxiv.org/abs/2412.07077)
 
 
 <br>:star:[code]
@@ -87,6 +84,7 @@ ASDF
 * [@Bench: Benchmarking Vision-Language Models for Human-centered Assistive Technology](https://arxiv.org/abs/2409.14215)<br>:star:[code](https://github.com/jystin/ATBench)<br>:house:[project](https://junweizheng93.github.io/publications/ATBench/ATBench.html)
 * [Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models](http://arxiv.org/abs/2411.16018v1)
 * [Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis](http://arxiv.org/abs/2412.02946v1)
+* [Retaining and Enhancing Pre-trained Knowledge in Vision-Language Models with Prompt Ensembling](https://arxiv.org/abs/2412.07077)
 * 视频语言
   * [ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos](http://arxiv.org/abs/2411.15628v1)
 * VLN
@@ -117,6 +115,8 @@ ASDF
   * [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)<br>:star:[code](https://github.com/Pixtella/Anagram-MTL)
 
 ## GAN/Image Synthesis(图像生成)
+* 纹理生成
+  * [Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds](https://arxiv.org/abs/2412.07766)
 * 图像生成
   * [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)(https://github.com/SonyResearch/RAW-Diffusion)
   * [MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning](https://arxiv.org/abs/2408.11001)<br>:star:[code](https://github.com/haoningwu3639/MegaFusion)<br>:house:[project](https://haoningwu3639.github.io/MegaFusion/)
@@ -199,6 +199,10 @@ ASDF
 * 轨迹预测
   * [Socially-Informed Reconstruction for Pedestrian Trajectory Forecasting](http://arxiv.org/abs/2412.04673v1)
 
+## Biomedical(生物特征识别)
+* 虹膜检测
+  * [A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection](https://arxiv.org/abs/2412.07199)
+
 ## Object Tracking(目标跟踪)
 * [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
 * [Improving Accuracy and Generalization for Efficient Visual Tracking](http://arxiv.org/abs/2411.18855v1)
@@ -234,6 +238,8 @@ ASDF
 * 图像修复
   * [SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM](http://arxiv.org/abs/2411.06318v1)<br>:star:[code](https://github.com/ChrisChen1023/SEM-Net)
   * [I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting](http://arxiv.org/abs/2411.19050v1)<br>:star:[code](https://cilabuniba.github.io/i-dream-my-painting)
+* 图像增强
+  * [Deep Joint Unrolling for Deblurring and Low-Light Image Enhancement](https://arxiv.org/abs/2412.07527)
 * 图像质量评估
   * [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://arxiv.org/abs/2411.17390)<br>:star:[code](https://github.com/Jingtong0527/DRI-IQA)
 * 视频增强
@@ -255,6 +261,8 @@ ASDF
 
 ## Face
 * [Continual Learning of Personalized Generative Face Models with Experience Replay](http://arxiv.org/abs/2412.02627v1)<br>:star:[code](https://anniedde.github.io/personalizedcontinuallearning.github.io/)
+* 人脸识别
+  * [PETALface: Parameter Efficient Transfer Learning for Low-resolution Face Recognition](https://arxiv.org/abs/2412.07771)<br>:house:[project](https://kartik-3004.github.io/PETALface/)
 * 人脸验证
   * [Fairer Analysis and Demographically Balanced Face Generation for Fairer Face Verification](https://arxiv.org/abs/2412.03349)
 * 人脸生成
