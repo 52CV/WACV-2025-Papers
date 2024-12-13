@@ -22,12 +22,9 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月12日更新 5 篇，共计 150+5 篇。
-* [SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting](http://arxiv.org/abs/2412.08536v1)
-* [Dense Depth from Event Focal Stack](http://arxiv.org/abs/2412.08120v1)
-* [Balancing Shared and Task-Specific Representations: A Hybrid Approach to Depth-Aware Video Panoptic Segmentation](http://arxiv.org/abs/2412.07966v1)<br>:house:[project](https://research.khws.io/multiformer)
-* [PGRID: Power Grid Reconstruction in Informal Developments Using High-Resolution Aerial Imagery](http://arxiv.org/abs/2412.07944v1)
-* [Pix2Poly: A Sequence Prediction Method for End-to-end Polygonal Building Footprint Extraction from Remote Sensing Imagery](http://arxiv.org/abs/2412.07899v1)<br>:star:[code](https://github.com/yeshwanth95/Pix2Poly)
+## 12月13日更新 2 篇，共计 155+2 篇。
+* [SyncViolinist: Music-Oriented Violin Motion Generation Based on Bowing and Fingering](https://arxiv.org/abs/2412.08343)<br>:star:[code](https://github.com/Kakanat/SyncViolinist)
+* [Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering](https://arxiv.org/abs/2412.09230)
 
 <br>:star:[code]
 <br>:house:[project]
@@ -113,6 +110,9 @@ ASDF
 * 多任务学习
   * [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)<br>:star:[code](https://github.com/Pixtella/Anagram-MTL)
 
+## Motion Generation(人体运动生成)
+* [SyncViolinist: Music-Oriented Violin Motion Generation Based on Bowing and Fingering](https://arxiv.org/abs/2412.08343)<br>:star:[code](https://github.com/Kakanat/SyncViolinist)
+
 ## GAN/Image Synthesis(图像生成)
 * 纹理生成
   * [Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds](https://arxiv.org/abs/2412.07766)
@@ -127,6 +127,9 @@ ASDF
   * [DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.19390v1)
 * 图像-图像翻译
   * [Uncertainty-Aware Regularization for Image-to-Image Translation](http://arxiv.org/abs/2412.01705v1)
+
+## Visual Question Answering(视觉问答)
+* [Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering](https://arxiv.org/abs/2412.09230)
 
 ## OCR
 * [Text Change Detection in Multilingual Documents Using Image Comparison](http://arxiv.org/abs/2412.04137v1)
