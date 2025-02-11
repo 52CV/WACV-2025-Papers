@@ -22,11 +22,9 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 2月8日更新共计 194+3 篇。
-* [All-in-One Image Compression and Restoration](https://arxiv.org/abs/2502.03649)
-* [Advancing Weight and Channel Sparsification with Enhanced Saliency](https://arxiv.org/abs/2502.03658)
-* [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173)
-
+## 2月11日更新共计 197+2 篇。
+* [BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos](https://arxiv.org/abs/2501.07800)<br>:house:[project](https://m-usamasaleem.github.io/publication/BioPose/BioPose.html)
+* [Breaking the Frame: Visual Place Recognition by Overlap Prediction](https://arxiv.org/abs/2406.16204)<br>:star:[code](https://github.com/weitong8591/vop)
 
 <br>:star:[code]
 <br>:house:[project]
