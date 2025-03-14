@@ -2,7 +2,7 @@
 ![Alt text](71b01f14605d807ad78d267e5528243.jpg)
 ## 会议时间：2025年2月28日–3月4日
 ## 会议网址：https://wacv2025.thecvf.com/
-## ❣❣❣ WACV 2024 论文分类整理ing
+## ❣❣❣ WACV 2024 论文分类整理已更新完毕
 
 
 ## 查看2024年综述文献点这里↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys)
@@ -22,372 +22,16 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 2月11日更新共计 197+2 篇。
-888888
-
-
-
-* [MixDiff: Mixing Natural and Synthetic Images for Robust Self-Supervised Representations](https://openaccess.thecvf.com/content/WACV2025/html/Bafghi_MixDiff_Mixing_Natural_and_Synthetic_Images_for_Robust_Self-Supervised_Representations_WACV_2025_paper.html)
-
-
-* [Unsupervised Single-Image Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training](https://openaccess.thecvf.com/content/WACV2025/html/Sato_Unsupervised_Single-Image_Intrinsic_Image_Decomposition_with_LiDAR_Intensity_Enhanced_Training_WACV_2025_paper.html)
-* [3D Synthesis for Architectural Design](https://openaccess.thecvf.com/content/WACV2025/html/Tsai_3D_Synthesis_for_Architectural_Design_WACV_2025_paper.html)
-* [Assessing Visually-Continuous Corruption Robustness of Neural Networks Relative to Human Performance](https://openaccess.thecvf.com/content/WACV2025/html/Shen_Assessing_Visually-Continuous_Corruption_Robustness_of_Neural_Networks_Relative_to_Human_WACV_2025_paper.html)
-
-
-* [Cross-Domain and Cross-Dimension Learning for Image-to-Graph Transformers](https://openaccess.thecvf.com/content/WACV2025/html/Berger_Cross-Domain_and_Cross-Dimension_Learning_for_Image-to-Graph_Transformers_WACV_2025_paper.html)
-
-* [SpiralMLP: A Lightweight Vision MLP Architecture](https://openaccess.thecvf.com/content/WACV2025/html/Mu_SpiralMLP_A_Lightweight_Vision_MLP_Architecture_WACV_2025_paper.html)
-
-
-* [MVMD: A Multi-View Approach for Enhanced Mirror Detection](https://openaccess.thecvf.com/content/WACV2025/html/Shen_MVMD_A_Multi-View_Approach_for_Enhanced_Mirror_Detection_WACV_2025_paper.html)
-* [Mind the Map! Accounting for Existing Maps When Estimating Online HDMaps from Sensors](https://openaccess.thecvf.com/content/WACV2025/html/Sun_Mind_the_Map_Accounting_for_Existing_Maps_When_Estimating_Online_WACV_2025_paper.html)
-* [Treading Towards Privacy-Preserving Table Structure Recognition](https://openaccess.thecvf.com/content/WACV2025/html/Raja_Treading_Towards_Privacy-Preserving_Table_Structure_Recognition_WACV_2025_paper.html)
-
-* [Zero-Shot Class Unlearning in CLIP with Synthetic Samples](https://openaccess.thecvf.com/content/WACV2025/html/Kravets_Zero-Shot_Class_Unlearning_in_CLIP_with_Synthetic_Samples_WACV_2025_paper.html)
-
-
-
-* [A Multi-Task Supervised Compression Model for Split Computing](https://openaccess.thecvf.com/content/WACV2025/html/Matsubara_A_Multi-Task_Supervised_Compression_Model_for_Split_Computing_WACV_2025_paper.html)
-
-
-* [TRUST: Time-Domain Residual Unsupervised Stability Technique for Improved Heart Rate Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Ahmad_TRUST_Time-Domain_Residual_Unsupervised_Stability_Technique_for_Improved_Heart_Rate_WACV_2025_paper.html)
-* [Attention-Guided Masked Autoencoders for Learning Image Representations](https://openaccess.thecvf.com/content/WACV2025/html/Sick_Attention-Guided_Masked_Autoencoders_for_Learning_Image_Representations_WACV_2025_paper.html)
-
-* [MVAD: A Multiple Visual Artifact Detector for Video Streaming](https://openaccess.thecvf.com/content/WACV2025/html/Feng_MVAD_A_Multiple_Visual_Artifact_Detector_for_Video_Streaming_WACV_2025_paper.html)
-* [Physiology-Aware PolySnake for Coronary Vessel Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Ruan_Physiology-Aware_PolySnake_for_Coronary_Vessel_Segmentation_WACV_2025_paper.html)
-
-
-* [CryoMAE: Few-Shot Cryo-EM Particle Picking with Masked Autoencoders](https://openaccess.thecvf.com/content/WACV2025/html/Xu_CryoMAE_Few-Shot_Cryo-EM_Particle_Picking_with_Masked_Autoencoders_WACV_2025_paper.html)
-* [BroadTrack: Broadcast Camera Tracking for Soccer](https://openaccess.thecvf.com/content/WACV2025/html/Magera_BroadTrack_Broadcast_Camera_Tracking_for_Soccer_WACV_2025_paper.html)
-
-* [Adaptive and Temporally Consistent Gaussian Surfels for Multi-View Dynamic Reconstruction](https://openaccess.thecvf.com/content/WACV2025/html/Chen_Adaptive_and_Temporally_Consistent_Gaussian_Surfels_for_Multi-View_Dynamic_Reconstruction_WACV_2025_paper.html)
-* [ZeroComp: Zero-Shot Object Compositing from Image Intrinsics via Diffusion](https://openaccess.thecvf.com/content/WACV2025/html/Zhang_ZeroComp_Zero-Shot_Object_Compositing_from_Image_Intrinsics_via_Diffusion_WACV_2025_paper.html)
-
-
-* [Enriching Local Patterns with Multi-Token Attention for Broad-Sight Neural Networks](https://openaccess.thecvf.com/content/WACV2025/html/Kang_Enriching_Local_Patterns_with_Multi-Token_Attention_for_Broad-Sight_Neural_Networks_WACV_2025_paper.html)
-
-
-* [Towards On-the-Fly Novel Category Discovery in Dynamic Long-Tailed Distributions](https://openaccess.thecvf.com/content/WACV2025/html/Jung_Towards_On-the-Fly_Novel_Category_Discovery_in_Dynamic_Long-Tailed_Distributions_WACV_2025_paper.html)
-* [Survival Prediction in Lung Cancer through Multi-Modal Representation Learning](https://openaccess.thecvf.com/content/WACV2025/html/Farooq_Survival_Prediction_in_Lung_Cancer_through_Multi-Modal_Representation_Learning_WACV_2025_paper.html)
-* [PALO: A Polyglot Large Multimodal Model for 5B People](https://openaccess.thecvf.com/content/WACV2025/html/Rasheed_PALO_A_Polyglot_Large_Multimodal_Model_for_5B_People_WACV_2025_paper.html)
-
-* [Revisiting Deep Archetypal Analysis for Phenotype Discovery in High Content Imaging](https://openaccess.thecvf.com/content/WACV2025/html/Wieser_Revisiting_Deep_Archetypal_Analysis_for_Phenotype_Discovery_in_High_Content_WACV_2025_paper.html)
-* [GaussianBeV : 3D Gaussian Representation Meets Perception Models for BeV Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Chabot_GaussianBeV__3D_Gaussian_Representation_Meets_Perception_Models_for_BeV_WACV_2025_paper.html)
-
-
-* [A 0-Shot Self-Attention Mechanism for Accelerated Diagonal Attention](https://openaccess.thecvf.com/content/WACV2025/html/Viti_A_0-Shot_Self-Attention_Mechanism_for_Accelerated_Diagonal_Attention_WACV_2025_paper.html)
-
-
-* [Pre-Trained Multiple Latent Variable Generative Models are Good Defenders Against Adversarial Attacks](https://openaccess.thecvf.com/content/WACV2025/html/Serez_Pre-Trained_Multiple_Latent_Variable_Generative_Models_are_Good_Defenders_Against_WACV_2025_paper.html)
-
-
-* [Long-Term Ad Memorability: Understanding & Generating Memorable Ads](https://openaccess.thecvf.com/content/WACV2025/html/Si_Long-Term_Ad_Memorability_Understanding__Generating_Memorable_Ads_WACV_2025_paper.html)
-
-
-* [Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models](https://openaccess.thecvf.com/content/WACV2025/html/Mukherjee_Crossroads_of_Continents_Automated_Artifact_Extraction_for_Cultural_Adaptation_with_WACV_2025_paper.html)
-* [SoundSil-DS: Deep Denoising and Segmentation of Sound-Field Images with Silhouettes](https://openaccess.thecvf.com/content/WACV2025/html/Tanigawa_SoundSil-DS_Deep_Denoising_and_Segmentation_of_Sound-Field_Images_with_Silhouettes_WACV_2025_paper.html)
-
-* [Neural Graph Map: Dense Mapping with Efficient Loop Closure Integration](https://openaccess.thecvf.com/content/WACV2025/html/Bruns_Neural_Graph_Map_Dense_Mapping_with_Efficient_Loop_Closure_Integration_WACV_2025_paper.html)
-* [Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations](https://openaccess.thecvf.com/content/WACV2025/html/Tschirschwitz_Label_Convergence_Defining_an_Upper_Performance_Bound_in_Object_Recognition_WACV_2025_paper.html)
-* [A Two-Head Loss Function for Deep Average-K Classification](https://openaccess.thecvf.com/content/WACV2025/html/Garcin_A_Two-Head_Loss_Function_for_Deep_Average-K_Classification_WACV_2025_paper.html)
-
-* [PrivateEye: In-Sensor Privacy Preservation Through Optical Feature Separation](https://openaccess.thecvf.com/content/WACV2025/html/Boloor_PrivateEye_In-Sensor_Privacy_Preservation_Through_Optical_Feature_Separation_WACV_2025_paper.html)
-
-* [DT-LSD: Deformable Transformer-Based Line Segment Detection](https://openaccess.thecvf.com/content/WACV2025/html/Janampa_DT-LSD_Deformable_Transformer-Based_Line_Segment_Detection_WACV_2025_paper.html)
-
-
-
-
-
-
-
-* [EDMB: Edge Detector with Mamba](https://openaccess.thecvf.com/content/WACV2025/html/Li_EDMB_Edge_Detector_with_Mamba_WACV_2025_paper.html)
-
-* [Data Augmentation for Surgical Scene Segmentation with Anatomy-Aware Diffusion Models](https://openaccess.thecvf.com/content/WACV2025/html/Venkatesh_Data_Augmentation_for_Surgical_Scene_Segmentation_with_Anatomy-Aware_Diffusion_Models_WACV_2025_paper.html)
-
-
-
-
-* [Metric Compatible Training for Online Backfilling in Large-Scale Retrieval](https://openaccess.thecvf.com/content/WACV2025/html/Seo_Metric_Compatible_Training_for_Online_Backfilling_in_Large-Scale_Retrieval_WACV_2025_paper.html)
-
-
-
-
-* [PULSE: Physiological Understanding with Liquid Signal Extraction](https://openaccess.thecvf.com/content/WACV2025/html/Ahmad_PULSE_Physiological_Understanding_with_Liquid_Signal_Extraction_WACV_2025_paper.html)
-* [On Which Data Distribution (Synthetic or Real) We Should Rely for Soft Biometric Classification](https://openaccess.thecvf.com/content/WACV2025/html/A_On_Which_Data_Distribution_Synthetic_or_Real_We_Should_Rely_WACV_2025_paper.html)
-
-
-
-* [HybridDepth: Robust Metric Depth Fusion by Leveraging Depth from Focus and Single-Image Priors](https://openaccess.thecvf.com/content/WACV2025/html/Ganj_HybridDepth_Robust_Metric_Depth_Fusion_by_Leveraging_Depth_from_Focus_WACV_2025_paper.html)
-
-* [VHS: High-Resolution Iterative Stereo Matching with Visual Hull Priors](https://openaccess.thecvf.com/content/WACV2025/html/Plack_VHS_High-Resolution_Iterative_Stereo_Matching_with_Visual_Hull_Priors_WACV_2025_paper.html)
-
-
-
-
-* [MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction](https://openaccess.thecvf.com/content/WACV2025/html/Song_MemFusionMap_Working_Memory_Fusion_for_Online_Vectorized_HD_Map_Construction_WACV_2025_paper.html)
-
-
-* [Learning the Power of "No": Foundation Models with Negations](https://openaccess.thecvf.com/content/WACV2025/html/Singh_Learning_the_Power_of_No_Foundation_Models_with_Negations_WACV_2025_paper.html)
-
-
-* [DiffQRCoder: Diffusion-Based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement](https://openaccess.thecvf.com/content/WACV2025/html/Liao_DiffQRCoder_Diffusion-Based_Aesthetic_QR_Code_Generation_with_Scanning_Robustness_Guided_WACV_2025_paper.html)
-
-* [Disentangle Source and Target Knowledge for Continual Test-Time Adaptation](https://openaccess.thecvf.com/content/WACV2025/html/Ma_Disentangle_Source_and_Target_Knowledge_for_Continual_Test-Time_Adaptation_WACV_2025_paper.html)
-* [LiLMaps: Learnable Implicit Language Maps](https://openaccess.thecvf.com/content/WACV2025/html/Kruzhkov_LiLMaps_Learnable_Implicit_Language_Maps_WACV_2025_paper.html)
-
-
-* [SpaGBOL: Spatial-Graph-Based Orientated Localisation](https://openaccess.thecvf.com/content/WACV2025/html/Shore_SpaGBOL_Spatial-Graph-Based_Orientated_Localisation_WACV_2025_paper.html)
-
-
-
-* [SegBuilder: A Semi-Automatic Annotation Tool for Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Reza_SegBuilder_A_Semi-Automatic_Annotation_Tool_for_Segmentation_WACV_2025_paper.html)
-
-
-
-* [DTA: Dual Temporal-Channel-Wise Attention for Spiking Neural Networks](https://openaccess.thecvf.com/content/WACV2025/html/Kim_DTA_Dual_Temporal-Channel-Wise_Attention_for_Spiking_Neural_Networks_WACV_2025_paper.html)
-
-
-
-* [DocMatcher: Document Image Dewarping via Structural and Textual Line Matching](https://openaccess.thecvf.com/content/WACV2025/html/Hertlein_DocMatcher_Document_Image_Dewarping_via_Structural_and_Textual_Line_Matching_WACV_2025_paper.html)
-
-* [LumiGauss: Relightable Gaussian Splatting in the Wild](https://openaccess.thecvf.com/content/WACV2025/html/Kaleta_LumiGauss_Relightable_Gaussian_Splatting_in_the_Wild_WACV_2025_paper.html)
-
-
-* [Improving Shift Invariance in Convolutional Neural Networks with Translation Invariant Polyphase Sampling](https://openaccess.thecvf.com/content/WACV2025/html/Saha_Improving_Shift_Invariance_in_Convolutional_Neural_Networks_with_Translation_Invariant_WACV_2025_paper.html)
-
-
-
-
-* [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://openaccess.thecvf.com/content/WACV2025/html/Wei_NeuManifold_Neural_Watertight_Manifold_Reconstruction_with_Efficient_and_High-Quality_Rendering_WACV_2025_paper.html)
-* [Learning Visual-Semantic Hierarchical Attribute Space for Interpretable Open-Set Recognition](https://openaccess.thecvf.com/content/WACV2025/html/Xu_Learning_Visual-Semantic_Hierarchical_Attribute_Space_for_Interpretable_Open-Set_Recognition_WACV_2025_paper.html)
-
-* [Knockoff Branch: Model Stealing Attack via Adding Neurons in the Pre-Trained Model](https://openaccess.thecvf.com/content/WACV2025/html/Hung_Knockoff_Branch_Model_Stealing_Attack_via_Adding_Neurons_in_the_WACV_2025_paper.html)
-
-
-
-
-
-
-* [Multi-Spectral Image Color Reproduction](https://openaccess.thecvf.com/content/WACV2025/html/Li_Multi-Spectral_Image_Color_Reproduction_WACV_2025_paper.html)
-* [Low-Frequency Black-Box Backdoor Attack via Evolutionary Algorithm](https://openaccess.thecvf.com/content/WACV2025/html/Qiao_Low-Frequency_Black-Box_Backdoor_Attack_via_Evolutionary_Algorithm_WACV_2025_paper.html)
-
-
-7777777
-* [MDCN-PS: Monocular-Depth-Guided Coarse Normal Attention for Robust Photometric Stereo](https://openaccess.thecvf.com/content/WACV2025/html/Yamaguchi_MDCN-PS_Monocular-Depth-Guided_Coarse_Normal_Attention_for_Robust_Photometric_Stereo_WACV_2025_paper.html)
-
-
-* [Feature Space Perturbation: A Panacea to Enhanced Transferability Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Khoba_Feature_Space_Perturbation_A_Panacea_to_Enhanced_Transferability_Estimation_WACV_2025_paper.html)
-* [Radiance Field-Based Pose Estimation via Decoupled Optimization Under Challenging Initial Conditions](https://openaccess.thecvf.com/content/WACV2025/html/Lu_Radiance_Field-Based_Pose_Estimation_via_Decoupled_Optimization_Under_Challenging_Initial_WACV_2025_paper.html)
-
-* [Improving Uncertainty Estimation with Confidence-Aware Training Data](https://openaccess.thecvf.com/content/WACV2025/html/Korchagin_Improving_Uncertainty_Estimation_with_Confidence-Aware_Training_Data_WACV_2025_paper.html)
-
-
-* [Sifting through the Haystack - Efficiently Finding Rare Animal Behaviors in Large-Scale Datasets](https://openaccess.thecvf.com/content/WACV2025/html/Bar_Sifting_through_the_Haystack_-_Efficiently_Finding_Rare_Animal_Behaviors_WACV_2025_paper.html)稀有动物行为
-
-
-* [Decomposed Distribution Matching in Dataset Condensation](https://openaccess.thecvf.com/content/WACV2025/html/Malakshan_Decomposed_Distribution_Matching_in_Dataset_Condensation_WACV_2025_paper.html)
-
-* [Deduce and Select Evidences with Language Models for Training-Free Video Goal Inference](https://openaccess.thecvf.com/content/WACV2025/html/Ee_Deduce_and_Select_Evidences_with_Language_Models_for_Training-Free_Video_WACV_2025_paper.html)
-
-
-* [Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking](https://openaccess.thecvf.com/content/WACV2025/html/Singh_Towards_Secure_and_Usable_3D_Assets_A_Novel_Framework_for_WACV_2025_paper.html)
-
-* [Can Adversarial Examples Be Parsed to Reveal Victim Model Information?](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Can_Adversarial_Examples_Be_Parsed_to_Reveal_Victim_Model_Information_WACV_2025_paper.html)
-
-* [SAND: Enhancing Open-Set Neuron Descriptions through Spatial Awareness](https://openaccess.thecvf.com/content/WACV2025/html/Srinivas_SAND_Enhancing_Open-Set_Neuron_Descriptions_through_Spatial_Awareness_WACV_2025_paper.html)
-* [When Visual State Space Model Meets Backdoor Attacks](https://openaccess.thecvf.com/content/WACV2025/html/Nagaonkar_When_Visual_State_Space_Model_Meets_Backdoor_Attacks_WACV_2025_paper.html)
-
-* [Token Turing Machines are Efficient Vision Models](https://openaccess.thecvf.com/content/WACV2025/html/Jajal_Token_Turing_Machines_are_Efficient_Vision_Models_WACV_2025_paper.html)
-
-
-
-
-
-
-* [Multi-Aperture Transformers for 3D (MAT3D) Segmentation of Clinical and Microscopic Images](https://openaccess.thecvf.com/content/WACV2025/html/Sohaib_Multi-Aperture_Transformers_for_3D_MAT3D_Segmentation_of_Clinical_and_Microscopic_WACV_2025_paper.html)
-* [Harmonizing Attention: Training-Free Texture-Aware Geometry Transfer](https://openaccess.thecvf.com/content/WACV2025/html/Ikuta_Harmonizing_Attention_Training-Free_Texture-Aware_Geometry_Transfer_WACV_2025_paper.html)
-
-* [DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing](https://openaccess.thecvf.com/content/WACV2025/html/Dong_DiTAS_Quantizing_Diffusion_Transformers_via_Enhanced_Activation_Smoothing_WACV_2025_paper.html)
-
-
-* [SmartKC++: Improving Performance of Smartphone-Based Corneal Topographers](https://openaccess.thecvf.com/content/WACV2025/html/Ganatra_SmartKC_Improving_Performance_of_Smartphone-Based_Corneal_Topographers_WACV_2025_paper.html)
-* [Partial Texture VAE: Color and Texture Encoder for Rock Particle Images](https://openaccess.thecvf.com/content/WACV2025/html/Yamada_Partial_Texture_VAE_Color_and_Texture_Encoder_for_Rock_Particle_WACV_2025_paper.html)
-* [Learning Keypoints for Multi-Agent Behavior Analysis using Self-Supervision](https://openaccess.thecvf.com/content/WACV2025/html/Khalil_Learning_Keypoints_for_Multi-Agent_Behavior_Analysis_using_Self-Supervision_WACV_2025_paper.html)
-
-
-* [Tumor Synthesis Conditioned on Radiomics](https://openaccess.thecvf.com/content/WACV2025/html/Kim_Tumor_Synthesis_Conditioned_on_Radiomics_WACV_2025_paper.html)
-
-
-
-
-* [MFNeRF: Memory Efficient NeRF with Mixed-Feature Hash Table](https://openaccess.thecvf.com/content/WACV2025/html/Lee_MFNeRF_Memory_Efficient_NeRF_with_Mixed-Feature_Hash_Table_WACV_2025_paper.html)
-
-
-
-
-* [NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding](https://openaccess.thecvf.com/content/WACV2025/html/Weerakoon_NeuroViG_-_Integrating_Event_Cameras_for_Resource-Efficient_Video_Grounding_WACV_2025_paper.html)
-* [Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models](https://openaccess.thecvf.com/content/WACV2025/html/Chrabaszcz_Aggregated_Attributions_for_Explanatory_Analysis_of_3D_Segmentation_Models_WACV_2025_paper.html)
-
-* [On Neural BRDFs: A Thorough Comparison of State-of-the-Art Approaches](https://openaccess.thecvf.com/content/WACV2025/html/Hofherr_On_Neural_BRDFs_A_Thorough_Comparison_of_State-of-the-Art_Approaches_WACV_2025_paper.html)
-
-
-* [NPL-MVPS: Neural Point-Light Multi-View Photometric Stereo](https://openaccess.thecvf.com/content/WACV2025/html/Logothetis_NPL-MVPS_Neural_Point-Light_Multi-View_Photometric_Stereo_WACV_2025_paper.html)
-
-* [Uncertainty-Guided Metric Learning without Labels](https://openaccess.thecvf.com/content/WACV2025/html/Devalraju_Uncertainty-Guided_Metric_Learning_without_Labels_WACV_2025_paper.html)
-
-* [MetaVIn: Meteorological and Visual Integration for Atmospheric Turbulence Strength Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Saha_MetaVIn_Meteorological_and_Visual_Integration_for_Atmospheric_Turbulence_Strength_Estimation_WACV_2025_paper.html)
-
-
-* [Latency Robust Cooperative Perception using Asynchronous Feature Fusion](https://openaccess.thecvf.com/content/WACV2025/html/Wang_Latency_Robust_Cooperative_Perception_using_Asynchronous_Feature_Fusion_WACV_2025_paper.html)
-
-
-* [Social EgoMesh Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Scofano_Social_EgoMesh_Estimation_WACV_2025_paper.html)
-
-* [MENTOR: Human Perception-Guided Pretraining for Increased Generalization](https://openaccess.thecvf.com/content/WACV2025/html/Crum_MENTOR_Human_Perception-Guided_Pretraining_for_Increased_Generalization_WACV_2025_paper.html)
-
-
-* [FRAUD-Net: Fraud News Detection using Sample Uncertainty & Domain Aware Generalized Network](https://openaccess.thecvf.com/content/WACV2025/html/Patel_FRAUD-Net_Fraud_News_Detection_using_Sample_Uncertainty__Domain_Aware_WACV_2025_paper.html)
-
-* [PLReMix: Combating Noisy Labels with Pseudo-Label Relaxed Contrastive Representation Learning](https://openaccess.thecvf.com/content/WACV2025/html/Liu_PLReMix_Combating_Noisy_Labels_with_Pseudo-Label_Relaxed_Contrastive_Representation_Learning_WACV_2025_paper.html)
-
-* [An Investigation on LLMs' Visual Understanding Ability using SVG for Image-Text Bridging](https://openaccess.thecvf.com/content/WACV2025/html/Cai_An_Investigation_on_LLMs_Visual_Understanding_Ability_using_SVG_for_WACV_2025_paper.html)
-* [RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images](https://openaccess.thecvf.com/content/WACV2025/html/Cruz_RiemStega_Covariance-Based_Loss_for_Print-Proof_Transmission_of_Data_in_Images_WACV_2025_paper.html)
-* [Rethinking Low-Rank Adaptation in Vision: Exploring Head-Level Responsiveness Across Diverse Tasks](https://openaccess.thecvf.com/content/WACV2025/html/Zhong_Rethinking_Low-Rank_Adaptation_in_Vision_Exploring_Head-Level_Responsiveness_Across_Diverse_WACV_2025_paper.html)
-
-
-* [Transferring Foundation Models for Generalizable Robotic Manipulation](https://openaccess.thecvf.com/content/WACV2025/html/Yang_Transferring_Foundation_Models_for_Generalizable_Robotic_Manipulation_WACV_2025_paper.html)
-* [Robust Novelty Detection through Style-Conscious Feature Ranking](https://openaccess.thecvf.com/content/WACV2025/html/Smeu_Robust_Novelty_Detection_through_Style-Conscious_Feature_Ranking_WACV_2025_paper.html)
-
-* [From Visual Explanations to Counterfactual Explanations with Latent Diffusion](https://openaccess.thecvf.com/content/WACV2025/html/Luu_From_Visual_Explanations_to_Counterfactual_Explanations_with_Latent_Diffusion_WACV_2025_paper.html)
-
-* [Learning Unified Distance Metric Across Diverse Data Distributions with Parameter-Efficient Transfer Learning](https://openaccess.thecvf.com/content/WACV2025/html/Kim_Learning_Unified_Distance_Metric_Across_Diverse_Data_Distributions_with_Parameter-Efficient_WACV_2025_paper.html)
-* [VisualFusion: Enhancing Blog Content with Advanced Infographic Pipeline](https://openaccess.thecvf.com/content/WACV2025/html/Deo_VisualFusion_Enhancing_Blog_Content_with_Advanced_Infographic_Pipeline_WACV_2025_paper.html)
-
-* [Can Out-of-Domain Data Help to Learn Domain-Specific Prompts for Multimodal Misinformation Detection?](https://openaccess.thecvf.com/content/WACV2025/html/Bhattacharya_Can_Out-of-Domain_Data_Help_to_Learn_Domain-Specific_Prompts_for_Multimodal_WACV_2025_paper.html)
-
-
-* [eLIR-Net: An Efficient AI Solution for Image Retouching](https://openaccess.thecvf.com/content/WACV2025/html/Zhao_eLIR-Net_An_Efficient_AI_Solution_for_Image_Retouching_WACV_2025_paper.html)
-
-* [Guardian of the Ensembles: Introducing Pairwise Adversarially Robust Loss for Resisting Adversarial Attacks in DNN Ensembles](https://openaccess.thecvf.com/content/WACV2025/html/Shukla_Guardian_of_the_Ensembles_Introducing_Pairwise_Adversarially_Robust_Loss_for_WACV_2025_paper.html)
-* [A Conic Transformation Approach for Solving the Perspective-Three-Point Problem](https://openaccess.thecvf.com/content/WACV2025/html/Wu_A_Conic_Transformation_Approach_for_Solving_the_Perspective-Three-Point_Problem_WACV_2025_paper.html)
-
-
-* [Revisiting Machine Unlearning with Dimensional Alignment](https://openaccess.thecvf.com/content/WACV2025/html/Seo_Revisiting_Machine_Unlearning_with_Dimensional_Alignment_WACV_2025_paper.html)
-* [OT-VP: Optimal Transport-Guided Visual Prompting for Test-Time Adaptation](https://openaccess.thecvf.com/content/WACV2025/html/Zhang_OT-VP_Optimal_Transport-Guided_Visual_Prompting_for_Test-Time_Adaptation_WACV_2025_paper.html)
-
-
-* [VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos](https://openaccess.thecvf.com/content/WACV2025/html/Lin_VMAs_Video-to-Music_Generation_via_Semantic_Alignment_in_Web_Music_Videos_WACV_2025_paper.html)
-
-
-* [Diffusion-Based Generative Regularization for Supervised Discriminative Learning](https://openaccess.thecvf.com/content/WACV2025/html/Asakura_Diffusion-Based_Generative_Regularization_for_Supervised_Discriminative_Learning_WACV_2025_paper.html)
-
-
-* [Per-Pixel Solution of Multispectral Photometric Stereo](https://openaccess.thecvf.com/content/WACV2025/html/Ishihara_Per-Pixel_Solution_of_Multispectral_Photometric_Stereo_WACV_2025_paper.html)
-
-
-* [AutoProSAM: Automated Prompting SAM for 3D Multi-Organ Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Li_AutoProSAM_Automated_Prompting_SAM_for_3D_Multi-Organ_Segmentation_WACV_2025_paper.html)
-* [VideoGameBunny: Towards Vision Assistants for Video Games](https://openaccess.thecvf.com/content/WACV2025/html/Taesiri_VideoGameBunny_Towards_Vision_Assistants_for_Video_Games_WACV_2025_paper.html)
-
-* [NAT: Learning to Attack Neurons for Enhanced Adversarial Transferability](https://openaccess.thecvf.com/content/WACV2025/html/Nakka_NAT_Learning_to_Attack_Neurons_for_Enhanced_Adversarial_Transferability_WACV_2025_paper.html)
-* [GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-Grained Video-Language Learning](https://openaccess.thecvf.com/content/WACV2025/html/Wang_GEXIA_Granularity_Expansion_and_Iterative_Approximation_for_Scalable_Multi-Grained_Video-Language_WACV_2025_paper.html)
-
-* [PositiveCoOp: Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations](https://openaccess.thecvf.com/content/WACV2025/html/Rawlekar_PositiveCoOp_Rethinking_Prompting_Strategies_for_Multi-Label_Recognition_with_Partial_Annotations_WACV_2025_paper.html)
-
-
-* [SUM: Saliency Unification through Mamba for Visual Attention Modeling](https://openaccess.thecvf.com/content/WACV2025/html/Hosseini_SUM_Saliency_Unification_through_Mamba_for_Visual_Attention_Modeling_WACV_2025_paper.html)
-
-* [Shift Equivariant Pose Network](https://openaccess.thecvf.com/content/WACV2025/html/Wang_Shift_Equivariant_Pose_Network_WACV_2025_paper.html)
-
-
-
-
-
-* [Flowering Time Prediction of Wheat from DIA-MS Data](https://openaccess.thecvf.com/content/WACV2025/html/Yang_Flowering_Time_Prediction_of_Wheat_from_DIA-MS_Data_WACV_2025_paper.html)
-
-* [Forensic Iris Image-Based Post-Mortem Interval Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Bhuiyan_Forensic_Iris_Image-Based_Post-Mortem_Interval_Estimation_WACV_2025_paper.html)
-* [MFTrans: A Multi-Resolution Fusion Transformer for Robust Tumor Segmentation in Whole Slide Images](https://openaccess.thecvf.com/content/WACV2025/html/Yang_MFTrans_A_Multi-Resolution_Fusion_Transformer_for_Robust_Tumor_Segmentation_in_WACV_2025_paper.html)
-* [360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation](https://openaccess.thecvf.com/content/WACV2025/html/Wang_360PanT_Training-Free_Text-Driven_360-Degree_Panorama-to-Panorama_Translation_WACV_2025_paper.html)
-
-* [DARDA: Domain-Aware Real-Time Dynamic Neural Network Adaptation](https://openaccess.thecvf.com/content/WACV2025/html/Rifat_DARDA_Domain-Aware_Real-Time_Dynamic_Neural_Network_Adaptation_WACV_2025_paper.html)
-
-
-* [SV-data2vec: Guiding Video Representation Learning with Latent Skeleton Targets](https://openaccess.thecvf.com/content/WACV2025/html/Dozdor_SV-data2vec_Guiding_Video_Representation_Learning_with_Latent_Skeleton_Targets_WACV_2025_paper.html)
-
-
-* [Make VLM Recognize Visual Hallucination on Cartoon Character Image with Pose Information](https://openaccess.thecvf.com/content/WACV2025/html/Kim_Make_VLM_Recognize_Visual_Hallucination_on_Cartoon_Character_Image_with_WACV_2025_paper.html)识别卡通人物形象
-
-
-9999999999999999999999
-
-
-
-* [MVFNet: Multipurpose Video Forensics Network using Multiple Forms of Forensic Evidence](https://openaccess.thecvf.com/content/WACV2025/html/Nguyen_MVFNet_Multipurpose_Video_Forensics_Network_using_Multiple_Forms_of_Forensic_WACV_2025_paper.html)
-
-
-* [CLIPArTT: Adaptation of CLIP to New Domains at Test Time](https://openaccess.thecvf.com/content/WACV2025/html/Hakim_CLIPArTT_Adaptation_of_CLIP_to_New_Domains_at_Test_Time_WACV_2025_paper.html)
-* [Clarity Amidst Blur: A Deterministic Method for Synthetic Generation of Water Droplets on Camera Lenses](https://openaccess.thecvf.com/content/WACV2025/html/Eberhardt_Clarity_Amidst_Blur_A_Deterministic_Method_for_Synthetic_Generation_of_WACV_2025_paper.html)水滴合成
-
-* [A Realistic Protocol for Evaluation of Weakly Supervised Object Localization](https://openaccess.thecvf.com/content/WACV2025/html/Murtaza_A_Realistic_Protocol_for_Evaluation_of_Weakly_Supervised_Object_Localization_WACV_2025_paper.html)
-
-
-* [Uncertainty Aware Interest Point Detection and Description](https://openaccess.thecvf.com/content/WACV2025/html/Zeng_Uncertainty_Aware_Interest_Point_Detection_and_Description_WACV_2025_paper.html)兴趣点检测与描述
-
-* [Learning Anatomy-Disease Entangled Representation](https://openaccess.thecvf.com/content/WACV2025/html/Haghighi_Learning_Anatomy-Disease_Entangled_Representation_WACV_2025_paper.html)学习解剖学疾病纠缠表征
-
-* [LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts](https://openaccess.thecvf.com/content/WACV2025/html/Cao_LatteCLIP_Unsupervised_CLIP_Fine-Tuning_via_LMM-Synthetic_Texts_WACV_2025_paper.html)
-
-* [PRoGS: Progressive Rendering of Gaussian Splats](https://openaccess.thecvf.com/content/WACV2025/html/Zoomers_PRoGS_Progressive_Rendering_of_Gaussian_Splats_WACV_2025_paper.html)渲染
-
-
-
-6666666
-
-* [SpotDiffusion: A Fast Approach for Seamless Panorama Generation Over Time](https://openaccess.thecvf.com/content/WACV2025/html/Frolov_SpotDiffusion_A_Fast_Approach_for_Seamless_Panorama_Generation_Over_Time_WACV_2025_paper.html)全景图生成
-
-
-* [BIV-Priv-Seg: Locating Private Content in Images Taken by People with Visual Impairments](https://openaccess.thecvf.com/content/WACV2025/html/Tseng_BIV-Priv-Seg_Locating_Private_Content_in_Images_Taken_by_People_with_WACV_2025_paper.html)在视障人士拍摄的图像中定位私人内容
-
-
-* [ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer](https://openaccess.thecvf.com/content/WACV2025/html/Kaltheuner_ROSA_Reconstructing_Object_Shape_and_Appearance_Textures_by_Adaptive_Detail_WACV_2025_paper.html)重建物体形状和外观纹理
-
-
-* [Closing the Domain Gap in Manga Colorization via Aligned Paired Dataset](https://openaccess.thecvf.com/content/WACV2025/html/Golyadkin_Closing_the_Domain_Gap_in_Manga_Colorization_via_Aligned_Paired_WACV_2025_paper.html)漫画着色
-
-
-* [A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production](https://openaccess.thecvf.com/content/WACV2025/html/Hwang_A_Spatio-Temporal_Representation_Learning_as_an_Alternative_to_Traditional_Glosses_WACV_2025_paper.html)手语翻译
-
-
-
-
-* [Improving Zero-Shot Object-Level Change Detection by Incorporating Visual Correspondence](https://openaccess.thecvf.com/content/WACV2025/html/Nguyen_Improving_Zero-Shot_Object-Level_Change_Detection_by_Incorporating_Visual_Correspondence_WACV_2025_paper.html)变化检测
-
-
-* [Attribute Diffusion: Diffusion Driven Diverse Attribute Editing](https://openaccess.thecvf.com/content/WACV2025/html/Parihar_Attribute_Diffusion_Diffusion_Driven_Diverse_Attribute_Editing_WACV_2025_paper.html)多样化属性编辑
-
-
-
-
-* [Solar Multimodal Transformer: Intraday Solar Irradiance Predictor using Public Cameras and Time Series](https://openaccess.thecvf.com/content/WACV2025/html/Niu_Solar_Multimodal_Transformer_Intraday_Solar_Irradiance_Predictor_using_Public_Cameras_WACV_2025_paper.html)
-* [TaCOS: Task-Specific Camera Optimization with Simulation](https://openaccess.thecvf.com/content/WACV2025/html/Yan_TaCOS_Task-Specific_Camera_Optimization_with_Simulation_WACV_2025_paper.html)
-
-
-
-11111
-
-
-
-
-<br>:star:[code]
-<br>:house:[project]
-ASDF
 
 ## 计算成像
 * [FaVoR: Features via Voxel Rendering for Camera Relocalization](https://openaccess.thecvf.com/content/WACV2025/html/Polizzi_FaVoR_Features_via_Voxel_Rendering_for_Camera_Relocalization_WACV_2025_paper.html)
 * [Dense Scene Reconstruction from Light-Field Images Affected by Rolling Shutter](https://openaccess.thecvf.com/content/WACV2025/html/McGriff_Dense_Scene_Reconstruction_from_Light-Field_Images_Affected_by_Rolling_Shutter_WACV_2025_paper.html)光场图像密集场景重建
+* [PrivateEye: In-Sensor Privacy Preservation Through Optical Feature Separation](https://openaccess.thecvf.com/content/WACV2025/html/Boloor_PrivateEye_In-Sensor_Privacy_Preservation_Through_Optical_Feature_Separation_WACV_2025_paper.html)光学
+* [Solar Multimodal Transformer: Intraday Solar Irradiance Predictor using Public Cameras and Time Series](https://openaccess.thecvf.com/content/WACV2025/html/Niu_Solar_Multimodal_Transformer_Intraday_Solar_Irradiance_Predictor_using_Public_Cameras_WACV_2025_paper.html)
+* [TaCOS: Task-Specific Camera Optimization with Simulation](https://openaccess.thecvf.com/content/WACV2025/html/Yan_TaCOS_Task-Specific_Camera_Optimization_with_Simulation_WACV_2025_paper.html)
 
 ## Protecting copyright(保护版权)
+* [Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking](https://openaccess.thecvf.com/content/WACV2025/html/Singh_Towards_Secure_and_Usable_3D_Assets_A_Novel_Framework_for_WACV_2025_paper.html)
 * 图像复制检测
   * [Relational Self-Supervised Distillation with Compact Descriptors for Image Copy Detection](https://openaccess.thecvf.com/content/WACV2025/html/Kim_Relational_Self-Supervised_Distillation_with_Compact_Descriptors_for_Image_Copy_Detection_WACV_2025_paper.html)
 
@@ -397,6 +41,7 @@ ASDF
 * [ColorizeDiffusion: Improving Reference-Based Sketch Colorization with Latent Diffusion Model](https://openaccess.thecvf.com/content/WACV2025/html/Yan_ColorizeDiffusion_Improving_Reference-Based_Sketch_Colorization_with_Latent_Diffusion_Model_WACV_2025_paper.html)
 
 ## Sound//
+* [SoundSil-DS: Deep Denoising and Segmentation of Sound-Field Images with Silhouettes](https://openaccess.thecvf.com/content/WACV2025/html/Tanigawa_SoundSil-DS_Deep_Denoising_and_Segmentation_of_Sound-Field_Images_with_Silhouettes_WACV_2025_paper.html)利用轮廓对声场图像进行深度去噪和分割
 * [NarrAD: Automatic Generation of Audio Descriptions for Movies with Rich Narrative Context](https://openaccess.thecvf.com/content/WACV2025/html/Park_NarrAD_Automatic_Generation_of_Audio_Descriptions_for_Movies_with_Rich_WACV_2025_paper.html)
 * [NowYouSee Me: Context-Aware Automatic Audio Description](http://arxiv.org/abs/2412.10002v1)
 * [EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos](http://arxiv.org/abs/2407.20592)<br>:house:[project](https://aashishrai3799.github.io/EgoSonics/)
@@ -405,6 +50,7 @@ ASDF
 * [Multimodal Interpretable Depression Analysis using Visual Physiological Audio and Textual Data](https://openaccess.thecvf.com/content/WACV2025/html/Kumar_Multimodal_Interpretable_Depression_Analysis_using_Visual_Physiological_Audio_and_Textual_WACV_2025_paper.html)
 * [Unsupervised Video Highlight Detection by Learning from Audio and Visual Recurrence](https://openaccess.thecvf.com/content/WACV2025/html/Islam_Unsupervised_Video_Highlight_Detection_by_Learning_from_Audio_and_Visual_WACV_2025_paper.html)
 * [VioPose: Violin Performance 4D Pose Estimation by Hierarchical Audiovisual Inference](https://openaccess.thecvf.com/content/WACV2025/html/Yoo_VioPose_Violin_Performance_4D_Pose_Estimation_by_Hierarchical_Audiovisual_Inference_WACV_2025_paper.html)
+* [VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos](https://openaccess.thecvf.com/content/WACV2025/html/Lin_VMAs_Video-to-Music_Generation_via_Semantic_Alignment_in_Web_Music_Videos_WACV_2025_paper.html)
 
 ## Transformer//
 * [LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones](https://arxiv.org/abs/2409.03460)
@@ -425,10 +71,11 @@ ASDF
 * [Cross-Task Affinity Learning for Multitask Dense Scene Predictions](https://openaccess.thecvf.com/content/WACV2025/html/Sinodinos_Cross-Task_Affinity_Learning_for_Multitask_Dense_Scene_Predictions_WACV_2025_paper.html)密集场景预测
 
 ## Neural Radiance Fields//
+* [Radiance Field-Based Pose Estimation via Decoupled Optimization Under Challenging Initial Conditions](https://openaccess.thecvf.com/content/WACV2025/html/Lu_Radiance_Field-Based_Pose_Estimation_via_Decoupled_Optimization_Under_Challenging_Initial_WACV_2025_paper.html)
+* [MFNeRF: Memory Efficient NeRF with Mixed-Feature Hash Table](https://openaccess.thecvf.com/content/WACV2025/html/Lee_MFNeRF_Memory_Efficient_NeRF_with_Mixed-Feature_Hash_Table_WACV_2025_paper.html)
 * [GANESH: Generalizable NeRF for Lensless Imaging](http://arxiv.org/abs/2411.04810v1)<br>:star:[code](https://rakesh-123-cryp.github.io/Rakesh.github.io/)
 * [TRNeRF: Restoring Blurry Rolling Shutter and Noisy Thermal Images with Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2025/html/Carmichael_TRNeRF_Restoring_Blurry_Rolling_Shutter_and_Noisy_Thermal_Images_with_WACV_2025_paper.html)
 * [BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2025/html/Saha_BASED_Bundle-Adjusting_Surgical_Endoscopic_Dynamic_Video_Reconstruction_using_Neural_Radiance_WACV_2025_paper.html)
-* [Global-Guided Focal Neural Radiance Field for Large-Scale Scene Rendering](https://openaccess.thecvf.com/content/WACV2025/html/Shao_Global-Guided_Focal_Neural_Radiance_Field_for_Large-Scale_Scene_Rendering_WACV_2025_paper.html)
 * [ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization](https://openaccess.thecvf.com/content/WACV2025/html/Li_ARF-Plus_Controlling_Perceptual_Factors_in_Artistic_Radiance_Fields_for_3D_WACV_2025_paper.html)
 * [Self-Aligning Depth-Regularized Radiance Fields for Asynchronous RGB-D Sequences](https://openaccess.thecvf.com/content/WACV2025/html/Huang_Self-Aligning_Depth-Regularized_Radiance_Fields_for_Asynchronous_RGB-D_Sequences_WACV_2025_paper.html)
 * 新视图合成
@@ -439,8 +86,13 @@ ASDF
   * [MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image Aided Generalizable Neural Radiance Field](https://openaccess.thecvf.com/content/WACV2025/html/Yan_MSI-NeRF_Linking_Omni-Depth_with_View_Synthesis_through_Multi-Sphere_Image_Aided_WACV_2025_paper.html)
   * [FluoNeRF: Fluorescent Novel-View Synthesis under Novel Light Source Colors](https://openaccess.thecvf.com/content/WACV2025/html/Shi_FluoNeRF_Fluorescent_Novel-View_Synthesis_under_Novel_Light_Source_Colors_WACV_2025_paper.html)
   * [SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior](https://openaccess.thecvf.com/content/WACV2025/html/Yu_SGD_Street_View_Synthesis_with_Gaussian_Splatting_and_Diffusion_Prior_WACV_2025_paper.html)
+* 渲染
+  * [Global-Guided Focal Neural Radiance Field for Large-Scale Scene Rendering](https://openaccess.thecvf.com/content/WACV2025/html/Shao_Global-Guided_Focal_Neural_Radiance_Field_for_Large-Scale_Scene_Rendering_WACV_2025_paper.html)
+  * [OccFlowNet: Occupancy Estimation via Differentiable Rendering and Occupancy Flow](https://openaccess.thecvf.com/content/WACV2025/html/Boeder_OccFlowNet_Occupancy_Estimation_via_Differentiable_Rendering_and_Occupancy_Flow_WACV_2025_paper.html)
+  * [PRoGS: Progressive Rendering of Gaussian Splats](https://openaccess.thecvf.com/content/WACV2025/html/Zoomers_PRoGS_Progressive_Rendering_of_Gaussian_Splats_WACV_2025_paper.html)渲染
+  * [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://openaccess.thecvf.com/content/WACV2025/html/Wei_NeuManifold_Neural_Watertight_Manifold_Reconstruction_with_Efficient_and_High-Quality_Rendering_WACV_2025_paper.html)
 
-## Anomaly Detection(异常检测)//
+## Industrial Anomaly Detection(工业缺陷检测)//
 * [SPACE: SPAtial-aware Consistency rEgularization for anomaly detection in Industrial applications](http://arxiv.org/abs/2411.05822v1)
 * [Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination](http://arxiv.org/abs/2411.09558v1)
 * [Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera](http://arxiv.org/abs/2411.10945v1)
@@ -456,6 +108,10 @@ ASDF
   * [Towards Zero-shot 3D Anomaly Localization](http://arxiv.org/abs/2412.04304v1)
 * 异常分割
   * [Towards Accurate Unified Anomaly Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Ma_Towards_Accurate_Unified_Anomaly_Segmentation_WACV_2025_paper.html)
+
+## Anomaly Detection(异常检测)
+* 奇异值检测
+  * [Robust Novelty Detection through Style-Conscious Feature Ranking](https://openaccess.thecvf.com/content/WACV2025/html/Smeu_Robust_Novelty_Detection_through_Style-Conscious_Feature_Ranking_WACV_2025_paper.html)
 * OOD
   * [Exploiting Inter-Sample Information for Long-Tailed Out-of-Distribution Detection](https://openaccess.thecvf.com/content/WACV2025/html/Udayangani_Exploiting_Inter-Sample_Information_for_Long-Tailed_Out-of-Distribution_Detection_WACV_2025_paper.html)
   * [Identity Curvature Laplace Approximation for Improved Out-of-Distribution Detection](https://openaccess.thecvf.com/content/WACV2025/html/Zhdanov_Identity_Curvature_Laplace_Approximation_for_Improved_Out-of-Distribution_Detection_WACV_2025_paper.html)
@@ -471,8 +127,10 @@ ASDF
   * [InvisMark: Invisible and Robust Watermarking for AI-Generated Image Provenance](https://openaccess.thecvf.com/content/WACV2025/html/Xu_InvisMark_Invisible_and_Robust_Watermarking_for_AI-Generated_Image_Provenance_WACV_2025_paper.html)
 * 错误信息检测
   * [Similarity over Factuality: Are we Making Progress on Multimodal Out-of-Context Misinformation Detection?](https://openaccess.thecvf.com/content/WACV2025/html/Papadopoulos_Similarity_over_Factuality_Are_we_Making_Progress_on_Multimodal_Out-of-Context_WACV_2025_paper.html)
+  * [Can Out-of-Domain Data Help to Learn Domain-Specific Prompts for Multimodal Misinformation Detection?](https://openaccess.thecvf.com/content/WACV2025/html/Bhattacharya_Can_Out-of-Domain_Data_Help_to_Learn_Domain-Specific_Prompts_for_Multimodal_WACV_2025_paper.html)错误信息检测
 
 ## Robots(机器人)//
+* [Transferring Foundation Models for Generalizable Robotic Manipulation](https://openaccess.thecvf.com/content/WACV2025/html/Yang_Transferring_Foundation_Models_for_Generalizable_Robotic_Manipulation_WACV_2025_paper.html)机器人操作
 * Avatar
   * [Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities](https://arxiv.org/abs/2409.16147)
   * [DivAvatar: Diverse 3D Avatar Generation with a Single Prompt](https://openaccess.thecvf.com/content/WACV2025/html/Tao_DivAvatar_Diverse_3D_Avatar_Generation_with_a_Single_Prompt_WACV_2025_paper.html)
@@ -500,7 +158,6 @@ ASDF
 * [Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching](http://arxiv.org/abs/2411.15860v1)<br>:star:[code](https://github.com/scy639/Gen2SM)
 * 重识别
   * [DMPT: Decoupled Modality-Aware Prompt Tuning for Multi-Modal Object Re-Identification](https://openaccess.thecvf.com/content/WACV2025/html/Lin_DMPT_Decoupled_Modality-Aware_Prompt_Tuning_for_Multi-Modal_Object_Re-Identification_WACV_2025_paper.html)
-
 
 ## Dataset/Benchmark(数据集/基准)//
 * [SynDRA: Synthetic Dataset for Railway Applications](https://openaccess.thecvf.com/content/WACV2025/html/DAmico_SynDRA_Synthetic_Dataset_for_Railway_Applications_WACV_2025_paper.html)
@@ -577,6 +234,7 @@ ASDF
 * 农业+视觉语言
   * [Leveraging Vision Language Models for Specialized Agricultural Tasks](https://openaccess.thecvf.com/content/WACV2025/html/Arshad_Leveraging_Vision_Language_Models_for_Specialized_Agricultural_Tasks_WACV_2025_paper.html)
   * [AgroGPT: Efficient Agricultural Vision-Language Model with Expert Tuning](https://openaccess.thecvf.com/content/WACV2025/html/Awais_AgroGPT_Efficient_Agricultural_Vision-Language_Model_with_Expert_Tuning_WACV_2025_paper.html)
+  * [Flowering Time Prediction of Wheat from DIA-MS Data](https://openaccess.thecvf.com/content/WACV2025/html/Yang_Flowering_Time_Prediction_of_Wheat_from_DIA-MS_Data_WACV_2025_paper.html)预测小麦开花期
 
 ## Semi/self-supervised learning(半/自监督)//
 * 自监督
@@ -586,8 +244,11 @@ ASDF
 * 半监督
   * [PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots](https://openaccess.thecvf.com/content/WACV2025/html/Yi_PivotAlign_Improve_Semi-Supervised_Learning_by_Learning_Intra-Class_Heterogeneity_and_Aligning_WACV_2025_paper.html)
   * [Defending Against Repetitive Backdoor Attacks on Semi-Supervised Learning through Lens of Rate-Distortion-Perception Trade-Off](https://openaccess.thecvf.com/content/WACV2025/html/Lee_Defending_Against_Repetitive_Backdoor_Attacks_on_Semi-Supervised_Learning_through_Lens_WACV_2025_paper.html)
+* 新类别发现
+  * [Towards On-the-Fly Novel Category Discovery in Dynamic Long-Tailed Distributions](https://openaccess.thecvf.com/content/WACV2025/html/Jung_Towards_On-the-Fly_Novel_Category_Discovery_in_Dynamic_Long-Tailed_Distributions_WACV_2025_paper.html)
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)//
+* [A Multi-Task Supervised Compression Model for Split Computing](https://openaccess.thecvf.com/content/WACV2025/html/Matsubara_A_Multi-Task_Supervised_Compression_Model_for_Split_Computing_WACV_2025_paper.html)
 * KD 
   * [On Explaining Knowledge Distillation: Measuring and Visualising the Knowledge Transfer Process](http://arxiv.org/abs/2412.13943v1)
   * [KDC-MAE: Knowledge Distilled Contrastive Mask Auto-Encoder](https://openaccess.thecvf.com/content/WACV2025/html/Bora_KDC-MAE_Knowledge_Distilled_Contrastive_Mask_Auto-Encoder_WACV_2025_paper.html)
@@ -619,6 +280,7 @@ ASDF
 * 域泛化
   * [ERM++: An Improved Baseline for Domain Generalization](https://openaccess.thecvf.com/content/WACV2025/html/Teterwak_ERM_An_Improved_Baseline_for_Domain_Generalization_WACV_2025_paper.html)
   * [Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization](https://openaccess.thecvf.com/content/WACV2025/html/Efthymiadis_Crafting_Distribution_Shifts_for_Validation_and_Training_in_Single_Source_WACV_2025_paper.html)
+  * [FRAUD-Net: Fraud News Detection using Sample Uncertainty & Domain Aware Generalized Network](https://openaccess.thecvf.com/content/WACV2025/html/Patel_FRAUD-Net_Fraud_News_Detection_using_Sample_Uncertainty__Domain_Aware_WACV_2025_paper.html)
   * [Domain-Generalized Object Anti-Spoofing: Bridging Gaps and Patch Selection for Robust Detection Across Domains](https://openaccess.thecvf.com/content/WACV2025/html/Lee_Domain-Generalized_Object_Anti-Spoofing_Bridging_Gaps_and_Patch_Selection_for_Robust_WACV_2025_paper.html)
   * [Fair Domain Generalization with Heterogeneous Sensitive Attributes Across Domains](https://openaccess.thecvf.com/content/WACV2025/html/Palakkadavath_Fair_Domain_Generalization_with_Heterogeneous_Sensitive_Attributes_Across_Domains_WACV_2025_paper.html)
   * [Domain-Guided Weight Modulation for Semi-Supervised Domain Generalization](https://openaccess.thecvf.com/content/WACV2025/html/Galappaththige_Domain-Guided_Weight_Modulation_for_Semi-Supervised_Domain_Generalization_WACV_2025_paper.html)
@@ -647,12 +309,21 @@ ASDF
 ## Deep Learning
 * [Prior2Posterior: Model Prior Correction for Long-Tailed Learning](http://arxiv.org/abs/2412.16540v1)
 * [SADDLe: Sharpness-Aware Decentralized Deep Learning with Heterogeneous Data](https://openaccess.thecvf.com/content/WACV2025/html/Choudhary_SADDLe_Sharpness-Aware_Decentralized_Deep_Learning_with_Heterogeneous_Data_WACV_2025_paper.html)
+* DNN 
+  * [Guardian of the Ensembles: Introducing Pairwise Adversarially Robust Loss for Resisting Adversarial Attacks in DNN Ensembles](https://openaccess.thecvf.com/content/WACV2025/html/Shukla_Guardian_of_the_Ensembles_Introducing_Pairwise_Adversarially_Robust_Loss_for_WACV_2025_paper.html)
+  * [DARDA: Domain-Aware Real-Time Dynamic Neural Network Adaptation](https://openaccess.thecvf.com/content/WACV2025/html/Rifat_DARDA_Domain-Aware_Real-Time_Dynamic_Neural_Network_Adaptation_WACV_2025_paper.html)动态神经网络
 
 ## GNN/GCN
 * [WiGNet: Windowed Vision Graph Neural Network](https://openaccess.thecvf.com/content/WACV2025/html/Spadaro_WiGNet_Windowed_Vision_Graph_Neural_Network_WACV_2025_paper.html)
 * [SIGNN - Star Identification using Graph Neural Networks](https://openaccess.thecvf.com/content/WACV2025/html/Hepburn-Dickins_SIGNN_-_Star_Identification_using_Graph_Neural_Networks_WACV_2025_paper.html)
 
 # Machine Learning(机器学习)//
+* 度量学习
+  * [Uncertainty-Guided Metric Learning without Labels](https://openaccess.thecvf.com/content/WACV2025/html/Devalraju_Uncertainty-Guided_Metric_Learning_without_Labels_WACV_2025_paper.html)
+* 迁移学习
+  * [Learning Unified Distance Metric Across Diverse Data Distributions with Parameter-Efficient Transfer Learning](https://openaccess.thecvf.com/content/WACV2025/html/Kim_Learning_Unified_Distance_Metric_Across_Diverse_Data_Distributions_with_Parameter-Efficient_WACV_2025_paper.html)
+* 机器遗忘
+  * [Revisiting Machine Unlearning with Dimensional Alignment](https://openaccess.thecvf.com/content/WACV2025/html/Seo_Revisiting_Machine_Unlearning_with_Dimensional_Alignment_WACV_2025_paper.html)
 * 增量学习
   * [Self-Supervised Incremental Learning of Object Representations from Arbitrary Image Sets](https://openaccess.thecvf.com/content/WACV2025/html/Leotescu_Self-Supervised_Incremental_Learning_of_Object_Representations_from_Arbitrary_Image_Sets_WACV_2025_paper.html)
 * 类增量
@@ -676,6 +347,7 @@ ASDF
   * [Tuned Contrastive Learning](https://openaccess.thecvf.com/content/WACV2025/html/Animesh_Tuned_Contrastive_Learning_WACV_2025_paper.html)
   * [Contrastive Learning of Image Representations Guided by Spatial Relations](https://openaccess.thecvf.com/content/WACV2025/html/Servant_Contrastive_Learning_of_Image_Representations_Guided_by_Spatial_Relations_WACV_2025_paper.html)
   * [CATALOG: A Camera Trap Language-Guided Contrastive Learning Model](https://openaccess.thecvf.com/content/WACV2025/html/Santamaria_CATALOG_A_Camera_Trap_Language-Guided_Contrastive_Learning_Model_WACV_2025_paper.html)
+  * [PLReMix: Combating Noisy Labels with Pseudo-Label Relaxed Contrastive Representation Learning](https://openaccess.thecvf.com/content/WACV2025/html/Liu_PLReMix_Combating_Noisy_Labels_with_Pseudo-Label_Relaxed_Contrastive_Representation_Learning_WACV_2025_paper.html)
 * 持续学习
   * [Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation](http://arxiv.org/abs/2411.05663v1)<br>:star:[code](https://github.com/Christina200/Online-LoRA-official.git)
   * [Memory-efficient Continual Learning with Neural Collapse Contrastive](http://arxiv.org/abs/2412.02865v1)
@@ -689,6 +361,12 @@ ASDF
 * 对抗
   * [FAIR-TAT: Improving Model Fairness using Targeted Adversarial Training](https://openaccess.thecvf.com/content/WACV2025/html/Medi_FAIR-TAT_Improving_Model_Fairness_using_Targeted_Adversarial_Training_WACV_2025_paper.html)
   * [PoolAtnRes: Towards Generalisable Differential Morphing Attack Detection](https://openaccess.thecvf.com/content/WACV2025/html/Ramachandra_PoolAtnRes_Towards_Generalisable_Differential_Morphing_Attack_Detection_WACV_2025_paper.html)变形攻击检测
+  * [Knockoff Branch: Model Stealing Attack via Adding Neurons in the Pre-Trained Model](https://openaccess.thecvf.com/content/WACV2025/html/Hung_Knockoff_Branch_Model_Stealing_Attack_via_Adding_Neurons_in_the_WACV_2025_paper.html)
+  * [Low-Frequency Black-Box Backdoor Attack via Evolutionary Algorithm](https://openaccess.thecvf.com/content/WACV2025/html/Qiao_Low-Frequency_Black-Box_Backdoor_Attack_via_Evolutionary_Algorithm_WACV_2025_paper.html)
+  * [Can Adversarial Examples Be Parsed to Reveal Victim Model Information?](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Can_Adversarial_Examples_Be_Parsed_to_Reveal_Victim_Model_Information_WACV_2025_paper.html)
+  * [When Visual State Space Model Meets Backdoor Attacks](https://openaccess.thecvf.com/content/WACV2025/html/Nagaonkar_When_Visual_State_Space_Model_Meets_Backdoor_Attacks_WACV_2025_paper.html)后门攻击
+  * [Pre-Trained Multiple Latent Variable Generative Models are Good Defenders Against Adversarial Attacks](https://openaccess.thecvf.com/content/WACV2025/html/Serez_Pre-Trained_Multiple_Latent_Variable_Generative_Models_are_Good_Defenders_Against_WACV_2025_paper.html)
+
 
 ## Motion Generation(人体运动生成)//
 * [SyncViolinist: Music-Oriented Violin Motion Generation Based on Bowing and Fingering](https://arxiv.org/abs/2412.08343)<br>:star:[code](https://github.com/Kakanat/SyncViolinist)
@@ -705,7 +383,16 @@ ASDF
 * [Mamba-ST: State Space Model for Efficient Style Transfer](https://openaccess.thecvf.com/content/WACV2025/html/Botti_Mamba-ST_State_Space_Model_for_Efficient_Style_Transfer_WACV_2025_paper.html)
 
 ## GAN/Image Synthesis(图像生成)//
+* [Unsupervised Single-Image Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training](https://openaccess.thecvf.com/content/WACV2025/html/Sato_Unsupervised_Single-Image_Intrinsic_Image_Decomposition_with_LiDAR_Intensity_Enhanced_Training_WACV_2025_paper.html)图像分解
+* [ZeroComp: Zero-Shot Object Compositing from Image Intrinsics via Diffusion](https://openaccess.thecvf.com/content/WACV2025/html/Zhang_ZeroComp_Zero-Shot_Object_Compositing_from_Image_Intrinsics_via_Diffusion_WACV_2025_paper.html)
+* [MixDiff: Mixing Natural and Synthetic Images for Robust Self-Supervised Representations](https://openaccess.thecvf.com/content/WACV2025/html/Bafghi_MixDiff_Mixing_Natural_and_Synthetic_Images_for_Robust_Self-Supervised_Representations_WACV_2025_paper.html)合成图像
+* [3D Synthesis for Architectural Design](https://openaccess.thecvf.com/content/WACV2025/html/Tsai_3D_Synthesis_for_Architectural_Design_WACV_2025_paper.html)
 * [ARTIST: Improving the Generation of Text-Rich Images with Disentangled Diffusion Models and Large Language Models](https://openaccess.thecvf.com/content/WACV2025/html/Zhang_ARTIST_Improving_the_Generation_of_Text-Rich_Images_with_Disentangled_Diffusion_WACV_2025_paper.html)
+* [360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation](https://openaccess.thecvf.com/content/WACV2025/html/Wang_360PanT_Training-Free_Text-Driven_360-Degree_Panorama-to-Panorama_Translation_WACV_2025_paper.html)文本驱动的360度全景到全景翻译
+* [Clarity Amidst Blur: A Deterministic Method for Synthetic Generation of Water Droplets on Camera Lenses](https://openaccess.thecvf.com/content/WACV2025/html/Eberhardt_Clarity_Amidst_Blur_A_Deterministic_Method_for_Synthetic_Generation_of_WACV_2025_paper.html)水滴合成
+* [SpotDiffusion: A Fast Approach for Seamless Panorama Generation Over Time](https://openaccess.thecvf.com/content/WACV2025/html/Frolov_SpotDiffusion_A_Fast_Approach_for_Seamless_Panorama_Generation_Over_Time_WACV_2025_paper.html)全景图生成
+* [Attribute Diffusion: Diffusion Driven Diverse Attribute Editing](https://openaccess.thecvf.com/content/WACV2025/html/Parihar_Attribute_Diffusion_Diffusion_Driven_Diverse_Attribute_Editing_WACV_2025_paper.html)多样化属性编辑
+* [DiffQRCoder: Diffusion-Based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement](https://openaccess.thecvf.com/content/WACV2025/html/Liao_DiffQRCoder_Diffusion-Based_Aesthetic_QR_Code_Generation_with_Scanning_Robustness_Guided_WACV_2025_paper.html)美学二维码生成
 * GAN 
   * [WINE : Wavelet-Guided GAN Inversion and Editing for High-Fidelity Refinement](https://openaccess.thecvf.com/content/WACV2025/html/Kim_WINE__Wavelet-Guided_GAN_Inversion_and_Editing_for_High-Fidelity_Refinement_WACV_2025_paper.html)
 * 图像合成
@@ -813,8 +500,12 @@ ASDF
   * [Text Change Detection in Multilingual Documents Using Image Comparison](http://arxiv.org/abs/2412.04137v1)
 * 文本多边形检测
   * [TPD-STR: Text Polygon Detection with Split Transformers](https://openaccess.thecvf.com/content/WACV2025/html/Kim_TPD-STR_Text_Polygon_Detection_with_Split_Transformers_WACV_2025_paper.html)
+* 表结构识别
+  * [Treading Towards Privacy-Preserving Table Structure Recognition](https://openaccess.thecvf.com/content/WACV2025/html/Raja_Treading_Towards_Privacy-Preserving_Table_Structure_Recognition_WACV_2025_paper.html)
 
 # 3D(三维重建\三维视觉)//
+* [NPL-MVPS: Neural Point-Light Multi-View Photometric Stereo](https://openaccess.thecvf.com/content/WACV2025/html/Logothetis_NPL-MVPS_Neural_Point-Light_Multi-View_Photometric_Stereo_WACV_2025_paper.html)多视角光度立体
+* [HybridDepth: Robust Metric Depth Fusion by Leveraging Depth from Focus and Single-Image Priors](https://openaccess.thecvf.com/content/WACV2025/html/Ganj_HybridDepth_Robust_Metric_Depth_Fusion_by_Leveraging_Depth_from_Focus_WACV_2025_paper.html)
 * [LIPIDS: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo](https://arxiv.org/abs/2409.02716)
 * [Instructive3D: Editing Large Reconstruction Models with Text Instructions](http://arxiv.org/abs/2501.04374v1)
 * [Scene-LLM: Extending Language Model for 3D Visual Reasoning](https://openaccess.thecvf.com/content/WACV2025/html/Fu_Scene-LLM_Extending_Language_Model_for_3D_Visual_Reasoning_WACV_2025_paper.html)
@@ -845,6 +536,7 @@ ASDF
   * [PVT: An Implicit Surface Reconstruction Framework via Point Voxel Geometric-Aware Transformer](https://openaccess.thecvf.com/content/WACV2025/html/Fan_PVT_An_Implicit_Surface_Reconstruction_Framework_via_Point_Voxel_Geometric-Aware_WACV_2025_paper.html)
 * 深度估计
   * [GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling](https://arxiv.org/abs/2409.02720)
+  * [MDCN-PS: Monocular-Depth-Guided Coarse Normal Attention for Robust Photometric Stereo](https://openaccess.thecvf.com/content/WACV2025/html/Yamaguchi_MDCN-PS_Monocular-Depth-Guided_Coarse_Normal_Attention_for_Robust_Photometric_Stereo_WACV_2025_paper.html)
   * [Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](http://arxiv.org/abs/2411.04714v1)
   * [MonoPP: Metric-Scaled Self-Supervised Monocular Depth Estimation by Planar-Parallax Geometry in Automotive Applications](http://arxiv.org/abs/2411.19717v1)<br>:star:[code](https://mono-pp.github.io/)
   * [OmniDiffusion: Reformulating 360 Monocular Depth Estimation using Semantic and Surface Normal Conditioned Diffusion](https://openaccess.thecvf.com/content/WACV2025/html/Mohadikar_OmniDiffusion_Reformulating_360_Monocular_Depth_Estimation_using_Semantic_and_Surface_WACV_2025_paper.html)
@@ -883,6 +575,9 @@ ASDF
   * [XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration](https://arxiv.org/abs/2411.18377)
 
 ## Video//
+* [NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding](https://openaccess.thecvf.com/content/WACV2025/html/Weerakoon_NeuroViG_-_Integrating_Event_Cameras_for_Resource-Efficient_Video_Grounding_WACV_2025_paper.html)
+* [MVFNet: Multipurpose Video Forensics Network using Multiple Forms of Forensic Evidence](https://openaccess.thecvf.com/content/WACV2025/html/Nguyen_MVFNet_Multipurpose_Video_Forensics_Network_using_Multiple_Forms_of_Forensic_WACV_2025_paper.html)
+* [GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-Grained Video-Language Learning](https://openaccess.thecvf.com/content/WACV2025/html/Wang_GEXIA_Granularity_Expansion_and_Iterative_Approximation_for_Scalable_Multi-Grained_Video-Language_WACV_2025_paper.html)视频语言学习
 * 视频监控
   * [DashCop: Automated E-Ticket Generation for Two-Wheeler Traffic Violations using Dashcam Videos](https://openaccess.thecvf.com/content/WACV2025/html/Rawat_DashCop_Automated_E-Ticket_Generation_for_Two-Wheeler_Traffic_Violations_using_Dashcam_WACV_2025_paper.html)使用Dashcam视频自动生成两轮车交通违章电子票
 * 视频理解
@@ -990,8 +685,20 @@ ASDF
   * [XPose: Towards Extreme Low Light Hand Pose Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Rosh_XPose_Towards_Extreme_Low_Light_Hand_Pose_Estimation_WACV_2025_paper.html)
 * 婴儿动作生成
   * [Infant Action Generative Modeling](https://openaccess.thecvf.com/content/WACV2025/html/Huang_Infant_Action_Generative_Modeling_WACV_2025_paper.html)
+* 手语翻译
+  * [A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production](https://openaccess.thecvf.com/content/WACV2025/html/Hwang_A_Spatio-Temporal_Representation_Learning_as_an_Alternative_to_Traditional_Glosses_WACV_2025_paper.html)
 
 ## Medical Image Progress(医学影响处理)//
+* [Survival Prediction in Lung Cancer through Multi-Modal Representation Learning](https://openaccess.thecvf.com/content/WACV2025/html/Farooq_Survival_Prediction_in_Lung_Cancer_through_Multi-Modal_Representation_Learning_WACV_2025_paper.html)预测肺癌患者生存率
+* [Physiology-Aware PolySnake for Coronary Vessel Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Ruan_Physiology-Aware_PolySnake_for_Coronary_Vessel_Segmentation_WACV_2025_paper.html)血管分割
+* [TRUST: Time-Domain Residual Unsupervised Stability Technique for Improved Heart Rate Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Ahmad_TRUST_Time-Domain_Residual_Unsupervised_Stability_Technique_for_Improved_Heart_Rate_WACV_2025_paper.html)心率估计
+* [Attention-Guided Masked Autoencoders for Learning Image Representations](https://openaccess.thecvf.com/content/WACV2025/html/Sick_Attention-Guided_Masked_Autoencoders_for_Learning_Image_Representations_WACV_2025_paper.html)
+* [Multi-Aperture Transformers for 3D (MAT3D) Segmentation of Clinical and Microscopic Images](https://openaccess.thecvf.com/content/WACV2025/html/Sohaib_Multi-Aperture_Transformers_for_3D_MAT3D_Segmentation_of_Clinical_and_Microscopic_WACV_2025_paper.html)3D分割
+* [Tumor Synthesis Conditioned on Radiomics](https://openaccess.thecvf.com/content/WACV2025/html/Kim_Tumor_Synthesis_Conditioned_on_Radiomics_WACV_2025_paper.html)肿瘤合成
+* [Data Augmentation for Surgical Scene Segmentation with Anatomy-Aware Diffusion Models](https://openaccess.thecvf.com/content/WACV2025/html/Venkatesh_Data_Augmentation_for_Surgical_Scene_Segmentation_with_Anatomy-Aware_Diffusion_Models_WACV_2025_paper.html)手术场景分割
+* [MFTrans: A Multi-Resolution Fusion Transformer for Robust Tumor Segmentation in Whole Slide Images](https://openaccess.thecvf.com/content/WACV2025/html/Yang_MFTrans_A_Multi-Resolution_Fusion_Transformer_for_Robust_Tumor_Segmentation_in_WACV_2025_paper.html)肿瘤分割
+* [AutoProSAM: Automated Prompting SAM for 3D Multi-Organ Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Li_AutoProSAM_Automated_Prompting_SAM_for_3D_Multi-Organ_Segmentation_WACV_2025_paper.html)3D多器官分割
+* [Learning Anatomy-Disease Entangled Representation](https://openaccess.thecvf.com/content/WACV2025/html/Haghighi_Learning_Anatomy-Disease_Entangled_Representation_WACV_2025_paper.html)学习解剖学疾病纠缠表征
 * [GAUDA: Generative Adaptive Uncertainty-Guided Diffusion-Based Augmentation for Surgical Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Frisch_GAUDA_Generative_Adaptive_Uncertainty-Guided_Diffusion-Based_Augmentation_for_Surgical_Segmentation_WACV_2025_paper.html)手术分割
 * [Endoscopic Scoring and Localization in Unconstrained Clinical Trial Videos](https://openaccess.thecvf.com/content/WACV2025/html/Xiang_Endoscopic_Scoring_and_Localization_in_Unconstrained_Clinical_Trial_Videos_WACV_2025_paper.html)内镜评分和定位
 * [SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Dutta_SAM-Mamba_Mamba_Guided_SAM_Architecture_for_Generalized_Zero-Shot_Polyp_Segmentation_WACV_2025_paper.html)息肉分割
@@ -1083,10 +790,13 @@ ASDF
   * [PVP: Polar Representation Boost for 3D Semantic Occupancy Prediction](https://openaccess.thecvf.com/content/WACV2025/html/Xue_PVP_Polar_Representation_Boost_for_3D_Semantic_Occupancy_Prediction_WACV_2025_paper.html)
 
 ## Biomedical(生物特征识别)//
+* [On Which Data Distribution (Synthetic or Real) We Should Rely for Soft Biometric Classification](https://openaccess.thecvf.com/content/WACV2025/html/A_On_Which_Data_Distribution_Synthetic_or_Real_We_Should_Rely_WACV_2025_paper.html)软生物特征分类
 * 指纹检测
   * [ColFigPhotoAttnNet: Reliable Finger Photo Presentation Attack Detection Leveraging Window-Attention on Color Spaces](https://openaccess.thecvf.com/content/WACV2025/html/Vurity_ColFigPhotoAttnNet_Reliable_Finger_Photo_Presentation_Attack_Detection_Leveraging_Window-Attention_on_WACV_2025_paper.html)
 * 虹膜检测
   * [A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection](https://arxiv.org/abs/2412.07199)
+* 基于虹膜图像的死后间隔估计
+  * [Forensic Iris Image-Based Post-Mortem Interval Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Bhuiyan_Forensic_Iris_Image-Based_Post-Mortem_Interval_Estimation_WACV_2025_paper.html)
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)//
 * [PGRID: Power Grid Reconstruction in Informal Developments Using High-Resolution Aerial Imagery](http://arxiv.org/abs/2412.07944v1)
@@ -1110,8 +820,13 @@ ASDF
   * [Deep Metric Learning for Unsupervised Remote Sensing Change Detection](https://openaccess.thecvf.com/content/WACV2025/html/Bandara_Deep_Metric_Learning_for_Unsupervised_Remote_Sensing_Change_Detection_WACV_2025_paper.html)
   * [DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Remote Sensing Change Detection](https://openaccess.thecvf.com/content/WACV2025/html/Bandara_DDPM-CD_Denoising_Diffusion_Probabilistic_Models_as_Feature_Extractors_for_Remote_WACV_2025_paper.html)
   * [A Mamba-Based Siamese Network for Remote Sensing Change Detection](https://openaccess.thecvf.com/content/WACV2025/html/Paranjape_A_Mamba-Based_Siamese_Network_for_Remote_Sensing_Change_Detection_WACV_2025_paper.html)
+  * [Improving Zero-Shot Object-Level Change Detection by Incorporating Visual Correspondence](https://openaccess.thecvf.com/content/WACV2025/html/Nguyen_Improving_Zero-Shot_Object-Level_Change_Detection_by_Incorporating_Visual_Correspondence_WACV_2025_paper.html)变化检测
+* 稀有动物行为
+  * [Sifting through the Haystack - Efficiently Finding Rare Animal Behaviors in Large-Scale Datasets](https://openaccess.thecvf.com/content/WACV2025/html/Bar_Sifting_through_the_Haystack_-_Efficiently_Finding_Rare_Animal_Behaviors_WACV_2025_paper.html)
+
 
 ## Object Tracking(目标跟踪)//
+* [BroadTrack: Broadcast Camera Tracking for Soccer](https://openaccess.thecvf.com/content/WACV2025/html/Magera_BroadTrack_Broadcast_Camera_Tracking_for_Soccer_WACV_2025_paper.html)
 * [MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation](http://arxiv.org/abs/2411.09551v1)<br>:star:[code](https://github.com/serycjon/MFTIQ)
 * [Improving Accuracy and Generalization for Efficient Visual Tracking](http://arxiv.org/abs/2411.18855v1)
 * [Vision-Based Landing Guidance through Tracking and Orientation Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Ferreira_Vision-Based_Landing_Guidance_through_Tracking_and_Orientation_Estimation_WACV_2025_paper.html)
@@ -1125,8 +840,13 @@ ASDF
   * [EgoPoints: Advancing Point Tracking for Egocentric Videos](http://arxiv.org/abs/2412.04592v1)<br>:star:[code](https://ahmaddarkhalil.github.io/EgoPoints/)
 
 ## Object Detection(目标检测)//
+* [Uncertainty Aware Interest Point Detection and Description](https://openaccess.thecvf.com/content/WACV2025/html/Zeng_Uncertainty_Aware_Interest_Point_Detection_and_Description_WACV_2025_paper.html)兴趣点检测与描述
+* [DT-LSD: Deformable Transformer-Based Line Segment Detection](https://openaccess.thecvf.com/content/WACV2025/html/Janampa_DT-LSD_Deformable_Transformer-Based_Line_Segment_Detection_WACV_2025_paper.html)线段检测
+* [EDMB: Edge Detector with Mamba](https://openaccess.thecvf.com/content/WACV2025/html/Li_EDMB_Edge_Detector_with_Mamba_WACV_2025_paper.html)边缘检测
+* [MVMD: A Multi-View Approach for Enhanced Mirror Detection](https://openaccess.thecvf.com/content/WACV2025/html/Shen_MVMD_A_Multi-View_Approach_for_Enhanced_Mirror_Detection_WACV_2025_paper.html)镜像检测
 * [Recurrence-based Vanishing Point Detection](http://arxiv.org/abs/2412.20666v1)
 * [No Annotations for Object Detection in Art through Stable Diffusion](http://arxiv.org/abs/2412.06286v1)<br>:star:[code](https://github.com/patrick-john-ramos/nada)
+* [Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations](https://openaccess.thecvf.com/content/WACV2025/html/Tschirschwitz_Label_Convergence_Defining_an_Upper_Performance_Bound_in_Object_Recognition_WACV_2025_paper.html)
 * [Bit-Flip Induced Latency Attacks in Object Detection](https://openaccess.thecvf.com/content/WACV2025/html/Sistla_Bit-Flip_Induced_Latency_Attacks_in_Object_Detection_WACV_2025_paper.html)
 * [Multispectral Object Detection Enhanced by Cross-Modal Information Complementary and Cosine Similarity Channel Resampling Modules](https://openaccess.thecvf.com/content/WACV2025/html/Jang_Multispectral_Object_Detection_Enhanced_by_Cross-Modal_Information_Complementary_and_Cosine_WACV_2025_paper.html)
 * [DiL: An Explainable and Practical Metric for Abnormal Uncertainty in Object Detection](https://openaccess.thecvf.com/content/WACV2025/html/Giloni_DiL_An_Explainable_and_Practical_Metric_for_Abnormal_Uncertainty_in_WACV_2025_paper.html)
@@ -1169,6 +889,10 @@ ASDF
   * [CrackStructures and CrackEnsembles: The Power of Multi-View for 2.5D Crack Detection](https://openaccess.thecvf.com/content/WACV2025/html/Benz_CrackStructures_and_CrackEnsembles_The_Power_of_Multi-View_for_2.5D_Crack_WACV_2025_paper.html)
 * 雪检测
   * [A Regional-Level Resource-Saving Model for Winter Road Surface Snow Detection in Extreme Weathers](https://openaccess.thecvf.com/content/WACV2025/html/Zhou_A_Regional-Level_Resource-Saving_Model_for_Winter_Road_Surface_Snow_Detection_WACV_2025_paper.html)
+* 目标定位
+  * [A Realistic Protocol for Evaluation of Weakly Supervised Object Localization](https://openaccess.thecvf.com/content/WACV2025/html/Murtaza_A_Realistic_Protocol_for_Evaluation_of_Weakly_Supervised_Object_Localization_WACV_2025_paper.html)
+* 视觉伪影检测
+  * [MVAD: A Multiple Visual Artifact Detector for Video Streaming](https://openaccess.thecvf.com/content/WACV2025/html/Feng_MVAD_A_Multiple_Visual_Artifact_Detector_for_Video_Streaming_WACV_2025_paper.html)
 
 ## Super Resolution(超分辨率)//
 * [Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution](http://arxiv.org/abs/2501.08819v1)<br>:star:[code](https://github.com/ryanlu2240/Boosting-Diffusion-Guidance-via-Learning-Degradation-Aware-Models-for-Blind-Super-Resolution)
@@ -1232,7 +956,8 @@ ASDF
   * [Flatness Improves Backbone Generalisation in Few-Shot Classification](https://openaccess.thecvf.com/content/WACV2025/html/Li_Flatness_Improves_Backbone_Generalisation_in_Few-Shot_Classification_WACV_2025_paper.html)
 * 多标签分类
   * [Multi-View Factorizing and Disentangling: A Novel Framework for Incomplete Multi-View Multi-Label Classification](https://openaccess.thecvf.com/content/WACV2025/html/Xie_Multi-View_Factorizing_and_Disentangling_A_Novel_Framework_for_Incomplete_Multi-View_WACV_2025_paper.html)
-
+* 开集识别
+  * [Learning Visual-Semantic Hierarchical Attribute Space for Interpretable Open-Set Recognition](https://openaccess.thecvf.com/content/WACV2025/html/Xu_Learning_Visual-Semantic_Hierarchical_Attribute_Space_for_Interpretable_Open-Set_Recognition_WACV_2025_paper.html)
 
 ## Image Progress(图像/视频处理)//
 * 去噪
@@ -1287,8 +1012,16 @@ ASDF
   * [MS-Glance: Bio-Inspired Non-Semantic Context Vectors and their Applications in Supervising Image Reconstruction](https://openaccess.thecvf.com/content/WACV2025/html/Gao_MS-Glance_Bio-Inspired_Non-Semantic_Context_Vectors_and_their_Applications_in_Supervising_WACV_2025_paper.html)
   * [Spk2ImgMamba: Spiking Camera Image Reconstruction with Multi-Scale State Space Models](https://openaccess.thecvf.com/content/WACV2025/html/Yin_Spk2ImgMamba_Spiking_Camera_Image_Reconstruction_with_Multi-Scale_State_Space_Models_WACV_2025_paper.html)
   * [Self-Supervised Learning with Spectral Low-Rank Prior for Hyperspectral Image Reconstruction](https://openaccess.thecvf.com/content/WACV2025/html/He_Self-Supervised_Learning_with_Spectral_Low-Rank_Prior_for_Hyperspectral_Image_Reconstruction_WACV_2025_paper.html)
+* 着色
+  * [eLIR-Net: An Efficient AI Solution for Image Retouching](https://openaccess.thecvf.com/content/WACV2025/html/Zhao_eLIR-Net_An_Efficient_AI_Solution_for_Image_Retouching_WACV_2025_paper.html)图像润色
+  * [Closing the Domain Gap in Manga Colorization via Aligned Paired Dataset](https://openaccess.thecvf.com/content/WACV2025/html/Golyadkin_Closing_the_Domain_Gap_in_Manga_Colorization_via_Aligned_Paired_WACV_2025_paper.html)漫画着色
+* Image Dewarping
+  * [DocMatcher: Document Image Dewarping via Structural and Textual Line Matching](https://openaccess.thecvf.com/content/WACV2025/html/Hertlein_DocMatcher_Document_Image_Dewarping_via_Structural_and_Textual_Line_Matching_WACV_2025_paper.html)
+
 
 ## Image Segmentation(图像分割)
+* [Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models](https://openaccess.thecvf.com/content/WACV2025/html/Chrabaszcz_Aggregated_Attributions_for_Explanatory_Analysis_of_3D_Segmentation_Models_WACV_2025_paper.html)3D分割
+* [GaussianBeV : 3D Gaussian Representation Meets Perception Models for BeV Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Chabot_GaussianBeV__3D_Gaussian_Representation_Meets_Perception_Models_for_BeV_WACV_2025_paper.html)BeV分割
 * [HSDA: High-Frequency Shuffle Data Augmentation for Bird's-Eye-View Map Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Glisson_HSDA_High-Frequency_Shuffle_Data_Augmentation_for_Birds-Eye-View_Map_Segmentation_WACV_2025_paper.html)鸟瞰图分割
 * [EfficientCrackNet: A Lightweight Model for Crack Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Zim_EfficientCrackNet_A_Lightweight_Model_for_Crack_Segmentation_WACV_2025_paper.html)裂纹分割
 * [HSDA: High-frequency Shuffle Data Augmentation for Bird's-Eye-View Map Segmentation](http://arxiv.org/abs/2412.06127v1)<br>:star:[code](https://github.com/Zarhult/HSDA)
@@ -1407,11 +1140,74 @@ ASDF
 * [MAGMA: Manifold Regularization for MAEs](http://arxiv.org/abs/2412.02871v1)<br>:star:[code](https://github.com/adondera/magma)
 * [Advancing Weight and Channel Sparsification with Enhanced Saliency](https://arxiv.org/abs/2502.03658)
 * [Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/abs/2409.14611)
+* [Metric Compatible Training for Online Backfilling in Large-Scale Retrieval](https://openaccess.thecvf.com/content/WACV2025/html/Seo_Metric_Compatible_Training_for_Online_Backfilling_in_Large-Scale_Retrieval_WACV_2025_paper.html)
+* [PULSE: Physiological Understanding with Liquid Signal Extraction](https://openaccess.thecvf.com/content/WACV2025/html/Ahmad_PULSE_Physiological_Understanding_with_Liquid_Signal_Extraction_WACV_2025_paper.html)
+* [CryoMAE: Few-Shot Cryo-EM Particle Picking with Masked Autoencoders](https://openaccess.thecvf.com/content/WACV2025/html/Xu_CryoMAE_Few-Shot_Cryo-EM_Particle_Picking_with_Masked_Autoencoders_WACV_2025_paper.html)
+* [Adaptive and Temporally Consistent Gaussian Surfels for Multi-View Dynamic Reconstruction](https://openaccess.thecvf.com/content/WACV2025/html/Chen_Adaptive_and_Temporally_Consistent_Gaussian_Surfels_for_Multi-View_Dynamic_Reconstruction_WACV_2025_paper.html)
+* [Enriching Local Patterns with Multi-Token Attention for Broad-Sight Neural Networks](https://openaccess.thecvf.com/content/WACV2025/html/Kang_Enriching_Local_Patterns_with_Multi-Token_Attention_for_Broad-Sight_Neural_Networks_WACV_2025_paper.html)
+* [PALO: A Polyglot Large Multimodal Model for 5B People](https://openaccess.thecvf.com/content/WACV2025/html/Rasheed_PALO_A_Polyglot_Large_Multimodal_Model_for_5B_People_WACV_2025_paper.html)
+* [Assessing Visually-Continuous Corruption Robustness of Neural Networks Relative to Human Performance](https://openaccess.thecvf.com/content/WACV2025/html/Shen_Assessing_Visually-Continuous_Corruption_Robustness_of_Neural_Networks_Relative_to_Human_WACV_2025_paper.html)
+* [Cross-Domain and Cross-Dimension Learning for Image-to-Graph Transformers](https://openaccess.thecvf.com/content/WACV2025/html/Berger_Cross-Domain_and_Cross-Dimension_Learning_for_Image-to-Graph_Transformers_WACV_2025_paper.html)
+* [SpiralMLP: A Lightweight Vision MLP Architecture](https://openaccess.thecvf.com/content/WACV2025/html/Mu_SpiralMLP_A_Lightweight_Vision_MLP_Architecture_WACV_2025_paper.html)
+* [Mind the Map! Accounting for Existing Maps When Estimating Online HDMaps from Sensors](https://openaccess.thecvf.com/content/WACV2025/html/Sun_Mind_the_Map_Accounting_for_Existing_Maps_When_Estimating_Online_WACV_2025_paper.html)
+* [Zero-Shot Class Unlearning in CLIP with Synthetic Samples](https://openaccess.thecvf.com/content/WACV2025/html/Kravets_Zero-Shot_Class_Unlearning_in_CLIP_with_Synthetic_Samples_WACV_2025_paper.html)
+* [Revisiting Deep Archetypal Analysis for Phenotype Discovery in High Content Imaging](https://openaccess.thecvf.com/content/WACV2025/html/Wieser_Revisiting_Deep_Archetypal_Analysis_for_Phenotype_Discovery_in_High_Content_WACV_2025_paper.html)
+* [A 0-Shot Self-Attention Mechanism for Accelerated Diagonal Attention](https://openaccess.thecvf.com/content/WACV2025/html/Viti_A_0-Shot_Self-Attention_Mechanism_for_Accelerated_Diagonal_Attention_WACV_2025_paper.html)
+* [Long-Term Ad Memorability: Understanding & Generating Memorable Ads](https://openaccess.thecvf.com/content/WACV2025/html/Si_Long-Term_Ad_Memorability_Understanding__Generating_Memorable_Ads_WACV_2025_paper.html)
+* [Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models](https://openaccess.thecvf.com/content/WACV2025/html/Mukherjee_Crossroads_of_Continents_Automated_Artifact_Extraction_for_Cultural_Adaptation_with_WACV_2025_paper.html)
+* [A Two-Head Loss Function for Deep Average-K Classification](https://openaccess.thecvf.com/content/WACV2025/html/Garcin_A_Two-Head_Loss_Function_for_Deep_Average-K_Classification_WACV_2025_paper.html)
+* [Neural Graph Map: Dense Mapping with Efficient Loop Closure Integration](https://openaccess.thecvf.com/content/WACV2025/html/Bruns_Neural_Graph_Map_Dense_Mapping_with_Efficient_Loop_Closure_Integration_WACV_2025_paper.html)
 * [Learning to Count from Pseudo-Labeled Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Xu_Learning_to_Count_from_Pseudo-Labeled_Segmentation_WACV_2025_paper.html)
 * [Recognizing Unseen States of Unknown Objects by Leveraging Knowledge Graphs](https://openaccess.thecvf.com/content/WACV2025/html/Gouidis_Recognizing_Unseen_States_of_Unknown_Objects_by_Leveraging_Knowledge_Graphs_WACV_2025_paper.html)
 * [ReC-TTT: Contrastive Feature Reconstruction for Test-Time Training](https://openaccess.thecvf.com/content/WACV2025/html/Colussi_ReC-TTT_Contrastive_Feature_Reconstruction_for_Test-Time_Training_WACV_2025_paper.html)
 * [Cross-Aligned Fusion for Multimodal Understanding](https://openaccess.thecvf.com/content/WACV2025/html/Rajora_Cross-Aligned_Fusion_for_Multimodal_Understanding_WACV_2025_paper.html)
 * [GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling](https://openaccess.thecvf.com/content/WACV2025/html/Rong_GStex_Per-Primitive_Texturing_of_2D_Gaussian_Splatting_for_Decoupled_Appearance_WACV_2025_paper.html)
+* [VHS: High-Resolution Iterative Stereo Matching with Visual Hull Priors](https://openaccess.thecvf.com/content/WACV2025/html/Plack_VHS_High-Resolution_Iterative_Stereo_Matching_with_Visual_Hull_Priors_WACV_2025_paper.html)
+* [MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction](https://openaccess.thecvf.com/content/WACV2025/html/Song_MemFusionMap_Working_Memory_Fusion_for_Online_Vectorized_HD_Map_Construction_WACV_2025_paper.html)
+* [Learning the Power of "No": Foundation Models with Negations](https://openaccess.thecvf.com/content/WACV2025/html/Singh_Learning_the_Power_of_No_Foundation_Models_with_Negations_WACV_2025_paper.html)
+* [Disentangle Source and Target Knowledge for Continual Test-Time Adaptation](https://openaccess.thecvf.com/content/WACV2025/html/Ma_Disentangle_Source_and_Target_Knowledge_for_Continual_Test-Time_Adaptation_WACV_2025_paper.html)
+* [LiLMaps: Learnable Implicit Language Maps](https://openaccess.thecvf.com/content/WACV2025/html/Kruzhkov_LiLMaps_Learnable_Implicit_Language_Maps_WACV_2025_paper.html)
+* [SpaGBOL: Spatial-Graph-Based Orientated Localisation](https://openaccess.thecvf.com/content/WACV2025/html/Shore_SpaGBOL_Spatial-Graph-Based_Orientated_Localisation_WACV_2025_paper.html)
+* [SegBuilder: A Semi-Automatic Annotation Tool for Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Reza_SegBuilder_A_Semi-Automatic_Annotation_Tool_for_Segmentation_WACV_2025_paper.html)标注工具
+* [DTA: Dual Temporal-Channel-Wise Attention for Spiking Neural Networks](https://openaccess.thecvf.com/content/WACV2025/html/Kim_DTA_Dual_Temporal-Channel-Wise_Attention_for_Spiking_Neural_Networks_WACV_2025_paper.html)
+* [LumiGauss: Relightable Gaussian Splatting in the Wild](https://openaccess.thecvf.com/content/WACV2025/html/Kaleta_LumiGauss_Relightable_Gaussian_Splatting_in_the_Wild_WACV_2025_paper.html)
+* [Improving Shift Invariance in Convolutional Neural Networks with Translation Invariant Polyphase Sampling](https://openaccess.thecvf.com/content/WACV2025/html/Saha_Improving_Shift_Invariance_in_Convolutional_Neural_Networks_with_Translation_Invariant_WACV_2025_paper.html)
+* [Multi-Spectral Image Color Reproduction](https://openaccess.thecvf.com/content/WACV2025/html/Li_Multi-Spectral_Image_Color_Reproduction_WACV_2025_paper.html)图像颜色再现
+* [Improving Uncertainty Estimation with Confidence-Aware Training Data](https://openaccess.thecvf.com/content/WACV2025/html/Korchagin_Improving_Uncertainty_Estimation_with_Confidence-Aware_Training_Data_WACV_2025_paper.html)
+* [Decomposed Distribution Matching in Dataset Condensation](https://openaccess.thecvf.com/content/WACV2025/html/Malakshan_Decomposed_Distribution_Matching_in_Dataset_Condensation_WACV_2025_paper.html)
+* [Deduce and Select Evidences with Language Models for Training-Free Video Goal Inference](https://openaccess.thecvf.com/content/WACV2025/html/Ee_Deduce_and_Select_Evidences_with_Language_Models_for_Training-Free_Video_WACV_2025_paper.html)
+* [SAND: Enhancing Open-Set Neuron Descriptions through Spatial Awareness](https://openaccess.thecvf.com/content/WACV2025/html/Srinivas_SAND_Enhancing_Open-Set_Neuron_Descriptions_through_Spatial_Awareness_WACV_2025_paper.html)
+* [Harmonizing Attention: Training-Free Texture-Aware Geometry Transfer](https://openaccess.thecvf.com/content/WACV2025/html/Ikuta_Harmonizing_Attention_Training-Free_Texture-Aware_Geometry_Transfer_WACV_2025_paper.html)
+* [SmartKC++: Improving Performance of Smartphone-Based Corneal Topographers](https://openaccess.thecvf.com/content/WACV2025/html/Ganatra_SmartKC_Improving_Performance_of_Smartphone-Based_Corneal_Topographers_WACV_2025_paper.html)
+* [Partial Texture VAE: Color and Texture Encoder for Rock Particle Images](https://openaccess.thecvf.com/content/WACV2025/html/Yamada_Partial_Texture_VAE_Color_and_Texture_Encoder_for_Rock_Particle_WACV_2025_paper.html)
+* [Feature Space Perturbation: A Panacea to Enhanced Transferability Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Khoba_Feature_Space_Perturbation_A_Panacea_to_Enhanced_Transferability_Estimation_WACV_2025_paper.html)
+* [Token Turing Machines are Efficient Vision Models](https://openaccess.thecvf.com/content/WACV2025/html/Jajal_Token_Turing_Machines_are_Efficient_Vision_Models_WACV_2025_paper.html)
+* [MetaVIn: Meteorological and Visual Integration for Atmospheric Turbulence Strength Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Saha_MetaVIn_Meteorological_and_Visual_Integration_for_Atmospheric_Turbulence_Strength_Estimation_WACV_2025_paper.html)大气湍流强度估算
+* [On Neural BRDFs: A Thorough Comparison of State-of-the-Art Approaches](https://openaccess.thecvf.com/content/WACV2025/html/Hofherr_On_Neural_BRDFs_A_Thorough_Comparison_of_State-of-the-Art_Approaches_WACV_2025_paper.html)
+* [Learning Keypoints for Multi-Agent Behavior Analysis using Self-Supervision](https://openaccess.thecvf.com/content/WACV2025/html/Khalil_Learning_Keypoints_for_Multi-Agent_Behavior_Analysis_using_Self-Supervision_WACV_2025_paper.html)
+* [DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing](https://openaccess.thecvf.com/content/WACV2025/html/Dong_DiTAS_Quantizing_Diffusion_Transformers_via_Enhanced_Activation_Smoothing_WACV_2025_paper.html)
+* [SUM: Saliency Unification through Mamba for Visual Attention Modeling](https://openaccess.thecvf.com/content/WACV2025/html/Hosseini_SUM_Saliency_Unification_through_Mamba_for_Visual_Attention_Modeling_WACV_2025_paper.html)
+* [Shift Equivariant Pose Network](https://openaccess.thecvf.com/content/WACV2025/html/Wang_Shift_Equivariant_Pose_Network_WACV_2025_paper.html)
+* [SV-data2vec: Guiding Video Representation Learning with Latent Skeleton Targets](https://openaccess.thecvf.com/content/WACV2025/html/Dozdor_SV-data2vec_Guiding_Video_Representation_Learning_with_Latent_Skeleton_Targets_WACV_2025_paper.html)
+* [An Investigation on LLMs' Visual Understanding Ability using SVG for Image-Text Bridging](https://openaccess.thecvf.com/content/WACV2025/html/Cai_An_Investigation_on_LLMs_Visual_Understanding_Ability_using_SVG_for_WACV_2025_paper.html)
+* [RiemStega: Covariance-Based Loss for Print-Proof Transmission of Data in Images](https://openaccess.thecvf.com/content/WACV2025/html/Cruz_RiemStega_Covariance-Based_Loss_for_Print-Proof_Transmission_of_Data_in_Images_WACV_2025_paper.html)
+* [Rethinking Low-Rank Adaptation in Vision: Exploring Head-Level Responsiveness Across Diverse Tasks](https://openaccess.thecvf.com/content/WACV2025/html/Zhong_Rethinking_Low-Rank_Adaptation_in_Vision_Exploring_Head-Level_Responsiveness_Across_Diverse_WACV_2025_paper.html)
+* [VisualFusion: Enhancing Blog Content with Advanced Infographic Pipeline](https://openaccess.thecvf.com/content/WACV2025/html/Deo_VisualFusion_Enhancing_Blog_Content_with_Advanced_Infographic_Pipeline_WACV_2025_paper.html)
+* [From Visual Explanations to Counterfactual Explanations with Latent Diffusion](https://openaccess.thecvf.com/content/WACV2025/html/Luu_From_Visual_Explanations_to_Counterfactual_Explanations_with_Latent_Diffusion_WACV_2025_paper.html)
+* [Latency Robust Cooperative Perception using Asynchronous Feature Fusion](https://openaccess.thecvf.com/content/WACV2025/html/Wang_Latency_Robust_Cooperative_Perception_using_Asynchronous_Feature_Fusion_WACV_2025_paper.html)
+* [Social EgoMesh Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Scofano_Social_EgoMesh_Estimation_WACV_2025_paper.html)
+* [MENTOR: Human Perception-Guided Pretraining for Increased Generalization](https://openaccess.thecvf.com/content/WACV2025/html/Crum_MENTOR_Human_Perception-Guided_Pretraining_for_Increased_Generalization_WACV_2025_paper.html)
+* [A Conic Transformation Approach for Solving the Perspective-Three-Point Problem](https://openaccess.thecvf.com/content/WACV2025/html/Wu_A_Conic_Transformation_Approach_for_Solving_the_Perspective-Three-Point_Problem_WACV_2025_paper.html)
+* [OT-VP: Optimal Transport-Guided Visual Prompting for Test-Time Adaptation](https://openaccess.thecvf.com/content/WACV2025/html/Zhang_OT-VP_Optimal_Transport-Guided_Visual_Prompting_for_Test-Time_Adaptation_WACV_2025_paper.html)
+* [Per-Pixel Solution of Multispectral Photometric Stereo](https://openaccess.thecvf.com/content/WACV2025/html/Ishihara_Per-Pixel_Solution_of_Multispectral_Photometric_Stereo_WACV_2025_paper.html)
+* [PositiveCoOp: Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations](https://openaccess.thecvf.com/content/WACV2025/html/Rawlekar_PositiveCoOp_Rethinking_Prompting_Strategies_for_Multi-Label_Recognition_with_Partial_Annotations_WACV_2025_paper.html)
+* [NAT: Learning to Attack Neurons for Enhanced Adversarial Transferability](https://openaccess.thecvf.com/content/WACV2025/html/Nakka_NAT_Learning_to_Attack_Neurons_for_Enhanced_Adversarial_Transferability_WACV_2025_paper.html)
+* [VideoGameBunny: Towards Vision Assistants for Video Games](https://openaccess.thecvf.com/content/WACV2025/html/Taesiri_VideoGameBunny_Towards_Vision_Assistants_for_Video_Games_WACV_2025_paper.html)
+* [Diffusion-Based Generative Regularization for Supervised Discriminative Learning](https://openaccess.thecvf.com/content/WACV2025/html/Asakura_Diffusion-Based_Generative_Regularization_for_Supervised_Discriminative_Learning_WACV_2025_paper.html)
+* [CLIPArTT: Adaptation of CLIP to New Domains at Test Time](https://openaccess.thecvf.com/content/WACV2025/html/Hakim_CLIPArTT_Adaptation_of_CLIP_to_New_Domains_at_Test_Time_WACV_2025_paper.html)
+* [BIV-Priv-Seg: Locating Private Content in Images Taken by People with Visual Impairments](https://openaccess.thecvf.com/content/WACV2025/html/Tseng_BIV-Priv-Seg_Locating_Private_Content_in_Images_Taken_by_People_with_WACV_2025_paper.html)在视障人士拍摄的图像中定位私人内容
+* [ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer](https://openaccess.thecvf.com/content/WACV2025/html/Kaltheuner_ROSA_Reconstructing_Object_Shape_and_Appearance_Textures_by_Adaptive_Detail_WACV_2025_paper.html)重建物体形状和外观纹理
+* [LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts](https://openaccess.thecvf.com/content/WACV2025/html/Cao_LatteCLIP_Unsupervised_CLIP_Fine-Tuning_via_LMM-Synthetic_Texts_WACV_2025_paper.html)
 * [Diffusion-Based Particle-DETR for BEV Perception](https://openaccess.thecvf.com/content/WACV2025/html/Nachkov_Diffusion-Based_Particle-DETR_for_BEV_Perception_WACV_2025_paper.html)
 * [DisCo: Discovering Common Affordance from Large Models for Actionable Part Perception](https://openaccess.thecvf.com/content/WACV2025/html/Wen_DisCo_Discovering_Common_Affordance_from_Large_Models_for_Actionable_Part_WACV_2025_paper.html)
 * [WARLearn: Weather-Adaptive Representation Learning](https://openaccess.thecvf.com/content/WACV2025/html/Agarwal_WARLearn_Weather-Adaptive_Representation_Learning_WACV_2025_paper.html)
@@ -1463,7 +1259,6 @@ ASDF
 * [TaxaBind: A Unified Embedding Space for Ecological Applications](http://arxiv.org/abs/2411.00683v1)<br>:star:[code](https://github.com/mvrl/TaxaBind)
 * [Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications](http://arxiv.org/abs/2411.00652v1)<br>:star:[code](https://hahminlew.github.io/changer)
 * [Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field](http://arxiv.org/abs/2411.06365v1)
-* [OccFlowNet: Occupancy Estimation via Differentiable Rendering and Occupancy Flow](https://openaccess.thecvf.com/content/WACV2025/html/Boeder_OccFlowNet_Occupancy_Estimation_via_Differentiable_Rendering_and_Occupancy_Flow_WACV_2025_paper.html)
 * [CLIP-Fusion: A Spatio-Temporal Quality Metric for Frame Interpolation](https://openaccess.thecvf.com/content/WACV2025/html/Cokmez_CLIP-Fusion_A_Spatio-Temporal_Quality_Metric_for_Frame_Interpolation_WACV_2025_paper.html)
 * [Learning Instance-Specific Parameters of Black-Box Models using Differentiable Surrogates](https://openaccess.thecvf.com/content/WACV2025/html/Khondaker_Learning_Instance-Specific_Parameters_of_Black-Box_Models_using_Differentiable_Surrogates_WACV_2025_paper.html)
 * [Seeing Eye to AI: Comparing Human Gaze and Model Attention in Video Memorability](https://openaccess.thecvf.com/content/WACV2025/html/Kumar_Seeing_Eye_to_AI_Comparing_Human_Gaze_and_Model_Attention_WACV_2025_paper.html)
@@ -1498,8 +1293,8 @@ ASDF
 * [An Encoder-Agnostic Weakly Supervised Method for Describing Textures](https://openaccess.thecvf.com/content/WACV2025/html/Mao_An_Encoder-Agnostic_Weakly_Supervised_Method_for_Describing_Textures_WACV_2025_paper.html)
 * [Deciphering the Complaint Aspects: Towards an Aspect-Based Complaint Identification Model with Video Complaint Dataset in Finance](https://openaccess.thecvf.com/content/WACV2025/html/Das_Deciphering_the_Complaint_Aspects_Towards_an_Aspect-Based_Complaint_Identification_Model_WACV_2025_paper.html)
 * [DarSwin-Unet: Distortion Aware Architecture](https://openaccess.thecvf.com/content/WACV2025/html/Athwale_DarSwin-Unet_Distortion_Aware_Architecture_WACV_2025_paper.html)
+* [Make VLM Recognize Visual Hallucination on Cartoon Character Image with Pose Information](https://openaccess.thecvf.com/content/WACV2025/html/Kim_Make_VLM_Recognize_Visual_Hallucination_on_Cartoon_Character_Image_with_WACV_2025_paper.html)
 
-aaaaa 
 <a name="0"/>
 
 ## 2020 年论文分类汇总戳这里
