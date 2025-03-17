@@ -43,7 +43,7 @@
 |[1.Othere(其它)](#1)|[2.Face(人脸)](#2)|[3.Image Segmentation(图像分割)](#3)|[4.Image Progress(图像/视频处理)](#4)|
 |[5.Image Classification(图像分类)](#5)|[6.Image/video Compression(图像/视频压缩)](#6)|[7.Image Captioning(图像字幕)](#7)|[8.Image/Video Retrieval(图像/视频检索)](#8)|
 |[9.SR(超分辨率)](#9)|[10.OD(目标检测)](#10)|[11.OT(目标跟踪)](#11)|[12.UAV/RS/Satellite Image(无人机/遥感/卫星图像)](#12)|
-|[13.Biomedical(生物特征识别)](#13)|[14.Autonomous Driving(自动驾驶)](#14)|[15.Medical Image Progress(医学影响处理)](#15)|[16.HPE(人体姿态估计)(#16)|]
+|[13.Biomedical(生物特征识别)](#13)|[14.Autonomous Driving(自动驾驶)](#14)|[15.Medical Image Progress(医学影响处理)](#15)|[16.HPE(人体姿态估计)](#16)|
 |[17.Action Detection(动作检测)](#17)|[18.Person Re-id(行人重识别)](#18)|[19.Video](#19)|[20.Point Cloud(点云)](#20)|
 |[21.3D(三维重建\三维视觉)](#21)|[22.OCR](#22)|[23.VQA(视觉问答)](#23)|[24.GAN/Image Synthesis(图像生成)](#24)|
 |[25.Style Transfer(风格迁移)](#25)|[26.Motion Generation(人体运动生成)](#26)|[27.Machine Learning(机器学习)](#27)|[28.GNN/GCN](#28)|
