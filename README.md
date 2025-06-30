@@ -2,14 +2,15 @@
 ![Alt text](71b01f14605d807ad78d267e5528243.jpg)
 ## 会议时间：2025年2月28日–3月4日
 ## 会议网址：https://wacv2025.thecvf.com/
-## ❣❣❣ WACV 2024 论文分类整理已更新完毕
 
 
-## 查看2024年综述文献点这里↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys)
+
+## 查看2025年综述文献点这里↘️[2025-CV-Surveys](https://github.com/52CV/CV-Surveys)
 
 ## 2025 年论文分类汇总戳这里
 ↘️[WACV-2025-Papers](https://github.com/52CV/WACV-2025-Papers)
 ↘️[CVPR-2025-Papers](https://github.com/52CV/CVPR-2025-Papers)
+↘️[ICCV-2025-Papers](https://github.com/52CV/ICCV-2025-Papers)
 
 ## 2024 年论文分类汇总戳这里
 ↘️[WACV-2024-Papers](https://github.com/52CV/WACV-2024-Papers)
